@@ -1,0 +1,24 @@
+# fasta or genbank files or txt files I created that are list:
+*.fna
+*.faa
+*.fasta
+*.gbff
+*.prots
+
+#exclude blast dbs
+*.pin
+*.phr
+*.psq
+*.psd
+*.pog
+*.psi
+*.nin
+*.nhr
+*.nsq
+*.nsd
+*.nog
+*.nsi
+#exclude blast results
+*.blast
+
+
