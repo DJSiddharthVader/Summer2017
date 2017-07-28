@@ -1,0 +1,13 @@
+HistoryId: NCID_1_60952871_130.14.18.48_5555_1499957381_1441603699_0MetA0_S_HStore
+QueryKey: 9
+ReleaseType: GenBank
+FileType: genomic.gbff.gz
+Flat: true
+
+Query title: Search txid1386[Organism:exp] AND latest[filter] AND "complete genome"[filter] AND all[filter] NOT anomalous[filter]  Sort by: SORTORDER
+Search results count: 341
+Entries to download: 341
+
+genomic.gbff.gz files in archive: 341
+Total size (bytes): 1045353297
+Total time: 38.1 seconds

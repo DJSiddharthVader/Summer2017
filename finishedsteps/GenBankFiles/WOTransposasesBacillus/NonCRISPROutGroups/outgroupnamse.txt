@@ -1,0 +1,7 @@
+#genera outgroups related to bacillus but without CRISPR genes 
+Halobacillus 
+Ornithinibacillus
+Psychrobacillus
+Thakassibacillus
+Aquibacillus
+Anaerobacillus

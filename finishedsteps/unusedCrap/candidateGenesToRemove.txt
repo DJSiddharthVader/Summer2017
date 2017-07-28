@@ -1,0 +1,1995 @@
+-------------------------------------TO REMOVE-------------------------------------------------------------------------
+> CP012025 ;   BSM4216_0343 transposaseIS605 family AKP45705.1
+> CP001880 ;   BpOF4_21924 conserved transposon related protein ADC52380.1
+> CP007617 ;   DJ48_5335 viral (Super1) RNA helicase family protein AIK31379.1
+> CP007625 ;   DJ92_1492 viral (Super1) RNA helicase family protein AIK39885.1
+> CP007665 ;   DJ46_3299 viral (Super1) RNA helicase family protein AIK65860.1
+> CP009940 ;   NT98_1035 viral (Super1) RNA helicase family protein AIY75627.1
+> CP009299 ;   AW22_238 viral (Super1) RNA helicase family protein AJG58830.1
+> CP009317 ;   AS54_4447 viral (Super1) RNA helicase family protein AJG55610.1
+> CP009324 ;   BD64_1071 viral (Super1) RNA helicase family protein AJG64008.1
+> CP009326 ;   BF39_3217 viral (Super1) RNA helicase family protein AJG80291.1
+> CP009329 ;   BF37_2654 viral (Super1) RNA helicase family protein AJG70938.1
+> CP009333 ;   BF38_148 viral (Super1) RNA helicase family protein AJG79065.1
+> CP009333 ;   BF38_6172 viral (Super1) RNA helicase family protein AJG73674.1
+> CP009339 ;   BG02_1604 viral (Super1) RNA helicase family protein AJG87928.1
+> CP009368 ;   BG03_801 viral (Super1) RNA helicase family protein AJG96524.1
+> CP009462 ;   BF31_2266 viral (Super1) RNA helicase family protein AJH26572.1
+> CP009475 ;   BF26_4069 viral (Super1) RNA helicase family protein AJH36681.1
+> CP009689 ;   BG05_1632 viral (Super1) RNA helicase family protein AJH21869.1
+> CP009540 ;   AW20_3905 viral (Super1) RNA helicase family protein AJH48407.1
+> CP009542 ;   BG01_743 viral (Super1) RNA helicase family protein AJH53879.1
+> CP009698 ;   BF89_3610 viral (Super1) RNA helicase family protein AJH57252.1
+> CP009695 ;   BF90_2355 viral (Super1) RNA helicase family protein AJH42908.1
+> CP009595 ;   BG11_4826 viral (Super1) RNA helicase family protein AJH61627.1
+> CP009597 ;   AK39_735 viral (Super1) RNA helicase family protein AJI00600.1
+> CP009589 ;   AQ16_3629 viral (Super1) RNA helicase family protein AJI03815.1
+> CP009599 ;   BF32_1987 viral (Super1) RNA helicase family protein AJH70762.1
+> CP009627 ;   BF35_3756 viral (Super1) RNA helicase family protein AJH73644.1
+> CP009634 ;   AK40_2977 viral (Super1) RNA helicase family protein AJI09310.1
+> CP009646 Bacillus thuringiensis str. Al Hakam;   BG07_3445 viral (Super1) RNA helicase family protein AJI17983.1
+> CP009709 ;   BF29_858 viral (Super1) RNA helicase family protein AJH77574.1
+> CP009717 ;   BF36_635 viral (Super1) RNA helicase family protein AJH82615.1
+> CP009900 ;   BF27_3098 viral (Super1) RNA helicase family protein AJH90326.1
+> CP009917 ;   BG04_1607 viral (Super1) RNA helicase family protein AJI21925.1
+> CP009979 ;   BF25_310 viral (Super1) RNA helicase family protein AJH91667.1
+> CP010087 ;   BG06_3580 viral (Super1) RNA helicase family protein AJI35845.1
+> CP010320 ;   BF24_2065 viral (Super1) RNA helicase family protein AJI38957.1
+> CP009316 ;   AS53_864 viral (Super1) RNA helicase family protein AJG50561.1
+> CP009344 ;   AS86_5098 viral (Super1) RNA helicase family protein AJH05989.1
+> CP009603 ;   BF33_5412 viral (Super1) RNA helicase family protein AJK35867.1
+> CP017314 ;   BSBS38_00831 Retrotransposon-like protein AOR97132.1
+> HG514500 Bacillus velezensis NAU-B3;   BAPNAU_0476 putative 37,1 kDa protein in transposon TN4556 CDH94257.1
+> CP010112 ;   NF53_2875 37.1 kDa protein in transposon AKR35953.1
+> HE617159 Bacillus velezensis CAU B946;   BACAU_0471 putative 37.1 kDa protein in transposon TN4556 CCF04005.1
+> HE774679 Bacillus velezensis YAU B9601-Y2;   BANAU_0464 putative 37,1 kDa protein in transposon TN4556 CCG48486.1
+> AE016878 ;   BC_1529 DNA polymerase, bacteriophage-type AAP08509.1
+> AE017195 ;   BCE_0414 Bacteriophage phi-105 protein-like protein AAS39350.1
+> AL009126 ;   yoeC BSU18390 putative bacteriophage integrase CAB13722.2
+> AL009126 ;   yozM BSU18960 putative bacteriophage protein CAB13788.1
+> AL009126 ;   ligB BSU20500 bacteriophage SPbeta DNA ligase CAB13942.1
+> AL009126 ;   bhlB BSU21430 holin-like bacteriophage SPbeta protein CAB14061.1
+> AL009126 ;   yxkA BSU38870 putative bacteriophage protein CAB15913.1
+> AP006627 ;   ABC2806 bacteriophage SPBc2 related protein BAD65340.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03519 hypothetical phagelike protein AAU25053.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03517 hypothetical phagelike protein AAU25054.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03514 hypothetical phagelike protein AAU25057.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03510 putative phagelike major tail protein AAU25062.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03507 hypothetical phagelike protein AAU25065.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03506 hypothetical phagelike protein AAU25066.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03505 hypothetical phagelike protein AAU25067.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03504 hypothetical phagelike protein AAU25068.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03502 hypothetical phagelike protein AAU25070.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL05344 hypothetical phagelike protein AAU25071.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03499 hypothetical phagelike protein AAU25076.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03495 hypothetical phagelike protein AAU25079.2
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03494 hypothetical phagelike protein AAU25080.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03493 hypothetical phagelike protein AAU25081.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03492 hypothetical phagelike protein AAU25082.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03491 hypothetical phagelike protein AAU25083.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03485 hypothetical phagelike protein AAU25091.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03621 hypothetical phagelike protein AAU25092.1
+> CP000229 ;   BCQ_PT05 bacteriophage 186 Orf81-like protein ACM15967.1
+> CP000813 ;   xkdN2 BPUM_2757 putative bacteriophage protein ABV63413.1
+> CP002183 ;   BSUW23_09480 bateriophage-related protein ADM37942.1
+> CP002183 ;   BSUW23_09525 bacteriophage-related protein ADM37951.1
+> CP002183 ;   yoeC BSUW23_09785 putative bacteriophage integrase ADM38003.1
+> CP002207 ;   BATR1942_07285 putative bacteriophage integrase ADP32407.1
+> CP002207 ;   BATR1942_21135 immunity anti-repressor conserved in prophages ADP35142.1
+> CP002468 ;   BSn5_00555 putative bacteriophage integrase ADV92745.1
+> CP002627 ;   yozM1 BAMTA208_11205 bacteriophage protein AEB24406.1
+> CP002627 ;   lysA3 BAMTA208_15275 bacteriophage P7 related protein AEB25212.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   gp15 BAMF_0585 Protein Gp15 of bacteriophage Spp1 CBI41711.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   ligB BAMF_0926 bacteriophage SPbeta DNA ligase CBI42052.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   yozM1 BAMF_1274 putative bacteriophage protein CBI42400.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   lysA3 BAMF_2889 bacteriophage P7 related protein CBI44015.1
+> CP002635 ;   gp15 LL3_00625 Protein Gp15 of bacteriophage Spp1 AEB62172.1
+> CP002635 ;   yozM LL3_01284 putative bacteriophage protein AEB62826.1
+> CP002927 ;   yozM BAXH7_02289 putative bacteriophage protein AEK89419.1
+> CP003020 ;   BMWSH_1665 Bacteriophage protein AEN88547.1
+> CP003020 ;   yndL BMWSH_2197 Hypothetical bacteriophage protein AEN89079.1
+> CP002905 ;   GYO_0194 bacteriophage-related protein AEP84936.1
+> CP002905 ;   GYO_0273 bacteriophage-related protein AEP85005.1
+> CP004119 ;   KSO_013665 protein Gp15 of bacteriophage Spp1 AGF28222.1
+> CP005586 ;   B1NLA3E_01085 bacteriophage-related protein AGK52001.1
+> CP003492 ;   MY9_0505 immunity anti-repressor conserved in prophages AFI27044.1
+> CP003492 ;   MY9_2009 bacteriophage integrase AFI28544.1
+> CP003332 ;   MUS_2406 putative phagelike protein AFJ62345.1
+> CP003332 ;   MUS_2414 putative phagelike major tail protein AFJ62348.1
+> CP003332 ;   MUS_2420 putative phagelike protein AFJ62352.1
+> CP003332 ;   MUS_2421 putative phagelike protein AFJ62353.1
+> CP003332 ;   MUS_2936 putative phagelike protein AFJ62838.1
+> CP003332 ;   MUS_2944 putative phagelike major tail protein AFJ62841.1
+> CP003332 ;   MUS_2950 putative phagelike protein AFJ62845.1
+> CP003332 ;   MUS_2951 putative phagelike protein AFJ62846.1
+> CP003760 ;   BTG_05700 bacteriophage DNA methylase AFQ14632.1
+> CP003760 ;   BTG_07120 bacteriophage protein AFQ14906.1
+> CP003783 ;   xkdC B657_12530 Hypothetical protein in PBSX phageelement AFQ57175.1
+> CP003783 ;   yoeC B657_18390 Putative bacteriophage integrase AFQ57774.1
+> CP003783 ;   yozM B657_18960 Putative bacteriophage protein AFQ57835.1
+> CP003783 ;   ligB B657_20500 Bacteriophage SPbeta DNA ligase AFQ57992.1
+> CP003783 ;   bhlB B657_21430 Holin-like bacteriophage SPbeta protein AFQ58090.1
+> CP003783 ;   yxkA B657_38870 Putative bacteriophage protein AFQ59740.1
+> CP003690 ;   MC28_5173 putative bacteriophage protein AFU16595.1
+> CP003838 ;   B938_06035 protein Gp15 of bacteriophage Spp1 AFZ90233.1
+> CP004019 ;   yozM C663_1948 putative bacteriophage protein AGE63728.1
+> CP004019 ;   yxkA C663_3803 putative bacteriophage protein AGE65503.1
+> CP003329 ;   yoeC BSU6051_18390 putative bacteriophage integrase YoeC AGG61215.1
+> CP003329 ;   yozM BSU6051_18960 putative bacteriophage protein YozM AGG61279.1
+> CP003329 ;   ligB BSU6051_20500 bacteriophage SPbeta DNA ligase LigB AGG61438.1
+> CP003329 ;   bhlB BSU6051_21430 holin-like bacteriophage SPbeta protein BhlB AGG61536.1
+> CP003329 ;   yxkA BSU6051_38870 putative bacteriophage protein YxkA AGG63302.1
+> CP004405 ;   I653_09820 putative bacteriophage protein AGI29213.1
+> CP004405 ;   I653_19080 putative bacteriophage protein AGI31048.1
+> HG328253 Bacillus velezensis UCMB5033;   yoeC RBAU_1824 putative bacteriophage integrase CDG29792.1
+> HG328253 Bacillus velezensis UCMB5033;   ligB RBAU_2060 bacteriophage SPbeta DNA ligase CDG30028.1
+> HG328254 Bacillus velezensis UCMB5113;   yoeC BASU_1806 putative bacteriophage integrase CDG26099.1
+> CP006865 ;   Btoyo_4734 Bacteriophage-related protein AHA10603.1
+> AP012496 ;   yoeC BEST7003_1868 bacteriophage integrase BAM58069.1
+> AP012496 ;   yozM BEST7003_1932 bacteriophage protein BAM58133.1
+> AP012496 ;   yxkA BEST7003_3781 bacteriophage protein BAM59982.1
+> CP006890 ;   V529_22510 putative phagelike major tail protein AHZ16277.1
+> CP007800 ;   immA BSUA_00531 immunity anti-repressor conserved in prophages AIC38851.1
+> CP007800 ;   yoeC BSUA_01978 bacteriophage integrase AIC40263.1
+> CP007800 ;   yozM BSUA_02042 bacteriophage protein AIC40325.1
+> CP007800 ;   bhlB BSUA_02306 holin-like bacteriophage SPbeta protein AIC40586.1
+> CP007800 ;   yxkA BSUA_04126 bacteriophage protein AIC42371.1
+> CP008698 ;   immA BSUB_00531 immunity anti-repressor conserved in prophages AIC43083.1
+> CP008698 ;   yoeC BSUB_01978 bacteriophage integrase AIC44495.1
+> CP008698 ;   yozM BSUB_02042 bacteriophage protein AIC44557.1
+> CP008698 ;   bhlB BSUB_02306 holin-like bacteriophage SPbeta protein AIC44818.1
+> CP008698 ;   yxkA BSUB_04126 bacteriophage protein AIC46602.1
+> CP009749 ;   KS07_09990 bacteriophage-like protein AIW37795.1
+> CP009611 ;   KO64_14395 bacteriophage pf04883 family protein AIW30988.1
+> CP009611 ;   KO64_14405 protein Gp15 of bacteriophage Spp1 AIW30990.1
+> CP009940 ;   NT98_5931 bacteriophage Gp15 family protein AIY72790.1
+> CP009940 ;   NT98_5934 minor capsid from bacteriophage family protein AIY72792.1
+> CP009938 ;   OY17_08990 protein Gp15 of bacteriophage Spp1 AJE78217.1
+> CP009938 ;   OY17_09000 bacteriophage pf04883 family protein AJE78219.1
+> CP009938 ;   OY17_13205 bacteriophage-like protein AJE79014.1
+> AP013294 ;   OXB_2633 prphage-derived uncharacterized protein yold BAQ11104.1
+> CP009299 ;   AW22_5270 bacteriophage Mu Gam like family protein AJG61634.1
+> CP009589 ;   AQ16_5830 minor capsid from bacteriophage family protein AJI02631.1
+> CP009589 ;   AQ16_5833 bacteriophage Gp15 family protein AJI02683.1
+> CP009709 ;   BF29_2540 minor capsid from bacteriophage family protein AJH78189.1
+> CP009709 ;   BF29_2545 bacteriophage Gp15 family protein AJH78520.1
+> CP009709 ;   BF29_2560 bacteriophage Gp111 family protein AJH78449.1
+> CP009709 ;   BF29_2617 minor capsid from bacteriophage family protein AJH79724.1
+> CP009709 ;   BF29_2621 bacteriophage Gp15 family protein AJH79024.1
+> CP009709 ;   BF29_2636 bacteriophage Gp111 family protein AJH79249.1
+> CP010524 ;   SC10_B2orf00963 phagelike major tail protein AJO16829.1
+> CP010524 ;   SC10_B2orf01516 phagelike major tail protein AJO17197.1
+> LN680001 ;   bhlB BS34A_23630 holin-like bacteriophage SPbeta protein BhlB CEJ77777.1
+> LN649259 ;   bhlB BS49_23630 holin-like bacteriophage SPbeta protein BhlB CEI57352.1
+> CP007165 ;   cDC9 AW02_008420 bacteriophage SPbeta DNA ligase AKD28994.1
+> CP007165 ;   AW02_020700 bacteriophage protein AKD30219.1
+> CP007165 ;   AW02_021360 putative phagelike major tail protein AKD30285.1
+> CP007173 ;   xerC AW03_018800 bacteriophage integrase AKD35261.1
+> CP007173 ;   AW03_019270 bacteriophage protein AKD35307.1
+> CP007173 ;   AW03_037400 bacteriophage protein AKD37108.1
+> CP011101 ;   BsLM_2010 bacteriophage protein AKE23808.1
+> CP011347 ;   AAV30_09050 bacteriophage-like protein AKF76289.1
+> CP011347 ;   AAV30_09310 bacteriophage-like protein AKF76340.1
+> CP011939 ;   AB434_3226 Bacteriophage-related protein AKN55631.1
+> LN999830 Bacillus velezensis;   yoeC BAMMD1_1798 putative bacteriophage integrase CUX93702.1
+> AP014928 ;   BTUAT1_25230 Bacteriophage SPP1 complete nucleotide sequence BAT49657.1
+> AP014928 ;   BTUAT1_28280 putative bacteriophage protein BAT49962.1
+> AP014928 ;   xkdT BTUAT1_28290 bacteriophage baseplate assembly protein J BAT49963.1
+> AP014928 ;   BTUAT1_28390 putative bacteriophage protein BAT49973.1
+> CP014487 ;   FORC21_3562 Bacteriophage regulatory protein, Rha family AQQ64357.1
+> CP014487 ;   FORC21_3847 Bacteriophage protein AQQ64642.1
+> CP014487 ;   FORC21_5389 Bacteriophage terminase, large subunit AQQ66184.1
+> CP014843 ;   B14_00840 bacteriophage Mu Gam like protein ARC63865.1
+> CP014793 ;   B34_02260 bacteriophage Mu Gam like protein ARC69676.1
+> CP014794 ;   B37_02528 bacteriophage Mu Gam like protein ARC74578.1
+> CP014794 ;   B37_02968 bacteriophage Mu Gam like protein ARC74993.1
+> CP020814 ;   BkAM31D_02170 Bacteriophage Mu Gam like protein ARK28747.1
+> CP020814 ;   BkAM31D_02415 Minor capsid protein from bacteriophage ARK28795.1
+> CP020814 ;   BkAM31D_02430 Bacteriophage Gp15 protein ARK28798.1
+> CP011252 ;   WV34_03240 protein Gp15 of bacteriophage Spp1 ASF27844.1
+> CP011252 ;   WV34_03250 bacteriophage pf04883 family protein ASF27846.1
+> CP017234 ;   FORC48_2531 Bacteriophage protein ASI83617.1
+> AP013294 ;   OXB_0177 transposaes IS66 BAQ08649.1
+> CP012025 ;   BSM4216_3700 transposaseIS605 family AKP48855.1
+> LN680001 ;   BS34A_19290 Excisionase from transposon Tn916 CEJ77350.1
+> LN649259 ;   BS49_15760 Excisionase from transposon Tn916 CEI56580.1
+> LN649259 ;   BS49_34510 Excisionase from transposon Tn916 CEI58387.1
+> CP012025 ;   BSM4216_3751 transposaseIS605 family AKP48906.1
+> CP012025 ;   BSM4216_0343 transposaseIS605 family AKP45705.1
+> CP012025 ;   BSM4216_3700 transposaseIS605 family AKP48855.1
+> CP001180 ;   BCAH187_C0211 transposition helper protein, IS21 family ACJ82736.1
+> CP012025 ;   BSM4216_3751 transposaseIS605 family AKP48906.1
+> CP012025 ;   BSM4216_3787 transposon ISC1904 protein AKP48939.1
+> AE016878 ;   BC_1910 holin AAP08882.1
+> AE016878 ;   BC_2599 holin AAP09558.1
+> AE016878 ;   BC_3695 holin AAP10624.1
+> AE016879 ;   BA_5690 putative holin AAP29322.1
+> AE017195 ;   BCE_5572 holin, putative AAS44472.1
+> AE017225 ;   BAS5294 holin, putative AAT57581.1
+> AE017333 ;   ywbH BLi04057 holin-like protein YwbH AAU42870.1
+> AE017335 ;   GBAA_5690 putative holin AAT34847.1
+> AL009126 ;   xhlB BSU12800 bacteriophage PBSX holin CAB13137.1
+> AL009126 ;   bhlA BSU21420 bacteriophage SPbeta holin-like protein CAB14060.1
+> AL009126 ;   bhlB BSU21430 holin-like bacteriophage SPbeta protein CAB14061.1
+> AL009126 ;   yqxH BSU25910 putative holin; skin element CAB14532.1
+> AL009126 ;   lrgB BSU28900 antiholin factor CAB14850.1
+> AL009126 ;   lrgA BSU28910 antiholin factor CAB14851.1
+> AL009126 ;   gbsB BSU31050 choline dehydrogenase CAB15083.2
+> AL009126 ;   opuBD BSU33700 choline ABC transporter (permease) CAB15375.1
+> AL009126 ;   opuBB BSU33720 choline ABC transporter (permease) CAB15377.1
+> AL009126 ;   opuBA BSU33730 choline ABC transporter (ATP-binding protein) CAB15378.1
+> AL009126 ;   cidA BSU38320 holin regulator of murein hydrolases CAB15858.1
+> AP006627 ;   ABC0284 choline/glycine betaine transporter BAD62826.1
+> AP006627 ;   ABC2410 choline/glycine betaine transporter BAD64945.1
+> AP006627 ;   ABC3599 choline/glycine betaine transporter BAD66132.1
+> BA000004 ;   BH0967 holin protein BAB04686.1
+> CP000044 ;   BCE33L3408 holin AAU16856.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL03807 holin AAU22903.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   xhlB BL03523 holin AAU23031.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   bhlA BL05140 holin-like protein AAU23112.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL01467 putative choline esterase AAU23616.1
+> CP000002 Bacillus licheniformis DSM 13 = ATCC 14580;   BL05342 holinlike protein AAU25049.1
+> CP000765 Bacillus cytotoxicus NVH 391-98;   Bcer98_0485 choline/carnitine/betaine transporter ABS20840.1
+> CP000765 Bacillus cytotoxicus NVH 391-98;   Bcer98_2582 holin ABS22816.1
+> CP000765 Bacillus cytotoxicus NVH 391-98;   Bcer98_3772 choline/carnitine/betaine transporter ABS23963.1
+> CP000813 ;   BPUM_2533 antiholin LrgB ABV63194.2
+> CP000813 ;   BPUM_2534 antiholin LrgA ABV63195.1
+> CP000813 ;   BPUM_3042 choline ABC transporter permease ABV63696.1
+> CP000813 ;   BPUM_3085 holin ABV63739.1
+> CP000813 ;   BPUM_3486 holin ABV64136.2
+> CP000907 ;   BcerKBAB4_5032 choline/carnitine/betaine transporter ABY46178.1
+> CP001176 ;   xhlB BCB4264_A2636 holin, SPP1 family ACK62367.1
+> CP001176 ;   BCB4264_A3613 holin protein ACK63568.1
+> CP001176 ;   BCB4264_A5564 putative holin ACK61350.1
+> CP001180 ;   xhlB BCAH187_A3984 holin, SPP1 family ACJ79423.1
+> CP001180 ;   BCAH187_A5620 putative holin ACJ77359.1
+> CP001187 ;   BCG9842_B5385 putative holin ACK96110.1
+> CP001214 ;   BAMEG_5737 putative holin ACP17342.1
+> CP001284 ;   BCAH820_5535 putative holin ACK92401.1
+> CP001406 ;   BCA_5591 putative holin ACO30300.1
+> CP001597 ;   BAA_5720 putative holin ACQ46497.1
+> CP001982 Bacillus megaterium DSM 319;   lrgA BMD_0776 antiholin factor LrgA ADF37638.1
+> CP001982 Bacillus megaterium DSM 319;   lrgB BMD_0777 antiholin factor LrgB ADF37639.1
+> CP001990 ;   lrgA BMQ_0775 antiholin factor LrgA ADE67808.1
+> CP001990 ;   lrgB BMQ_0776 antiholin factor LrgA ADE67809.1
+> CP001904 Bacillus thuringiensis BMB171 Bacillus thuringiensis serovar;   BMB171_C3365 holin ADH08175.1
+> CP001904 Bacillus thuringiensis BMB171 Bacillus thuringiensis serovar;   BMB171_C4705 holin-like protein ADH09513.1
+> CP001904 Bacillus thuringiensis BMB171 Bacillus thuringiensis serovar;   BMB171_C5033 antiholin-like protein LrgB ADH09841.1
+> CP001748 ;   plcB BACI_c06850 phosphatdylcholine-specific phospholipase C ADK03399.1
+> CP002183 ;   zhlB BSUW23_06555 bacteriophage PBSX holin ADM37360.1
+> CP002183 ;   BSUW23_09505 bacteriophage holin ADM37947.1
+> CP002183 ;   BSUW23_09510 bacteriophage holin-like protein ADM37948.1
+> CP002183 ;   lrgB BSUW23_14045 antiholin factor ADM38846.1
+> CP002183 ;   lrgA BSUW23_14050 anti-holin factor ADM38847.1
+> CP002183 ;   gbsB BSUW23_15075 choline dehydrogenase ADM39052.1
+> CP002183 ;   opuBD BSUW23_16565 choline ABC transporter (permease) ADM39348.1
+> CP002183 ;   opuBB BSUW23_16575 choline ABC transporter (permease) ADM39350.1
+> CP002183 ;   opuBA BSUW23_16580 choline ABC transporter (ATP-binding protein) ADM39351.1
+> CP002183 ;   cidA BSUW23_18950 holin-like protein ADM39824.1
+> CP002207 ;   BATR1942_04075 bacteriophage PBSX holin ADP31769.1
+> CP002207 ;   BATR1942_12230 antiholin-like protein LrgB ADP33377.1
+> CP002207 ;   BATR1942_13340 choline dehydrogenase ADP33591.1
+> CP002207 ;   BATR1942_14810 choline ABC transporter (permease) ADP33884.1
+> CP002207 ;   BATR1942_14825 choline ABC transporter (ATP-binding protein) ADP33887.1
+> CP002207 ;   BATR1942_17080 holin-like protein ADP34335.1
+> CP002394 ;   Bcell_0306 choline/carnitine/betaine transporter ADU28592.1
+> CP002394 ;   Bcell_1529 choline/carnitine/betaine transporter ADU29792.1
+> CP002394 ;   Bcell_2663 choline/carnitine/betaine transporter ADU30918.1
+> CP002394 ;   Bcell_3188 choline/carnitine/betaine transporter ADU31430.1
+> CP002468 ;   BSn5_03580 putative holin; skin element ADV93346.1
+> CP002468 ;   BSn5_05280 antiholin-like protein LrgB ADV93684.1
+> CP002468 ;   BSn5_06380 choline dehydrogenase ADV93904.1
+> CP002468 ;   BSn5_07755 choline ABC transporter (permease) ADV94177.1
+> CP002468 ;   BSn5_07765 choline ABC transporter (permease) ADV94179.1
+> CP002468 ;   BSn5_07770 choline ABC transporter (ATP-binding protein) ADV94180.1
+> CP002468 ;   BSn5_10150 holin-like protein ADV94650.1
+> CP002468 ;   BSn5_14890 bacteriophage holin ADV95586.1
+> CP002468 ;   BSn5_18415 bacteriophage PBSX holin ADV96289.1
+> CP002510 ;   YBT020_02045 holin ADY19661.1
+> CP002510 ;   YBT020_18000 holin-like protein ADY22830.1
+> CP002510 ;   YBT020_18410 holin-like protein ADY22910.1
+> CP002510 ;   YBT020_24275 holin ADY24082.1
+> CP002510 ;   YBT020_25345 holin-like protein ADY24296.1
+> CP002510 ;   YBT020_27125 antiholin-like protein LrgB ADY24647.1
+> CP001917 ;   CT43_CH1854 holin AEA15538.1
+> CP001917 ;   CT43_CH2350 holin AEA16031.1
+> CP001917 ;   CT43_CH2598 holin AEA16276.1
+> CP001917 ;   CT43_CH3614 holin-like protein AEA17280.1
+> CP001917 ;   CT43_CH3697 holin-like protein AEA17363.1
+> CP001917 ;   CT43_CH4949 holin AEA18606.1
+> CP001917 ;   CT43_CH5161 holin-like protein AEA18817.1
+> CP001917 ;   CT43_CH5480 antiholin-like protein LrgB AEA19133.1
+> CP001917 ;   CT43_P281003 holin-like protein AEA19348.1
+> CP002627 ;   lrgB1 BAMTA208_14190 antiholin-like protein LrgB AEB24999.1
+> CP002627 ;   gbsB BAMTA208_15135 choline dehydrogenase (FAD-dependent) AEB25186.1
+> CP002627 ;   yqxH1 BAMTA208_15280 holin; skin element AEB25213.1
+> CP002627 ;   BAMTA208_16035 holin AEB25359.1
+> CP002627 ;   opuBC BAMTA208_17145 choline ABC transporter (binding protein) AEB25581.1
+> CP002627 ;   cidA BAMTA208_19410 holin-like protein AEB26030.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   xhlB3 BAMF_0865 bacteriophage PBSX holin CBI41991.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   BAMF_0962 putative holin CBI42088.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   lrgB1 BAMF_2693 antiholin-like protein CBI43819.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   gbsB BAMF_2871 choline dehydrogenase (FAD-dependent) CBI43997.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   yqxH1 BAMF_2890 putative holin; skin element CBI44016.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   yqxH3 BAMF_3070 probable holin; Lysis protein CBI44196.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   opuBC BAMF_3229 choline ABC transporter (binding protein) CBI44355.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   cidA BAMF_3669 holin regulator of murein hydrolases CBI44795.1
+> CP002635 ;   yqxH LL3_00639 putative holin; Lysis protein AEB62186.1
+> CP002635 ;   xhlB LL3_00928 bacteriophage PBSX holin AEB62471.1
+> CP002635 ;   lrgB LL3_02976 antiholin-like protein AEB64507.1
+> CP002635 ;   gbsB LL3_03168 choline dehydrogenase (FAD-dependent) AEB64699.1
+> CP002635 ;   yqxH LL3_03347 putative holin; Lysis protein AEB64877.1
+> CP002635 ;   opuB LL3_03512 choline ABC transporter (binding protein) AEB65040.1
+> AP011542 ;   xhlB BSNT_07762 holin BAI84878.1
+> AP011542 ;   lrgB BSNT_09309 antiholin-like protein LrgB BAI86398.1
+> AP011542 ;   opuBD BSNT_09952 choline ABC transporter, membrane protein BAI86978.1
+> AP011542 ;   opuBB BSNT_09954 choline ABC transporter, membrane protein BAI86980.1
+> AP011542 ;   opuBA BSNT_09955 choline ABC transporter, ATP-binding protein BAI86981.1
+> AP011542 ;   ywbH BSNT_10492 holin-like protein BAI87500.1
+> CP002927 ;   xhlB BAXH7_02196 bacteriophage PBSX holin AEK89326.1
+> CP002927 ;   xhlB BAXH7_02312 holin AEK89442.1
+> CP002927 ;   ysbB BAXH7_02905 antiholin-like protein LrgB AEK90029.1
+> CP002927 ;   gbsB BAXH7_03103 choline dehydrogenase AEK90223.1
+> CP002927 ;   opuBD BAXH7_03499 choline transport system permease protein AEK90613.1
+> CP002927 ;   opuBB BAXH7_03501 choline ABC transporter (membrane protein) AEK90615.1
+> CP002927 ;   opuBA BAXH7_03502 choline ABC transporter (ATP-binding protein) AEK90616.1
+> CP002927 ;   ywbH BAXH7_03976 holin-like protein AEK91084.1
+> CP003020 ;   BMWSH_3686 Choline ABC transporter, permease protein AEN90568.1
+> CP003020 ;   opuD2 BMWSH_3879 Choline/carnitine/betaine transporter AEN90760.1
+> CP002905 ;   GYO_0251 putative holin AEP84992.1
+> CP002905 ;   GYO_0330 putative holin AEP85061.1
+> CP002905 ;   GYO_0416 holin AEP85133.1
+> CP002905 ;   GYO_3697 choline transport system permease protein opuBD AEP88272.1
+> CP002905 ;   GYO_3698 choline-binding protein AEP88273.1
+> CP002905 ;   GYO_3699 choline transport system permease protein opuBB AEP88274.1
+> CP002905 ;   GYO_3700 choline transport ATP-binding protein opuBA AEP88275.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_1337 putative holin AEP90306.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_1943 holin family AEP90909.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_3492 choline transport system permease protein opuBD AEP92408.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_3493 choline-binding protein AEP92409.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_3494 choline transport system permease protein opuBB AEP92410.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_3495 choline transport ATP-binding protein opuBA AEP92411.1
+> CP003188 ;   bcf_27315 Antiholin-like protein LrgA AEW58556.1
+> CP003188 ;   bcf_27335 High-affinity choline uptake protein BetT AEW58560.1
+> CP004119 ;   KSO_001310 holin-like protein AGF25765.1
+> CP004119 ;   KSO_006075 antiholin-like protein LrgB AGF26712.1
+> CP004119 ;   KSO_007140 holin AGF26925.1
+> CP004119 ;   KSO_013590 holin Lysis protein AGF28207.1
+> CP005586 ;   B1NLA3E_08330 holin-like protein AGK53428.1
+> CP003492 ;   MY9_1401 bacteriophage PBSX holin AFI27938.1
+> CP003492 ;   MY9_2881 antiholin-like protein LrgB AFI29414.1
+> CP003492 ;   MY9_3418 choline ABC transporter permease AFI29950.1
+> CP003492 ;   MY9_3927 holin-like protein AFI30459.1
+> CP003332 ;   yxaC MUS_0199 holin-like protein AFJ60281.1
+> CP003332 ;   MUS_2398 putative holin AFJ62340.1
+> CP003332 ;   MUS_2927 putative holin AFJ62832.1
+> CP003332 ;   ysbB MUS_3164 antiholin-like protein AFJ63049.1
+> CP003332 ;   ytmP MUS_3285 putative choline kinase AFJ63169.1
+> CP003332 ;   ywbH MUS_4223 holin-like protein AFJ64059.1
+> AP007210 ;   BCN_5365 holin, putative BAL21158.1
+> HE617159 Bacillus velezensis CAU B946;   yqxH3 BACAU_0613 putative holin Lysis protein CCF04147.1
+> HE617159 Bacillus velezensis CAU B946;   xhlB3 BACAU_1812 bacteriophage holin CCF05346.1
+> HE617159 Bacillus velezensis CAU B946;   ysbB BACAU_2611 Antiholin-like protein lrgB CCF06145.1
+> HE617159 Bacillus velezensis CAU B946;   yqxH1 BACAU_2820 putative holin CCF06354.1
+> HE774679 Bacillus velezensis YAU B9601-Y2;   BANAU_1718 holin CCG49739.1
+> HE774679 Bacillus velezensis YAU B9601-Y2;   45 BANAU_2137 putative holin Lysis protein CCG50158.1
+> HE774679 Bacillus velezensis YAU B9601-Y2;   ysbB BANAU_2809 Antiholin-like protein lrgB CCG50830.1
+> CP003751 ;   BCK_08160 antiholin-like protein LrgB AFQ09539.1
+> CP003751 ;   BCK_09735 holin-like protein AFQ09852.1
+> CP003751 ;   BCK_16855 holin-like protein AFQ11269.1
+> CP003760 ;   BTG_00605 holin-like protein AFQ13634.1
+> CP003760 ;   BTG_01010 holin-like protein AFQ13713.1
+> CP003760 ;   BTG_10415 holin AFQ15547.1
+> CP003760 ;   BTG_21185 antiholin-like protein LrgB AFQ17653.1
+> CP003760 ;   BTG_23070 holin-like protein AFQ18026.1
+> CP003769 ;   BTF1_16385 holin-like protein AFQ27448.1
+> CP003769 ;   BTF1_16835 holin-like protein AFQ27538.1
+> CP003769 ;   BTF1_24050 holin-like protein AFQ28975.1
+> CP003769 ;   BTF1_25685 antiholin-like protein LrgB AFQ29300.1
+> CP003783 ;   xhlB B657_12800 Bacteriophage PBSX holin AFQ57207.1
+> CP003783 ;   bhlA B657_21420 Bacteriophage SPbeta holin-like protein AFQ58089.1
+> CP003783 ;   lrgB B657_28900 Antiholin factor AFQ58734.1
+> CP003783 ;   lrgA B657_28910 Antiholin factor AFQ58735.1
+> CP003783 ;   gbsB B657_31050 Choline dehydrogenase AFQ58948.1
+> CP003783 ;   opuBD B657_33700 Choline ABC transporter (permease) AFQ59222.1
+> CP003783 ;   opuBB B657_33720 Choline ABC transporter (permease) AFQ59224.1
+> CP003783 ;   opuBA B657_33730 Choline ABC transporter (ATP-binding protein) AFQ59225.1
+> CP015507 Bacillus oceanisediminis 2691;   A361_03680 choline transporter AND38256.1
+> CP015507 Bacillus oceanisediminis 2691;   A361_04975 choline transporter AND38498.1
+> CP015507 Bacillus oceanisediminis 2691;   A361_07970 holin AND39052.1
+> CP015507 Bacillus oceanisediminis 2691;   A361_08355 holin AND39127.1
+> CP003690 ;   MC28_0797 holin-like protein AFU12219.1
+> CP003690 ;   lrgB MC28_4672 Antiholin-like protein lrgB AFU16094.1
+> CP003898 ;   opuBA BTB_c23120 choline transport ATP-binding protein OpuBA AFV18004.1
+> CP003898 ;   BTB_c24700 holin AFV18158.1
+> CP003898 ;   BTB_c27240 holin AFV18408.1
+> CP003898 ;   cidA1 BTB_c37470 holin-like protein CidA AFV19429.1
+> CP003898 ;   cidA2 BTB_c38290 holin-like protein CidA 2 AFV19511.1
+> CP003898 ;   cidA3 BTB_c53240 holin-like protein CidA 2 AFV20975.1
+> CP003898 ;   lrgB BTB_c56390 antiholin-like protein LrgB AFV21289.1
+> CP003898 ;   lrgA BTB_c56400 antiholin-like protein LrgA AFV21290.1
+> CP003838 ;   B938_06115 putative holin Lysis protein AFZ90249.1
+> CP003838 ;   B938_13405 antiholin-like protein LrgB AFZ91691.1
+> CP003838 ;   B938_18225 holin-like protein AFZ92645.1
+> CP003695 ;   A7A1_2592 Choline transport ATP-binding protein OpuBA AGA23210.1
+> CP003695 ;   A7A1_2591 Choline transport system permease protein OpuBB AGA23209.1
+> CP003695 ;   A7A1_2590 Choline-binding protein precursor OpuBC AGA23208.1
+> CP003695 ;   A7A1_2589 Choline transport system permease protein OpuBD AGA23207.1
+> CP003695 ;   A7A1_3156 Antiholin-like protein LrgA AGA23774.1
+> CP003695 ;   A7A1_3157 Antiholin-like protein LrgB AGA23775.1
+> CP004019 ;   xhlB C663_0622 bacteriophage PBSX holin AGE62469.1
+> CP004019 ;   lrgB C663_2735 antiholin-like protein AGE64488.1
+> CP004019 ;   opuBD C663_3244 choline ABC transporter (permease) AGE64975.1
+> CP004019 ;   opuBB C663_3246 choline ABC transporter (permease) AGE64977.1
+> CP004019 ;   opuBA C663_3247 choline ABC transporter (ATP-binding protein) AGE64978.1
+> CP004019 ;   cidA C663_3740 holin-like protein AGE65444.1
+> CP004075 ;   HD73_4040 holin-like protein CidA 2 AGE79618.1
+> CP004075 ;   HD73_5459 Choline binding protein PcpA AGE81036.1
+> CP004126 ;   H175_ch5574 Antiholin-like protein LrgA AGG04283.1
+> CP004126 ;   H175_ch5578 High-affinity choline uptake protein BetT AGG04287.1
+> HF563562 Bacillus velezensis UCMB5036;   xhlB BAM5036_1197 bacteriophage PBSX holin CCP21244.1
+> HF563562 Bacillus velezensis UCMB5036;   lrgB BAM5036_2534 antiholin factor CCP22564.1
+> HF563562 Bacillus velezensis UCMB5036;   lrgA BAM5036_2535 antiholin factor CCP22565.1
+> HF563562 Bacillus velezensis UCMB5036;   gbsB BAM5036_2725 choline dehydrogenase CCP22746.1
+> HF563562 Bacillus velezensis UCMB5036;   opuBA BAM5036_3019 choline ABC transporter (ATP-binding protein) CCP23034.1
+> HF563562 Bacillus velezensis UCMB5036;   cidA BAM5036_3478 holin regulator of murein hydrolases CCP23484.1
+> CP003329 ;   xhlB BSU6051_12800 bacteriophage PBSX holin XhlB AGG60643.1
+> CP003329 ;   bhlA BSU6051_21420 bacteriophage SPbeta holin-like protein BhlA AGG61535.1
+> CP003329 ;   bhlB BSU6051_21430 holin-like bacteriophage SPbeta protein BhlB AGG61536.1
+> CP003329 ;   yqxH BSU6051_25910 putative holin, skin element YqxH AGG61992.1
+> CP003329 ;   lrgB BSU6051_28900 antiholin factor LrgB AGG62294.1
+> CP003329 ;   lrgA BSU6051_28910 antiholin factor LrgA AGG62295.1
+> CP003329 ;   gbsB BSU6051_31050 choline dehydrogenase GbsB AGG62509.1
+> CP003329 ;   opuBD BSU6051_33700 choline ABC transporter permease OpuBD AGG62782.1
+> CP003329 ;   opuBB BSU6051_33720 choline ABC transporter permease OpuBB AGG62784.1
+> CP003329 ;   cidA BSU6051_38320 holin regulator of murein hydrolases CidA AGG63246.1
+> CP004405 ;   I653_06555 bacteriophage PBSX holin AGI28567.1
+> CP004405 ;   I653_12500 putative holin AGI29747.1
+> CP004405 ;   I653_13800 antiholin-like protein LrgB AGI30007.1
+> CP004405 ;   I653_16340 choline ABC transporter (permease) AGI30508.1
+> CP004405 ;   I653_16350 choline ABC transporter (permease) AGI30510.1
+> CP004405 ;   I653_16355 choline ABC transporter (ATP-binding protein) AGI30511.1
+> CP004405 ;   I653_18800 holin-like protein AGI30994.1
+> CP005965 ;   xhlB1 BaLi_c07120 bacteriophage PBSX holin XhlB-like protein AGN35108.1
+> CP005965 ;   BaLi_c21570 putative choline esterase AGN36515.1
+> CP005965 ;   lrgB1 BaLi_c31170 antiholin factor LrgB AGN37462.1
+> CP005965 ;   lrgA BaLi_c31180 antiholin factor LrgA AGN37463.1
+> CP005965 ;   cidA BaLi_c40670 holin regulator of murein hydrolases AGN38379.1
+> CP005965 ;   lrgB2 BaLi_c40680 anti-holin factor AGN38380.1
+> HG328253 Bacillus velezensis UCMB5033;   yqxH RBAU_0622 putative holin; skin element CDG28595.1
+> HG328253 Bacillus velezensis UCMB5033;   xhlB RBAU_1241 bacteriophage PBSX holin CDG29209.1
+> HG328253 Bacillus velezensis UCMB5033;   RBAU_1783 choline esterase CDG29751.1
+> HG328253 Bacillus velezensis UCMB5033;   lrgB RBAU_2731 antiholin factor CDG30699.1
+> HG328253 Bacillus velezensis UCMB5033;   lrgA RBAU_2732 antiholin factor CDG30700.1
+> HG328253 Bacillus velezensis UCMB5033;   gbsB RBAU_2926 choline dehydrogenase CDG30892.1
+> HG328253 Bacillus velezensis UCMB5033;   opuBA RBAU_3240 choline ABC transporter (ATP-binding protein) CDG31206.1
+> HG328254 Bacillus velezensis UCMB5113;   xhlB BASU_1220 bacteriophage PBSX holin CDG25516.1
+> HG328254 Bacillus velezensis UCMB5113;   BASU_1763 choline esterase CDG26056.1
+> HG328254 Bacillus velezensis UCMB5113;   lrgB BASU_2537 antiholin factor CDG26827.1
+> HG328254 Bacillus velezensis UCMB5113;   lrgA BASU_2538 antiholin factor CDG26828.1
+> HG328254 Bacillus velezensis UCMB5113;   gbsB BASU_2731 choline dehydrogenase CDG27017.1
+> HG328254 Bacillus velezensis UCMB5113;   opuBA BASU_3021 choline ABC transporter (ATP-binding protein) CDG27302.1
+> CP006643 ;   N288_08815 choline transporter AGX03685.1
+> HG514500 Bacillus velezensis NAU-B3;   lrgA BAPNAU_0958 Antiholin-like protein lrgA CDH94739.1
+> HG514500 Bacillus velezensis NAU-B3;   ysbB BAPNAU_0959 Antiholin-like protein lrgB CDH94740.1
+> HG514500 Bacillus velezensis NAU-B3;   BAPNAU_1572 holin CDH95353.1
+> HG514500 Bacillus velezensis NAU-B3;   yqxH BAPNAU_2958 putative holin CDH96738.1
+> HG514500 Bacillus velezensis NAU-B3;   ywbH BAPNAU_3752 holin-like protein CDH97532.1
+> CP006845 ;   U471_26940 antiholin-like protein LrgB AGZ57392.1
+> CP006845 ;   U471_37030 holin regulator of murein hydrolase AGZ58401.1
+> CP006865 ;   Btoyo_2463 Cholinephosphate cytidylyltransferase AHA08439.1
+> CP006865 ;   Btoyo_2464 Choline permease LicB AHA08440.1
+> CP006865 ;   Btoyo_2465 Choline kinase AHA08441.1
+> CP006865 ;   Btoyo_2636 Antiholin-like protein LrgA AHA08611.1
+> CP006865 ;   Btoyo_2640 High-affinity choline uptake protein BetT AHA08615.1
+> CP006865 ;   Btoyo_3523 Choline binding protein A AHA09395.1
+> CP006865 ;   Btoyo_3633 Choline binding protein A AHA09505.1
+> CP006865 ;   Btoyo_3741 Choline binding protein A AHA09613.1
+> CP006865 ;   Btoyo_3882 Choline binding protein A AHA09754.1
+> CP006865 ;   Btoyo_3885 Choline binding protein A AHA09757.1
+> CP006865 ;   Btoyo_4461 Choline binding protein A AHA10331.1
+> CP006881 ;   U712_14295 Antiholin-like protein LrgB AHA78797.1
+> CP006881 ;   U712_14300 Antiholin-like protein LrgA AHA78798.1
+> CP006881 ;   U712_16865 Choline transport system permease protein opuBD AHA79307.1
+> CP006881 ;   U712_16870 Choline-binding protein AHA79308.1
+> CP006881 ;   U712_16875 Choline transport system permease protein opuBB AHA79309.1
+> CP006881 ;   U712_16880 Choline transport ATP-binding protein OpuBA AHA79310.1
+> CP005940 ;   YBT1518_09190 holin AHA71035.1
+> CP005940 ;   YBT1518_20195 holin-like protein AHA73171.1
+> CP005940 ;   YBT1518_20600 holin-like protein AHA73248.1
+> CP005940 ;   YBT1518_27215 holin AHA74548.1
+> CP005940 ;   YBT1518_28565 holin-like protein AHA74816.1
+> CP005940 ;   YBT1518_28660 holin AHA74835.1
+> CP005940 ;   YBT1518_30560 antiholin-like protein LrgB AHA75213.1
+> CP005940 ;   YBT1518_30585 High-affinity choline uptake protein BetT AHA75218.1
+> CP006952 ;   U722_06745 holin AHC41808.1
+> CP006952 ;   U722_09830 holin AHC42391.1
+> CP006952 ;   U722_14060 antiholin AHC43191.1
+> CP006952 ;   U722_16670 choline ABC transporter permease AHC43672.1
+> CP006952 ;   U722_16695 choline ABC transporter permease AHC43677.1
+> CP006952 ;   U722_18950 holin AHC44107.1
+> CP001975 ;   A16R_37780 holin AHE85119.1
+> CP001975 ;   A16R_38170 holin AHE85158.1
+> CP001975 ;   A16R_39360 holin AHE85277.1
+> CP001975 ;   A16R_41320 holin AHE85473.1
+> CP001975 ;   A16R_54150 holin-like protein AHE86728.2
+> CP001975 ;   A16R_57730 antiholin LrgB AHE87085.1
+> CP001972 ;   A16_37350 holin AHE90996.1
+> CP001972 ;   A16_37720 holin AHE91033.1
+> CP001972 ;   A16_38910 holin AHE91152.1
+> CP001972 ;   A16_40800 holin AHE91341.1
+> CP001972 ;   A16_53520 holin-like protein AHE92585.2
+> CP001972 ;   A16_57040 antiholin LrgB AHE92936.1
+> AP012496 ;   xhlB BEST7003_1281 bacteriophage PBSX holin BAM57482.1
+> AP012496 ;   yqxH BEST7003_2453 holin BAM58654.1
+> AP012496 ;   ysbB BEST7003_2766 antiholin-like protein LrgB BAM58967.1
+> AP012496 ;   gbsB BEST7003_2983 choline dehydrogenase BAM59184.1
+> AP012496 ;   opuBD BEST7003_3260 choline ABC transporter permease BAM59461.1
+> AP012496 ;   opuBB BEST7003_3262 choline ABC transporter permease BAM59463.1
+> AP012496 ;   opuBA BEST7003_3263 choline ABC transporter ATP-binding protein BAM59464.1
+> AP012496 ;   ywbH BEST7003_3726 holin-like protein BAM59927.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_01065 holin AHK47807.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_07235 holin AHK48831.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_10285 choline esterase AHK49355.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_14650 antiholin LrgB AHK50111.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_17540 choline ABC transporter permease AHK50597.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_17570 choline ABC transporter permease AHK50602.1
+> CP007244 Bacillus velezensis TrigoCor1448;   AJ82_20070 holin AHK51047.1
+> CP006744 ;   BAPAT_5456 Antiholin-like protein lrgB AHK41576.1
+> CP006744 ;   BAPAT_5457 Antiholin-like protein lrgA AHK41577.1
+> CP007436 ;   BW16_16350 choline ABC transporter permease AHL72870.1
+> CP007436 ;   BW16_16570 holin AHL72912.1
+> CP007436 ;   BW16_18470 holin AHL73282.1
+> CP015729 ;   DA68_13655 holin ANE86652.1
+> CP015729 ;   DA68_14460 holin ANE86808.1
+> CP015729 ;   DA68_14845 holin ANE86885.1
+> CP015729 ;   DA68_21525 holin-like protein ANE88151.1
+> CP015729 ;   DA68_23095 antiholin LrgB ANE88450.1
+> CP015729 ;   DA68_27900 holin ANE89202.1
+> CP006890 ;   V529_18250 holin AHZ15851.1
+> CP006890 ;   V529_22420 holin Lysis protein AHZ16268.1
+> CP006890 ;   ysbB V529_28810 antiholin-like protein LrgB AHZ16907.1
+> CP006890 ;   ywbH V529_38280 holin-like protein AHZ17854.1
+> CP004868 ;   YBT1520_01580 holin, SPP1 family protein AHZ49089.1
+> CP004868 ;   YBT1520_19555 holin-like protein AHZ52523.1
+> CP004868 ;   YBT1520_19970 holin-like protein AHZ52596.1
+> CP004868 ;   YBT1520_27105 holin-like protein AHZ53993.1
+> CP004868 ;   YBT1520_28995 antiholin-like protein LrgB AHZ54363.1
+> CP004868 ;   YBT1520_32551 holin-like protein AHZ55002.1
+> CP007800 ;   xhlB BSUA_01395 bacteriophage PBSX holin AIC39681.1
+> CP007800 ;   bhlA BSUA_02305 bacteriophage SPbeta holin-like protein AIC40585.1
+> CP007800 ;   bhlB BSUA_02306 holin-like bacteriophage SPbeta protein AIC40586.1
+> CP007800 ;   yqxH BSUA_02769 holin; skin element AIC41046.1
+> CP007800 ;   lrgB BSUA_03078 antiholin-like protein LrgB AIC41353.1
+> CP007800 ;   gbsB BSUA_03319 choline dehydrogenase AIC41570.1
+> CP007800 ;   opuBD BSUA_03598 choline ABC transporter permease AIC41846.1
+> CP007800 ;   opuBB BSUA_03600 choline ABC transporter permease AIC41848.1
+> CP007800 ;   opuBA BSUA_03601 choline ABC transporter ATP-binding protein AIC41849.1
+> CP007800 ;   cidA BSUA_04070 holin-like protein AIC42315.1
+> CP008698 ;   xhlB BSUB_01395 bacteriophage PBSX holin AIC43913.1
+> CP008698 ;   bhlA BSUB_02305 bacteriophage SPbeta holin-like protein AIC44817.1
+> CP008698 ;   bhlB BSUB_02306 holin-like bacteriophage SPbeta protein AIC44818.1
+> CP008698 ;   yqxH BSUB_02769 holin; skin element AIC45278.1
+> CP008698 ;   lrgB BSUB_03078 antiholin-like protein LrgB AIC45585.1
+> CP008698 ;   gbsB BSUB_03319 choline dehydrogenase AIC45801.1
+> CP008698 ;   opuBD BSUB_03598 choline ABC transporter permease AIC46077.1
+> CP008698 ;   opuBB BSUB_03600 choline ABC transporter permease AIC46079.1
+> CP008698 ;   opuBA BSUB_03601 choline ABC transporter ATP-binding protein AIC46080.1
+> CP008698 ;   cidA BSUB_04070 holin-like protein AIC46546.1
+> CP007409 ;   Q433_07300 holin AIC97827.1
+> CP007409 ;   Q433_10210 holin AIC98322.1
+> CP007409 ;   Q433_15640 antiholin LrgB AIC99205.1
+> CP007409 ;   Q433_18495 choline ABC transporter permease AIC99675.1
+> CP007409 ;   Q433_18525 choline ABC transporter permease AIC99680.1
+> CP007409 ;   Q433_21090 holin AID00133.1
+> CP003923 ;   BleG1_3166 Choline transport system permease protein opuBB AIC95730.1
+> CP004882 ;   BTK_19480 holin-like protein AIE34944.1
+> CP004882 ;   BTK_19875 holin-like protein AIE35023.1
+> CP004882 ;   BTK_27075 holin-like protein AIE36422.1
+> CP004882 ;   BTK_28850 antiholin-like protein LrgB AIE36761.1
+> CP004882 ;   BTK_32616 holin-like protein AIE37450.1
+> CP004882 ;   BTK_34646 holin, SPP1 family protein AIE36826.1
+> CP007740 ;   opuBA BMMGA3_01135 Choline transport ATP-binding protein OpuBA AIE58717.1
+> CP008712 ;   BcrFT9_02818 holin-like protein AIE80357.1
+> CP008712 ;   BcrFT9_04109 holin-like protein AIE81616.1
+> CP008712 ;   BcrFT9_04368 antiholin-like protein LrgB AIE81872.1
+> CP008848 ;   HYU01_18235 holin AIF57758.1
+> CP008848 ;   HYU01_18415 holin AIF57786.1
+> CP008848 ;   HYU01_18985 holin AIF57885.1
+> CP008848 ;   HYU01_19920 holin AIF58066.1
+> CP008848 ;   HYU01_26090 holin-like protein AIF59207.1
+> CP008848 ;   HYU01_27770 antiholin LrgB AIF59524.1
+> CP012476 ;   DB29_01781 High-affinity choline uptake protein BetT ALA52609.1
+> CP012476 ;   DB29_02624 choline transporter ALA53452.1
+> CP005997 Bacillus subtilis TO-A;   M036_06745 holin AII35289.1
+> CP005997 Bacillus subtilis TO-A;   M036_09985 holin AII35879.1
+> CP005997 Bacillus subtilis TO-A;   M036_12710 holin AII36373.1
+> CP005997 Bacillus subtilis TO-A;   M036_13495 holin AII36473.1
+> CP005997 Bacillus subtilis TO-A;   M036_14615 antiholin AII36642.1
+> CP005997 Bacillus subtilis TO-A;   M036_17245 choline ABC transporter permease AII37116.1
+> CP005997 Bacillus subtilis TO-A;   M036_17295 choline ABC transporter permease AII37121.1
+> CP005997 Bacillus subtilis TO-A;   M036_19615 holin AII37539.1
+> CP007617 ;   lrgB DJ48_4300 antiholin-like protein LrgB AIK30611.1
+> CP007625 ;   lrgB DJ92_2527 antiholin-like protein LrgB AIK39223.1
+> CP007665 ;   lrgB DJ46_4336 antiholin-like protein LrgB AIK64814.1
+> CP008853 ;   BACvac02_3841 holin-like protein AIM07455.1
+> CP008853 ;   BACvac02_3999 holin-like protein AIM07598.1
+> CP008853 ;   BACvac02_5479 holin-like protein AIM08978.1
+> CP008853 ;   BACvac02_5841 antiholin-like protein LrgB AIM09319.1
+> CP008854 ;   BAHan_3949 holin-like protein AIM12932.1
+> CP008854 ;   BAHan_4102 holin-like protein AIM13071.1
+> CP008854 ;   BAHan_5619 holin-like protein AIM14488.1
+> CP008854 ;   BAHan_5991 antiholin-like protein LrgB AIM14831.1
+> CP007614 ;   DF16_orf00020 holin, SPP1 family AIM28436.1
+> CP007614 ;   DF16_orf00378 antiholin-like protein lrgA AIM28794.1
+> CP007614 ;   DF16_orf00767 choline binding protein PcpA AIM29183.1
+> CP007614 ;   DF16_orf00986 holin AIM29402.1
+> CP007614 ;   DF16_orf02274 holin-like protein AIM30689.1
+> CP007614 ;   DF16_orf04894 holin AIM33309.1
+> CP009680 ;   lrgB NG74_02735 Antiholin-like protein LrgB AIU82784.1
+> CP009680 ;   lrgA NG74_02736 Antiholin-like protein LrgA AIU82785.1
+> CP009680 ;   opuBC NG74_03271 Choline-binding protein precursor AIU83282.1
+> CP009680 ;   opuBA NG74_03273 Choline transport ATP-binding protein OpuBA AIU83284.1
+> CP009748 ;   KS08_06565 holin AIW33319.1
+> CP009748 ;   KS08_11090 holin AIW34157.1
+> CP009748 ;   KS08_13950 antiholin LrgB AIW34695.1
+> CP009748 ;   KS08_13955 antiholin LrgA AIW34696.1
+> CP009748 ;   KS08_15080 holin AIW34886.1
+> CP009748 ;   KS08_15785 holin AIW35020.1
+> CP009748 ;   KS08_16875 choline ABC transporter permease AIW35230.1
+> CP009748 ;   KS08_16900 choline ABC transporter permease AIW35235.1
+> CP009748 ;   KS08_19090 holin AIW35647.1
+> CP009749 ;   KS07_06220 holin AIW37080.1
+> CP009749 ;   KS07_09975 holin AIW37792.1
+> CP009749 ;   KS07_13110 antiholin LrgB AIW38386.1
+> CP009749 ;   KS07_13115 antiholin LrgA AIW38387.1
+> CP009749 ;   KS07_15635 choline ABC transporter permease AIW38830.1
+> CP009749 ;   KS07_15660 choline ABC transporter permease AIW38835.1
+> CP009749 ;   KS07_17915 holin AIW39257.1
+> CP009611 ;   KO64_06415 holin AIW29507.1
+> CP009611 ;   KO64_09215 choline esterase AIW30038.1
+> CP009611 ;   KO64_13150 antiholin LrgB AIW30782.1
+> CP009611 ;   KO64_13155 antiholin LrgA AIW30783.1
+> CP009611 ;   KO64_14345 holin AIW30979.1
+> CP009611 ;   KO64_16035 choline ABC transporter permease AIW31295.1
+> CP009611 ;   KO64_16060 choline ABC transporter permease AIW31300.1
+> CP009611 ;   KO64_16090 choline ABC transporter permease AIW31302.1
+> CP009611 ;   KO64_16115 choline ABC transporter permease AIW31307.1
+> CP009611 ;   KO64_18345 holin AIW31728.1
+> CP013001 ;   BTXL6_00785 holin ALL20047.1
+> CP013001 ;   BTXL6_01210 holin ALL20129.1
+> CP013001 ;   BTXL6_03760 holin ALL20616.1
+> CP013001 ;   BTXL6_08420 holin-like protein ALL21481.1
+> CP013001 ;   BTXL6_20385 holin ALL23657.1
+> CP013001 ;   BTXL6_22805 holin ALL24104.1
+> CP009746 ;   bwei_0479 bacteriophage holin family protein AIW83146.1
+> CP009746 ;   bwei_3165 holin family protein AIW85784.1
+> CP009746 ;   bwei_5721 bacteriophage holin family protein AIW88230.1
+> CP009746 ;   bwei_5722 bacteriophage holin family protein AIW88231.1
+> CP009796 ;   opuBA_1 OB04_00998 Choline transport ATP-binding protein OpuBA AIX06664.1
+> CP009796 ;   lrgB OB04_02866 Antiholin-like protein LrgB AIX08517.1
+> CP009796 ;   lrgA OB04_02867 Antiholin-like protein LrgA AIX08518.1
+> CP009796 ;   opuBD OB04_03385 Choline transport system permease protein OpuBD AIX09003.1
+> CP009796 ;   opuBC OB04_03386 Choline-binding protein precursor AIX09004.1
+> CP009796 ;   opuBB OB04_03387 Choline transport system permease protein OpuBB AIX09005.1
+> CP009796 ;   opuBA_2 OB04_03388 Choline transport ATP-binding protein OpuBA AIX09006.1
+> CP010052 ;   QU35_07150 holin AIY92576.1
+> CP010052 ;   QU35_11770 holin AIY93465.1
+> CP010052 ;   QU35_14120 holin AIY93914.1
+> CP010052 ;   QU35_15700 antiholin LrgB AIY94218.1
+> CP010052 ;   QU35_15705 antiholin LrgA AIY94219.1
+> CP010052 ;   QU35_18330 choline ABC transporter permease AIY94690.1
+> CP010052 ;   QU35_18380 choline ABC transporter permease AIY94700.1
+> CP010052 ;   QU35_20705 holin AIY95146.1
+> CP010053 ;   QX56_07145 holin AIY96888.1
+> CP010053 ;   QX56_11760 holin AIY97773.1
+> CP010053 ;   QX56_14110 holin AIY98223.1
+> CP010053 ;   QX56_15690 antiholin LrgB AIY98527.1
+> CP010053 ;   QX56_15695 antiholin LrgA AIY98528.1
+> CP010053 ;   QX56_18320 choline ABC transporter permease AIY99000.1
+> CP010053 ;   QX56_18370 choline ABC transporter permease AIY99010.1
+> CP010053 ;   QX56_20695 holin AIY99456.1
+> CP009940 ;   NT98_1991 putative holin-like protein CidA AIY78239.1
+> CP010075 ;   QR42_12780 antiholin LrgB AIZ62284.1
+> CP010075 ;   QR42_12785 antiholin LrgA AIZ61101.1
+> CP010075 ;   QR42_15330 choline ABC transporter permease AIZ61550.1
+> CP010075 ;   QR42_15550 holin AIZ61590.1
+> CP010075 ;   QR42_17470 holin AIZ62341.1
+> CP010096 ;   BT4G5_01250 holin AJA17605.1
+> CP010096 ;   BT4G5_19185 holin AJA20888.1
+> CP010096 ;   BT4G5_19565 holin AJA20959.1
+> CP010096 ;   BT4G5_25735 holin AJA22107.1
+> CP010096 ;   BT4G5_26985 choline-binding protein A AJA22343.1
+> CP010096 ;   BT4G5_27015 holin-like protein AJA22349.1
+> CP010096 ;   BT4G5_27100 holin AJA22366.1
+> CP010096 ;   BT4G5_28870 antiholin LrgB AJA22700.1
+> CP010096 ;   BT4G5_30100 holin AJA23091.1
+> CP010096 ;   BT4G5_30480 holin AJA23157.1
+> CP010096 ;   BT4G5_30780 holin AJA23204.1
+> CP010096 ;   BT4G5_33940 holin AJA23801.1
+> CP010406 ;   SB24_00380 holin AJC23707.1
+> CP010406 ;   SB24_03380 holin AJC24279.1
+> CP010406 ;   SB24_03845 holin AJC24369.1
+> CP010406 ;   SB24_10955 holin AJC25641.1
+> CP010406 ;   SB24_13205 choline ABC transporter permease AJC26067.1
+> CP010406 ;   SB24_13230 choline ABC transporter permease AJC26072.1
+> CP010406 ;   SB24_15695 antiholin LrgA AJC26511.1
+> CP010406 ;   SB24_15700 antiholin LrgB AJC26512.1
+> CP009938 ;   OY17_01440 holin AJE76861.1
+> CP009938 ;   OY17_09055 holin AJE78229.1
+> CP009938 ;   OY17_09425 holin AJE78296.1
+> CP009938 ;   OY17_13190 holin AJE79011.1
+> CP009938 ;   OY17_16275 antiholin LrgB AJE79598.1
+> CP009938 ;   OY17_16280 antiholin LrgA AJE79599.1
+> CP009938 ;   OY17_18830 choline ABC transporter permease AJE80056.1
+> CP009938 ;   OY17_18855 choline ABC transporter permease AJE80061.1
+> CP010314 ;   RP72_07030 holin AJE93956.1
+> CP010314 ;   RP72_11650 holin AJE94847.1
+> CP010314 ;   RP72_14000 holin AJE95294.1
+> CP010314 ;   RP72_15580 antiholin LrgB AJE95598.1
+> CP010314 ;   RP72_15585 antiholin LrgA AJE95599.1
+> CP010314 ;   RP72_18210 choline ABC transporter permease AJE96070.1
+> CP010314 ;   RP72_18260 choline ABC transporter permease AJE96080.1
+> CP010314 ;   RP72_20585 holin AJE96524.1
+> AP013294 ;   OXB_2954 holin BAQ11425.1
+> AP013294 ;   OXB_3377 choline-glycine betaine transporter BAQ11846.1
+> CP010778 ;   TD68_03610 holin AJF84567.1
+> CP010778 ;   TD68_06505 choline esterase AJF85112.1
+> CP010778 ;   TD68_11280 antiholin LrgB AJF85996.1
+> CP010778 ;   TD68_11285 antiholin LrgA AJF85997.1
+> CP010778 ;   TD68_13835 choline ABC transporter permease AJF86445.1
+> CP010778 ;   TD68_13860 choline ABC transporter permease AJF86450.1
+> CP010778 ;   TD68_16020 holin AJF86856.1
+> CP010794 ;   TD69_18135 holin AJF91140.1
+> CP010794 ;   TD69_18310 holin AJF91173.1
+> CP010794 ;   TD69_18865 holin AJF91281.1
+> CP010794 ;   TD69_19795 holin AJF91461.1
+> CP010794 ;   TD69_26040 holin-like protein AJF92623.1
+> CP010794 ;   TD69_27715 antiholin LrgB AJF92944.1
+> CP007513 ;   CY96_17325 holin AHX19683.1
+> CP007513 ;   CY96_17470 holin AHX19710.1
+> CP007513 ;   CY96_17875 holin AHX19784.1
+> CP007513 ;   CY96_24660 holin-like protein AHX21055.1
+> CP007513 ;   CY96_26315 antiholin LrgB AHX21373.1
+> CP009299 ;   AW22_748 putative holin AJG61631.1
+> CP009299 ;   xhlB AW22_2174 holin, SPP1 family AJG61683.1
+> CP009299 ;   AW22_3046 putative holin AJG58742.1
+> CP009299 ;   lrgB AW22_4774 antiholin-like protein LrgB AJG60466.1
+> CP009317 ;   lrgB AS54_16 antiholin-like protein LrgB AJG54581.1
+> CP009317 ;   AS54_3599 putative holin AJG56443.1
+> CP009324 ;   lrgB BD64_33 antiholin-like protein LrgB AJG67602.1
+> CP009326 ;   lrgB BF39_4252 antiholin-like protein LrgB AJG83405.1
+> CP009329 ;   lrgB BF37_1614 antiholin-like protein LrgB AJG73087.1
+> CP009333 ;   lrgB BF38_1160 antiholin-like protein LrgB AJG77089.1
+> CP009333 ;   BF38_4703 putative holin AJG76504.1
+> CP009339 ;   lrgB BG02_2639 antiholin-like protein LrgB AJG87728.1
+> CP009368 ;   xhlB BG03_2758 holin, SPP1 family AJG92023.1
+> CP009368 ;   lrgB BG03_5210 antiholin-like protein LrgB AJG94610.1
+> CP009595 ;   BG11_1123 putative holin AJH62822.1
+> CP009595 ;   xhlB BG11_3129 holin, SPP1 family AJH63300.1
+> CP009589 ;   AQ16_4397 putative holin-like protein CidA AJI06840.1
+> CP009627 ;   BF35_109 putative holin AJH74440.1
+> CP009709 ;   xhlB BF29_2555 holin, SPP1 family AJH80017.1
+> CP009709 ;   xhlB BF29_2631 holin, SPP1 family AJH79234.1
+> CP009717 ;   BF36_1376 putative holin AJH83229.1
+> CP009917 ;   slc5a7 BG04_2098 high affinity choline transporter 1 AJI22775.1
+> CP010556 ;   SB45_06155 holin AJH23591.1
+> CP010556 ;   SB45_08515 holin AJH24059.1
+> CP010556 ;   SB45_12990 antiholin LrgB AJH24938.1
+> CP010556 ;   SB45_12995 antiholin LrgA AJH24939.1
+> CP010556 ;   SB45_15430 choline ABC transporter permease AJH25398.1
+> CP010556 ;   SB45_15455 choline ABC transporter permease AJH25403.1
+> CP010556 ;   SB45_17635 holin AJH25828.1
+> CP009316 ;   lrgB AS53_1920 antiholin-like protein LrgB AJG46240.1
+> CP009344 ;   lrgB AS86_4068 antiholin-like protein LrgB AJH08447.1
+> CP009344 ;   AS86_6624 putative holin AJH02572.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   KHU1_0991 bacteriophage PBSX holin AJK64958.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   KHU1_1087 bacteriophage PBSX holin AJK65053.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   KHU1_1620 putative choline esterase AJK65577.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   lrgB KHU1_2377 antiholin-like protein LrgB AJK66320.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   KHU1_2850 choline ABC transporter binding protein AJK66792.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   KHU1_2852 choline ABC transporter ATP-binding protein AJK66794.1
+> CP007242 Bacillus amyloliquefaciens KHG19;   KHU1_3295 holin-like protein AJK67237.1
+> CP009603 ;   BF33_1710 putative holin AJK33035.1
+> CP009603 ;   xhlB BF33_3716 holin, SPP1 family AJK34792.1
+> CP010854 ;   KD35_01110 antiholin LrgB AJM78738.1
+> CP010854 ;   KD35_19360 holin AJM82064.1
+> CP010854 ;   KD35_19535 holin AJM82096.1
+> CP010854 ;   KD35_20090 holin AJM82203.1
+> CP010854 ;   KD35_21020 holin AJM82384.1
+> CP010854 ;   KD35_27265 holin-like protein AJM83549.1
+> CP010524 ;   SC10_B2orf02129 holin AJO17630.1
+> CP010524 ;   SC10_B2orf02218 holin AJO17687.1
+> CP010524 ;   SC10_B2orf03187 choline esterase AJO18376.1
+> CP010524 ;   SC10_B2orf04695 antiholin LrgB AJO19462.1
+> CP010524 ;   SC10_B2orf06119 holin AJO20479.1
+> CP010015 ;   QF06_05415 holin AJO57911.1
+> CP010015 ;   QF06_11135 holin AJO58996.1
+> CP010015 ;   QF06_12650 antiholin LrgB AJO59287.1
+> CP010015 ;   QF06_12655 antiholin LrgA AJO59288.1
+> CP010015 ;   QF06_15265 choline ABC transporter permease AJO59753.1
+> CP010015 ;   QF06_15290 choline ABC transporter permease AJO59758.1
+> CP010015 ;   QF06_17605 holin AJO60201.1
+> CP010579 ;   SD98_06375 holin AJQ57924.1
+> CP010579 ;   SD98_13775 holin AJQ59315.1
+> CP010579 ;   SD98_19000 holin AJQ60286.1
+> CP010579 ;   SD98_23805 holin AJQ61205.1
+> CP010579 ;   SD98_27120 holin AJQ61805.1
+> CP010579 ;   SD98_27370 holin-like protein AJQ61853.1
+> CP010579 ;   SD98_28985 antiholin LrgB AJQ62160.1
+> LN680001 ;   xhlB BS34A_14160 holin CEJ76852.1
+> LN680001 ;   bhlA BS34A_23620 holin BhlA CEJ77776.1
+> LN680001 ;   bhlB BS34A_23630 holin-like bacteriophage SPbeta protein BhlB CEJ77777.1
+> LN680001 ;   ysbB_1 BS34A_31520 antiholin-like protein LrgB CEJ78542.1
+> LN680001 ;   ysbA BS34A_31530 antiholin-like protein LrgA CEJ78543.1
+> LN680001 ;   opuBD BS34A_36770 choline transport system permease protein OpuBD CEJ79031.1
+> LN680001 ;   opuBC BS34A_36780 choline-binding protein CEJ79032.1
+> LN680001 ;   opuBB BS34A_36790 choline transport system permease protein OpuBB CEJ79033.1
+> LN680001 ;   opuBA BS34A_36800 choline transport ATP-binding protein OpuBA CEJ79034.1
+> LN680001 ;   ywbH BS34A_41510 holin-like protein CidA CEJ79498.1
+> LN680001 ;   ysbB_2 BS34A_41520 antiholin-like protein LrgB CEJ79499.1
+> LN680001 ;   ysbB_3 BS34A_43290 antiholin-like protein LrgB CEJ79671.1
+> LN649259 ;   xhlB BS49_14170 holin CEI56429.1
+> LN649259 ;   bhlA BS49_23620 holin BhlA CEI57351.1
+> LN649259 ;   bhlB BS49_23630 holin-like bacteriophage SPbeta protein BhlB CEI57352.1
+> LN649259 ;   ysbB_1 BS49_31520 antiholin-like protein LrgB CEI58120.1
+> LN649259 ;   ysbA BS49_31530 antiholin-like protein LrgA CEI58121.1
+> LN649259 ;   opuBD BS49_36940 choline transport system permease protein OpuBD CEI58905.1
+> LN649259 ;   opuBC BS49_36950 choline-binding protein CEI58906.1
+> LN649259 ;   opuBB BS49_36960 choline transport system permease protein OpuBB CEI58907.1
+> LN649259 ;   opuBA BS49_36970 choline transport ATP-binding protein OpuBA CEI58908.1
+> LN649259 ;   ywbH BS49_41680 holin-like protein CidA CEI59641.1
+> LN649259 ;   ysbB_2 BS49_41690 antiholin-like protein LrgB CEI59642.1
+> LN649259 ;   ysbB_3 BS49_43460 antiholin-like protein LrgB CEI59814.1
+> CP011115 ;   O7A_07145 holin AKC46830.1
+> CP011115 ;   O7A_11760 holin AKC47723.1
+> CP011115 ;   O7A_14110 holin AKC48170.1
+> CP011115 ;   O7A_15690 antiholin LrgB AKC48474.1
+> CP011115 ;   O7A_15695 antiholin LrgA AKC48475.1
+> CP011115 ;   O7A_18320 choline ABC transporter permease AKC48947.1
+> CP011115 ;   O7A_18370 choline ABC transporter permease AKC48957.1
+> CP011115 ;   O7A_20690 holin AKC49400.1
+> CP015330 ;   BEH_03655 choline ABC transporter permease AKO91286.1
+> CP015330 ;   BEH_08815 choline transporter AKO92187.1
+> CP015330 ;   BEH_21765 holin AKO94498.1
+> CP011150 ;   VT48_15675 choline ABC transporter permease AKC67409.1
+> CP011150 ;   VT48_15890 holin AKC67449.1
+> CP011150 ;   VT48_17770 holin AKC68185.1
+> CP011278 ;   XM40_06180 holin AKD21812.1
+> CP011278 ;   XM40_13005 antiholin LrgB AKD23100.1
+> CP011278 ;   XM40_13010 antiholin LrgA AKD23101.1
+> CP011278 ;   XM40_15460 choline ABC transporter permease AKD23530.1
+> CP011278 ;   XM40_15485 choline ABC transporter permease AKD23535.1
+> CP011278 ;   XM40_17660 holin AKD23946.1
+> CP007165 ;   AW02_008790 holin AKD29031.1
+> CP007165 ;   AW02_021270 holin AKD30276.1
+> CP007165 ;   AW02_027460 antiholin-like protein AKD30894.1
+> CP007165 ;   eutG AW02_029310 choline dehydrogenase AKD31079.1
+> CP007165 ;   AW02_032170 choline ABC transporter binding protein AKD31365.1
+> CP007165 ;   AW02_036560 holin regulator of murein hydrolases AKD31804.1
+> CP007173 ;   AW03_012870 bacteriophage PBSX holin AKD34678.1
+> CP007173 ;   AW03_024500 holin AKD35826.1
+> CP007173 ;   lrgB AW03_027050 antiholin-like protein LrgB AKD36080.1
+> CP007173 ;   eutG AW03_029220 choline dehydrogenase AKD36296.1
+> CP007173 ;   opuBB AW03_031980 choline ABC transporter permease AKD36570.1
+> CP007173 ;   AW03_032000 choline ABC transporter permease AKD36572.1
+> CP007173 ;   opuBA AW03_032010 choline ABC transporter ATP-binding protein AKD36573.1
+> CP007173 ;   AW03_036830 holin-like protein AKD37052.1
+> CP009686 ;   FORC5_5125 Antiholin-like protein LrgA AKE19662.1
+> CP009686 ;   FORC5_5129 High-affinity choline uptake protein BetT AKE19666.1
+> CP011101 ;   BsLM_1351 bacteriophage PBSX holin AKE23150.1
+> CP011101 ;   BsLM_2551 holin; skin element AKE24349.1
+> CP011101 ;   BsLM_2869 antiholin-like protein LrgB AKE24667.1
+> CP011101 ;   BsLM_3380 choline ABC transporter permease AKE25177.1
+> CP011101 ;   BsLM_3381 choline-binding protein AKE25178.1
+> CP011101 ;   BsLM_3382 choline ABC transporter permease AKE25179.1
+> CP011101 ;   BsLM_3383 choline ABC transporter ATP-binding protein AKE25180.1
+> CP011101 ;   BsLM_3864 holin-like protein AKE25661.1
+> CP011346 ;   AAV29_06320 holin AKF30169.1
+> CP011346 ;   AAV29_09165 holin AKF30713.1
+> CP011346 ;   AAV29_11115 holin AKF31063.1
+> CP011346 ;   AAV29_13645 holin AKF31543.1
+> CP011346 ;   AAV29_14315 antiholin LrgB AKF31665.1
+> CP011346 ;   AAV29_14320 antiholin LrgA AKF31666.1
+> CP011346 ;   AAV29_16805 choline ABC transporter permease AKF32103.1
+> CP011346 ;   AAV29_16830 choline ABC transporter permease AKF32108.1
+> CP011346 ;   AAV29_19030 holin AKF32528.1
+> CP011347 ;   AAV30_01235 holin AKF74883.1
+> CP011347 ;   AAV30_03470 choline ABC transporter permease AKF75297.1
+> CP011347 ;   AAV30_03495 choline ABC transporter permease AKF75302.1
+> CP011347 ;   AAV30_05995 antiholin LrgA AKF75734.1
+> CP011347 ;   AAV30_06000 antiholin LrgB AKF75735.1
+> CP011347 ;   AAV30_09065 holin AKF76292.1
+> CP011347 ;   AAV30_09325 holin AKF76343.1
+> CP011347 ;   AAV30_10325 choline esterase AKF76525.1
+> CP011347 ;   AAV30_13000 holin AKF77022.1
+> CP011534 ;   ABA10_07025 holin AKI91731.1
+> CP011534 ;   ABA10_09885 choline esterase AKI92272.1
+> CP011534 ;   ABA10_14160 antiholin LrgB AKI93067.1
+> CP011534 ;   ABA10_14165 antiholin LrgA AKI93068.1
+> CP011534 ;   ABA10_16775 choline ABC transporter permease AKI93533.1
+> CP011534 ;   ABA10_16835 choline ABC transporter permease AKI93545.1
+> CP011534 ;   ABA10_19215 holin AKI93989.1
+> CP011354 ;   XI92_07330 holin AKJ58133.1
+> CP011354 ;   XI92_12740 holin AKJ59106.1
+> CP011354 ;   XI92_14870 antiholin LrgB AKJ59447.1
+> CP011354 ;   XI92_16645 holin AKJ59779.1
+> CP011354 ;   XI92_16735 holin-like protein AKJ59797.1
+> CP011354 ;   XI92_16765 choline-binding protein A AKJ59803.1
+> CP011354 ;   XI92_17830 holin AKJ60002.1
+> CP011354 ;   XI92_23925 holin AKJ61127.1
+> CP011354 ;   XI92_24315 holin AKJ61199.1
+> CP011354 ;   XI92_31045 holin AKJ62591.1
+> CP011354 ;   XI92_32100 holin AKJ62782.1
+> CP011354 ;   XI92_33340 holin AKJ63027.1
+> CP011686 Bacillus velezensis;   ABH13_1271 bacteriophage PBSX holin XhlB AKL75861.1
+> CP011686 Bacillus velezensis;   ABH13_1847 choline esterase AKL76431.1
+> CP011686 Bacillus velezensis;   ABH13_2081 holin family protein AKL76662.1
+> CP011686 Bacillus velezensis;   ABH13_2711 antiholin-like protein LrgB AKL77289.1
+> CP011686 Bacillus velezensis;   ABH13_3197 putative holin Lysis protein AKL77771.1
+> CP011882 ;   ABU16_2317 holin AKN13393.1
+> CP011882 ;   ABU16_3911 Antiholin-like protein LrgA AKN14987.1
+> CP012025 ;   BSM4216_1648 Antiholin-like protein LrgA AKP46929.1
+> CP010587 Bacillus megaterium Q3;   lrgA AS52_00789 Antiholin-like protein LrgA AKP75754.1
+> CP010587 Bacillus megaterium Q3;   lrgB AS52_00790 Antiholin-like protein LrgB AKP75755.1
+> CP010587 Bacillus megaterium Q3;   betC AS52_02420 Choline-sulfatase AKP77382.1
+> CP010587 Bacillus megaterium Q3;   pcs AS52_04628 Phosphatidylcholine synthase AKP79583.1
+> CP012108 ;   AC241_07465 holin AKR08557.1
+> CP012108 ;   AC241_13065 holin AKR09615.1
+> CP012108 ;   AC241_18110 holin AKR10563.1
+> CP012108 ;   AC241_18540 holin AKR10648.1
+> CP012108 ;   AC241_25445 holin-like protein AKR11956.1
+> CP012108 ;   AC241_27045 antiholin LrgB AKR12261.1
+> CP012108 ;   AC241_29345 holin AKR12820.1
+> CP010112 ;   opuBA NF53_2096 Choline transport ATP-binding protein OpuBA AKR35174.1
+> CP010112 ;   lrgB NF53_5356 Antiholin protein LrgB AKR38433.1
+> CP010112 ;   lrgA NF53_5357 Antiholin protein LrgA AKR38434.1
+> CP009109 ;   ID12_01550 choline ABC transporter permease AKU30182.1
+> CP009109 ;   ID12_01770 holin AKU30225.1
+> CP009109 ;   ID12_03725 holin AKU30602.1
+> CP012486 ;   ACN91_00695 antiholin LrgB ALC50150.1
+> CP012486 ;   ACN91_02260 holin-like protein ALC50453.1
+> CP012486 ;   ACN91_09190 holin ALC51756.1
+> CP012486 ;   ACN91_09595 holin ALC51833.1
+> CP012486 ;   ACN91_14965 holin ALC52832.1
+> CP013061 ;   AQ980_02100 antiholin LrgB ALL56681.1
+> CP013061 ;   AQ980_03875 holin ALL57014.1
+> CP013061 ;   AQ980_03965 holin-like protein ALL57032.1
+> CP013061 ;   AQ980_03995 choline-binding protein A ALL57038.1
+> CP013061 ;   AQ980_05060 holin ALL57237.1
+> CP013061 ;   AQ980_11145 holin ALL58384.1
+> CP013061 ;   AQ980_11535 holin ALL58458.1
+> CP013061 ;   AQ980_24135 holin ALL60817.1
+> CP013061 ;   AQ980_29550 holin ALL61802.1
+> CP013061 ;   AQ980_30615 holin ALL62185.1
+> CP013061 ;   AQ980_32340 holin ALL62525.1
+> CP012329 ;   AKO65_05435 holin ALM30092.1
+> CP012329 ;   AKO65_07440 holin ALM27854.1
+> CP012329 ;   AKO65_07530 holin ALM27871.1
+> CP012329 ;   AKO65_07745 choline ABC transporter permease ALM27909.1
+> CP012329 ;   AKO65_13320 holin ALM28947.1
+> CP012482 ;   AMR71_01750 holin ALM47268.1
+> CP012482 ;   AMR71_03755 holin ALM44395.1
+> CP012482 ;   AMR71_03845 holin ALM44412.1
+> CP012482 ;   AMR71_04060 choline ABC transporter permease ALM44450.1
+> CP012482 ;   AMR71_09630 holin ALM45487.1
+> CP013273 ;   ATN06_04045 holin ALQ66556.1
+> CP013273 ;   ATN06_18370 holin ALQ69241.1
+> CP013273 ;   ATN06_18755 holin ALQ69317.1
+> CP013273 ;   ATN06_19045 holin ALQ69372.1
+> CP013273 ;   ATN06_25780 holin-like protein ALQ70630.1
+> CP013273 ;   ATN06_27305 antiholin LrgB ALQ70918.1
+> CP013654 ;   AT706_01790 choline ABC transporter permease ALS80707.1
+> CP013654 ;   AT706_01815 choline ABC transporter permease ALS80712.1
+> CP013654 ;   AT706_04455 antiholin LrgA ALS81188.1
+> CP013654 ;   AT706_04460 antiholin LrgB ALS81189.1
+> CP013654 ;   AT706_05760 holin ALS81433.1
+> CP013654 ;   AT706_08810 choline esterase ALS82010.1
+> CP013654 ;   AT706_11665 holin ALS82552.1
+> CP013654 ;   AT706_20020 holin ALS84064.1
+> CP013728 ;   AVM03_00940 holin ALV00997.1
+> CP013728 ;   AVM03_03615 choline esterase ALV01511.1
+> CP013728 ;   AVM03_07160 holin ALV02180.1
+> CP013728 ;   AVM03_07795 antiholin LrgB ALV02296.1
+> CP013728 ;   AVM03_07800 antiholin LrgA ALV02297.1
+> CP013728 ;   AVM03_10315 choline ABC transporter permease ALV02745.1
+> CP013728 ;   AVM03_10340 choline ABC transporter permease ALV02750.1
+> CP013728 ;   AVM03_12450 holin ALV03151.1
+> CP011146 ;   FORC13_2998 Choline transport ATP-binding protein OpuBA ALZ62059.1
+> CP011146 ;   FORC13_5377 Antiholin-like protein LrgB ALZ64438.1
+> CP011146 ;   FORC13_5378 Antiholin-like protein LrgA ALZ64439.1
+> CP013984 ;   AN935_06660 holin AMA51971.1
+> CP013984 ;   AN935_09990 holin AMA54709.1
+> CP013984 ;   AN935_12940 holin AMA53131.1
+> CP013984 ;   AN935_13790 holin AMA53288.1
+> CP013984 ;   AN935_14455 antiholin LrgB AMA53416.1
+> CP013984 ;   AN935_14460 antiholin LrgA AMA53417.1
+> CP013984 ;   AN935_16995 choline ABC transporter permease AMA53884.1
+> CP013984 ;   AN935_17020 choline ABC transporter permease AMA53889.1
+> CP013984 ;   AN935_19385 holin AMA54338.1
+> LN999830 Bacillus velezensis;   xhlB BAMMD1_1220 bacteriophage PBSX holin CUX93126.1
+> LN999830 Bacillus velezensis;   lrgB BAMMD1_2532 antiholin factor CUX94430.1
+> LN999830 Bacillus velezensis;   lrgA BAMMD1_2533 antiholin factor CUX94431.1
+> LN999830 Bacillus velezensis;   gbsB BAMMD1_2724 choline dehydrogenase CUX94617.1
+> LN999830 Bacillus velezensis;   opuBA BAMMD1_3021 choline ABC transporter (ATP-binding protein) CUX94911.1
+> CP014166 ;   AWM80_07015 holin AMB23703.1
+> CP014166 ;   AWM80_12985 holin AMB24848.1
+> CP014166 ;   AWM80_14565 antiholin LrgB AMB26444.1
+> CP014166 ;   AWM80_14570 antiholin LrgA AMB25151.1
+> CP014166 ;   AWM80_17195 choline ABC transporter permease AMB25623.1
+> CP014166 ;   AWM80_17245 choline ABC transporter permease AMB25633.1
+> CP014166 ;   AWM80_19575 holin AMB26076.1
+> CP014178 ;   AW166_18140 holin AMC05524.1
+> CP014178 ;   AW166_18315 holin AMC05555.1
+> CP014178 ;   AW166_18875 holin AMC05665.1
+> CP014178 ;   AW166_19805 holin AMC05845.1
+> CP014178 ;   AW166_26035 holin-like protein AMC07001.1
+> CP014178 ;   AW166_27705 antiholin LrgB AMC07323.1
+> AP014872 ;   KNN_00054 antiholin-like protein LrgB BAR80931.1
+> AP014872 ;   KNN_00346 holin BAR81223.1
+> AP014872 ;   KNN_00641 holin BAR81516.1
+> AP014872 ;   KNN_01446 holin BAR82293.1
+> AP014872 ;   KNN_01519 holin BAR82365.1
+> AP014872 ;   KNN_02022 holin-like protein BAR82868.1
+> AP014872 ;   KNN_02138 holin BAR82984.1
+> AP014872 ;   KNN_02181 holin-like protein BAR83027.1
+> AP014872 ;   KNN_02328 holin BAR83174.1
+> AP014872 ;   KNN_04942 holin BAR85785.1
+> AP014872 ;   KNN_06807 holin BAR87540.1
+> AP014928 ;   yqxH3 BTUAT1_25240 holin BAT49658.1
+> AP014928 ;   ytmP BTUAT1_27150 choline kinase BAT49849.1
+> AP014928 ;   xhlB BTUAT1_28180 holin BAT49952.1
+> AP014928 ;   bhlA BTUAT1_28190 holin BhlA BAT49953.1
+> AP014928 ;   BTUAT1_31580 holin BAT50292.1
+> AP014928 ;   lrgA BTUAT1_35330 holin-like protein BAT50667.1
+> CP013950 ;   AUL54_01130 holin AME05020.1
+> CP013950 ;   AUL54_01530 choline esterase AME05096.1
+> CP013950 ;   AUL54_04210 holin AME05608.1
+> CP013950 ;   AUL54_06320 holin AME05979.1
+> CP013950 ;   AUL54_11940 holin AME06984.1
+> CP013950 ;   AUL54_14040 choline ABC transporter permease AME07383.1
+> CP013950 ;   AUL54_16800 antiholin LrgA AME07860.1
+> CP013950 ;   AUL54_16805 antiholin LrgB AME07861.1
+> CP013950 ;   AUL54_19760 holin AME08409.1
+> CP014473 ;   AWV81_01320 holin AMK70880.1
+> CP014473 ;   AWV81_07195 holin AMK71917.1
+> CP014473 ;   AWV81_09845 holin AMK72414.1
+> CP014473 ;   AWV81_14780 antiholin LrgB AMK74718.1
+> CP014473 ;   AWV81_14785 antiholin LrgA AMK73310.1
+> CP014473 ;   AWV81_17465 holin AMK73786.1
+> CP014473 ;   AWV81_17765 choline ABC transporter permease AMK73840.1
+> CP014473 ;   AWV81_17790 choline ABC transporter permease AMK73845.1
+> CP014473 ;   AWV81_18180 holin AMK73919.1
+> CP014473 ;   AWV81_20420 holin AMK74329.1
+> CP010997 ;   UP15_13475 antiholin LrgB AMM91160.1
+> CP010997 ;   UP15_13480 antiholin LrgA AMM89941.1
+> CP010997 ;   UP15_16015 choline ABC transporter permease AMM90400.1
+> CP010997 ;   UP15_16230 holin AMM90440.1
+> CP010997 ;   UP15_18190 holin AMM90804.1
+> CP011009 ;   UP17_12355 choline ABC transporter permease AMM93206.1
+> CP011023 ;   UP12_08935 choline esterase AMM97462.1
+> CP011023 ;   UP12_12565 holin AMM98138.1
+> CP011023 ;   UP12_12970 antiholin LrgB AMM99479.1
+> CP011023 ;   UP12_12975 antiholin LrgA AMM98214.1
+> CP011023 ;   UP12_15855 choline ABC transporter permease AMM98737.1
+> CP011023 ;   UP12_16070 holin AMM98775.1
+> CP011023 ;   UP12_17905 holin AMM99532.1
+> CP014701 ;   AS588_02240 antiholin LrgA AMP30872.1
+> CP014701 ;   AS588_02245 antiholin LrgB AMP30873.1
+> CP014701 ;   AS588_03240 holin AMP31060.1
+> CP014701 ;   AS588_08885 holin AMP32138.1
+> CP014701 ;   AS588_09365 holin AMP32230.1
+> CP014701 ;   AS588_15580 choline ABC transporter permease AMP33332.1
+> CP014701 ;   AS588_15605 choline ABC transporter permease AMP33337.1
+> CP014701 ;   AS588_17815 holin AMP33759.1
+> CP015443 ;   A1D33_002935 holin ANB46294.1
+> CP015443 ;   A1D33_010460 holin ANB47718.1
+> CP015443 ;   A1D33_012720 choline ABC transporter permease ANB48163.1
+> CP015443 ;   A1D33_012745 choline ABC transporter permease ANB48168.1
+> CP015443 ;   A1D33_015245 antiholin LrgA ANB48639.1
+> CP015443 ;   A1D33_015250 antiholin LrgB ANB48640.1
+> CP015443 ;   A1D33_018195 holin ANB49221.1
+> CP015443 ;   A1D33_020065 holin ANB49586.1
+> CP006058 ;   BAMY6639_04785 antiholin AMQ68672.1
+> CP006058 ;   BAMY6639_07525 choline ABC transporter permease AMQ69122.1
+> CP006058 ;   BAMY6639_07550 choline ABC transporter permease AMQ69127.1
+> CP006058 ;   BAMY6639_09880 holin AMQ69527.1
+> CP006058 ;   BAMY6639_18005 holin AMQ70773.1
+> CP006960 ;   BAMY6614_00025 holin AMQ71808.1
+> CP006960 ;   BAMY6614_02345 holin AMQ72248.1
+> CP006960 ;   BAMY6614_10410 holin AMQ73718.1
+> CP006960 ;   BAMY6614_17385 antiholin AMQ75063.1
+> CP006960 ;   BAMY6614_20045 choline ABC transporter permease AMQ75554.1
+> CP006960 ;   BAMY6614_20070 choline ABC transporter permease AMQ75559.1
+> CP014283 ;   AXW78_09255 holin AMR02327.1
+> CP014283 ;   AXW78_12700 holin AMR02953.1
+> CP014283 ;   AXW78_17390 holin AMR03814.1
+> CP014283 ;   AXW78_24600 holin-like protein AMR05170.1
+> CP014283 ;   AXW78_26120 antiholin LrgB AMR05458.1
+> CP014283 ;   AXW78_29920 holin AMR06522.1
+> CP014283 ;   AXW78_29395 holin AMR06420.1
+> CP014283 ;   AXW78_27220 holin AMR05795.1
+> CP014283 ;   AXW78_27750 choline dehydrogenase AMR05889.1
+> CP014283 ;   AXW78_27755 choline dehydrogenase AMR05890.1
+> CP014781 ;   AB684_11785 holin AMR10833.1
+> CP014781 ;   AB684_15585 antiholin LrgB AMR11535.1
+> CP014781 ;   AB684_15590 antiholin LrgA AMR11536.1
+> CP014781 ;   AB684_18240 choline ABC transporter permease AMR12010.1
+> CP014781 ;   AB684_20225 holin AMR12382.1
+> CP014781 ;   AB684_21510 holin AMR12621.1
+> CP014858 ;   KHRBS_01450 holin AMR45356.1
+> CP014858 ;   KHRBS_03840 choline ABC transporter permease AMR45757.1
+> CP014858 ;   KHRBS_03890 choline ABC transporter permease AMR45765.1
+> CP014858 ;   KHRBS_06505 antiholin LrgA AMR48742.1
+> CP014858 ;   KHRBS_06510 antiholin LrgB AMR48743.1
+> CP014858 ;   KHRBS_10125 holin AMR46789.1
+> CP014858 ;   KHRBS_14745 holin AMR47568.1
+> CP014783 ;   A1R12_06330 holin AMR49978.1
+> CP014783 ;   A1R12_10125 holin AMR50703.1
+> CP014783 ;   A1R12_13240 antiholin LrgB AMR51292.1
+> CP014783 ;   A1R12_13245 antiholin LrgA AMR51293.1
+> CP014783 ;   A1R12_15740 choline ABC transporter permease AMR51732.1
+> CP014783 ;   A1R12_15765 choline ABC transporter permease AMR51737.1
+> CP014783 ;   A1R12_18010 holin AMR52167.1
+> CP014840 ;   A1D11_00700 holin AMR61003.1
+> CP014840 ;   A1D11_02865 choline ABC transporter permease AMR61411.1
+> CP014840 ;   A1D11_02890 choline ABC transporter permease AMR61416.1
+> CP014840 ;   A1D11_05450 antiholin LrgA AMR61866.1
+> CP014840 ;   A1D11_05455 antiholin LrgB AMR61867.1
+> CP014840 ;   A1D11_10230 choline esterase AMR62751.1
+> CP014840 ;   A1D11_13130 holin AMR63300.1
+> CP014853 ;   A3L20_06310 holin AMR83631.1
+> CP014853 ;   A3L20_11010 holin AMR84522.1
+> CP014853 ;   A3L20_13810 holin AMR85046.1
+> CP014853 ;   A3L20_19315 holin AMR86082.1
+> CP014853 ;   A3L20_19775 holin AMR86172.1
+> CP014853 ;   A3L20_25850 holin AMR87307.1
+> CP014853 ;   A3L20_26930 holin AMR87508.1
+> CP014853 ;   A3L20_27180 holin-like protein AMR87555.1
+> CP014853 ;   A3L20_28985 antiholin LrgB AMR87903.1
+> CP014853 ;   A3L20_29435 holin AMR88148.1
+> CP014853 ;   A3L20_29745 holin AMR88201.1
+> CP014853 ;   A3L20_30670 holin AMR88376.1
+> CP014853 ;   A3L20_31770 holin AMR88561.1
+> CP014853 ;   A3L20_31920 holin AMR88582.1
+> CP015004 ;   A3772_07015 holin AMS46827.1
+> CP015004 ;   A3772_11635 holin AMS47721.1
+> CP015004 ;   A3772_13985 holin AMS48168.1
+> CP015004 ;   A3772_15565 antiholin LrgB AMS49783.1
+> CP015004 ;   A3772_15570 antiholin LrgA AMS48471.1
+> CP015004 ;   A3772_18195 choline ABC transporter permease AMS48945.1
+> CP015004 ;   A3772_18245 choline ABC transporter permease AMS48955.1
+> CP015004 ;   A3772_20575 holin AMS49402.1
+> CP015156 ;   BtBc_01790 holin AMX75199.1
+> CP015156 ;   BtBc_06770 holin AMX76098.1
+> CP015156 ;   BtBc_19130 holin AMX78431.1
+> CP015156 ;   BtBc_19515 holin AMX78503.1
+> CP015156 ;   BtBc_25475 holin AMX79629.1
+> CP015156 ;   BtBc_26500 choline-binding protein A AMX79822.1
+> CP015156 ;   BtBc_26535 holin-like protein AMX79828.1
+> CP015156 ;   BtBc_26625 holin AMX79846.1
+> CP015156 ;   BtBc_28390 antiholin LrgB AMX80180.1
+> CP015417 ;   A6R78_05240 holin ANB83422.1
+> CP015417 ;   A6R78_07870 choline esterase ANB83926.1
+> CP015417 ;   A6R78_11665 antiholin LrgB ANB84631.1
+> CP015417 ;   A6R78_11670 antiholin LrgA ANB84632.1
+> CP015417 ;   A6R78_14230 choline ABC transporter permease ANB85082.1
+> CP015417 ;   A6R78_14255 choline ABC transporter permease ANB85087.1
+> CP015417 ;   A6R78_16395 holin ANB85492.1
+> CP011152 ;   WR47_12220 holin ANC07827.1
+> CP011152 ;   WR47_13595 holin ANC08084.1
+> CP011152 ;   WR47_18845 holin ANC09072.1
+> CP011152 ;   WR47_19295 holin ANC09160.1
+> CP011152 ;   WR47_26325 holin-like protein ANC10477.1
+> CP011152 ;   WR47_27955 antiholin LrgB ANC10789.1
+> CP011152 ;   WR47_29445 holin ANC11226.1
+> CP011154 ;   WR51_12230 holin ANC13649.1
+> CP011154 ;   WR51_13600 holin ANC13906.1
+> CP011154 ;   WR51_18845 holin ANC14889.1
+> CP011154 ;   WR51_19295 holin ANC14977.1
+> CP011154 ;   WR51_26325 holin-like protein ANC16293.1
+> CP011154 ;   WR51_27955 antiholin LrgB ANC16605.1
+> CP011154 ;   WR51_29220 holin ANC17009.1
+> CP011157 ;   WR52_10680 holin ANC19216.1
+> CP011157 ;   WR52_12945 holin ANC19633.1
+> CP011157 ;   WR52_18390 holin ANC20645.1
+> CP011157 ;   WR52_18845 holin ANC20734.1
+> CP011157 ;   WR52_19965 holin ANC20943.1
+> CP011157 ;   WR52_26150 holin-like protein ANC22104.1
+> CP011157 ;   WR52_27710 antiholin LrgB ANC22401.1
+> CP015181 ;   Bt4C1_03490 holin AND06292.1
+> CP015181 ;   Bt4C1_12185 holin AND07923.1
+> CP015181 ;   Bt4C1_17930 holin AND09006.1
+> CP015181 ;   Bt4C1_18375 holin AND09091.1
+> CP015181 ;   Bt4C1_25165 holin-like protein AND10356.1
+> CP015181 ;   Bt4C1_25790 holin AND10475.1
+> CP015181 ;   Bt4C1_27210 antiholin LrgB AND10752.1
+> CP015181 ;   Bt4C1_28620 holin AND11144.1
+> CP017081 ;   ABE28_003270 holin AOH53360.1
+> CP017081 ;   ABE28_011930 choline ABC transporter permease AOH55060.1
+> CP015226 ;   AZK53_03695 antiholin LrgB ANF44813.1
+> CP015226 ;   AZK53_23115 holin ANF48468.1
+> CP015778 ;   A8C77_18120 holin ANH87708.1
+> CP015778 ;   A8C77_18295 holin ANH87740.1
+> CP015778 ;   A8C77_18855 holin ANH87849.1
+> CP015778 ;   A8C77_19785 holin ANH88029.1
+> CP015778 ;   A8C77_26010 holin-like protein ANH89187.1
+> CP015778 ;   A8C77_27675 antiholin LrgB ANH89508.1
+> CP015975 ;   A8O17_13815 antiholin LrgB ANJ32971.1
+> CP015975 ;   A8O17_13820 antiholin LrgA ANJ31666.1
+> CP015975 ;   A8O17_16445 choline ABC transporter permease ANJ32139.1
+> CP015975 ;   A8O17_16495 choline ABC transporter permease ANJ32149.1
+> CP015975 ;   A8O17_18825 holin ANJ32594.1
+> CP016198 ;   A9498_13700 holin ANN32594.1
+> CP016198 ;   A9498_19470 holin ANN33545.1
+> CP016198 ;   A9498_26620 holin ANN34872.1
+> CP016198 ;   A9498_26850 holin-like protein ANN34915.1
+> CP016198 ;   A9498_28540 antiholin LrgB ANN35227.1
+> CP012729 ;   AOQ81_18130 holin ANR06024.1
+> CP012729 ;   AOQ81_18305 holin ANR06055.1
+> CP012729 ;   AOQ81_18865 holin ANR06164.1
+> CP012729 ;   AOQ81_19795 holin ANR06344.1
+> CP012729 ;   AOQ81_26010 holin-like protein ANR07507.1
+> CP012729 ;   AOQ81_27685 antiholin LrgB ANR07830.1
+> CP012730 ;   AOQ80_18140 holin ANR11322.1
+> CP012730 ;   AOQ80_18315 holin ANR11354.1
+> CP012730 ;   AOQ80_18875 holin ANR11463.1
+> CP012730 ;   AOQ80_19805 holin ANR11643.1
+> CP012730 ;   AOQ80_26040 holin-like protein ANR12809.1
+> CP012730 ;   AOQ80_27715 antiholin LrgB ANR13132.1
+> CP012720 ;   AOD59_18140 holin ANR16618.1
+> CP012720 ;   AOD59_18315 holin ANR16649.1
+> CP012720 ;   AOD59_18875 holin ANR16758.1
+> CP012720 ;   AOD59_19805 holin ANR16938.1
+> CP012720 ;   AOD59_26040 holin-like protein ANR18103.1
+> CP012720 ;   AOD59_27715 antiholin LrgB ANR18425.1
+> CP012721 ;   AOD60_18140 holin ANR21919.1
+> CP012721 ;   AOD60_18315 holin ANR21950.1
+> CP012721 ;   AOD60_18875 holin ANR22059.1
+> CP012721 ;   AOD60_19805 holin ANR22239.1
+> CP012721 ;   AOD60_26040 holin-like protein ANR23404.1
+> CP012721 ;   AOD60_27715 antiholin LrgB ANR23726.1
+> CP012722 ;   AOD63_18130 holin ANR27220.1
+> CP012722 ;   AOD63_18305 holin ANR27251.1
+> CP012722 ;   AOD63_18865 holin ANR27360.1
+> CP012722 ;   AOD63_19795 holin ANR27540.1
+> CP012722 ;   AOD63_26030 holin-like protein ANR28704.1
+> CP012722 ;   AOD63_27705 antiholin LrgB ANR29026.1
+> CP012723 ;   AOD64_18140 holin ANR32520.1
+> CP012723 ;   AOD64_18315 holin ANR32551.1
+> CP012723 ;   AOD64_18875 holin ANR32660.1
+> CP012723 ;   AOD64_19805 holin ANR32840.1
+> CP012723 ;   AOD64_26040 holin-like protein ANR34006.1
+> CP012723 ;   AOD64_27715 antiholin LrgB ANR34328.1
+> CP012724 ;   AOD65_18130 holin ANR37826.1
+> CP012724 ;   AOD65_18305 holin ANR37857.1
+> CP012724 ;   AOD65_18865 holin ANR37966.1
+> CP012724 ;   AOD65_19795 holin ANR38146.1
+> CP012724 ;   AOD65_26010 holin-like protein ANR39309.1
+> CP012724 ;   AOD65_27685 antiholin LrgB ANR39632.1
+> CP012725 ;   AOD66_18130 holin ANR43122.1
+> CP012725 ;   AOD66_18305 holin ANR43153.1
+> CP012725 ;   AOD66_18865 holin ANR43262.1
+> CP012725 ;   AOD66_19795 holin ANR43442.1
+> CP012725 ;   AOD66_26010 holin-like protein ANR44605.1
+> CP012725 ;   AOD66_27685 antiholin LrgB ANR44928.1
+> CP012726 ;   AOD67_18135 holin ANR48410.1
+> CP012726 ;   AOD67_18310 holin ANR48443.1
+> CP012726 ;   AOD67_18870 holin ANR48552.1
+> CP012726 ;   AOD67_19800 holin ANR48732.1
+> CP012726 ;   AOD67_26015 holin-like protein ANR49892.1
+> CP012726 ;   AOD67_27690 antiholin LrgB ANR50214.1
+> CP012727 ;   AOD68_18130 holin ANR53711.1
+> CP012727 ;   AOD68_18305 holin ANR53742.1
+> CP012727 ;   AOD68_18865 holin ANR53851.1
+> CP012727 ;   AOD68_19795 holin ANR54031.1
+> CP012727 ;   AOD68_26010 holin-like protein ANR55194.1
+> CP012727 ;   AOD68_27685 antiholin LrgB ANR55517.1
+> CP012728 ;   AOD69_18130 holin ANR59005.1
+> CP012728 ;   AOD69_18305 holin ANR59036.1
+> CP012728 ;   AOD69_18865 holin ANR59145.1
+> CP012728 ;   AOD69_19795 holin ANR59325.1
+> CP012728 ;   AOD69_26010 holin-like protein ANR60488.1
+> CP012728 ;   AOD69_27685 antiholin LrgB ANR60811.1
+> CP015361 ;   opuBA BT246_24560 choline transport ATP-binding protein OpuBA ANS47824.1
+> CP015361 ;   BT246_38400 holin family protein ANS49188.1
+> CP015361 ;   cidA1 BT246_41920 holin-like protein CidA ANS49537.1
+> CP015361 ;   cidA2 BT246_42720 holin-like protein CidA 2 ANS49617.1
+> CP015361 ;   BT246_56520 holin family protein ANS50950.1
+> CP015361 ;   cidA3 BT246_58770 holin-like protein CidA 2 ANS51173.1
+> CP015361 ;   lrgB_1 BT246_62460 antiholin-like protein LrgB ANS51541.1
+> CP015361 ;   lrgB_2 BT246_62490 antiholin-like protein LrgB ANS51544.1
+> CP015361 ;   lrgA BT246_62500 antiholin-like protein LrgA ANS51545.1
+> CP016371 ;   A5891_09005 choline esterase ANS38518.1
+> CP016371 ;   A5891_12955 antiholin LrgB ANS39262.1
+> CP016371 ;   A5891_12960 antiholin LrgA ANS39263.1
+> CP016371 ;   A5891_15510 choline ABC transporter permease ANS39712.1
+> CP016371 ;   A5891_15535 choline ABC transporter permease ANS39717.1
+> CP016371 ;   A5891_17770 holin ANS40137.1
+> CP015911 ;   A8142_08870 choline esterase ANU30278.1
+> CP015911 ;   A8142_12820 antiholin LrgB ANU31021.1
+> CP015911 ;   A8142_12825 antiholin LrgA ANU31022.1
+> CP015911 ;   A8142_15380 choline ABC transporter permease ANU31469.1
+> CP015911 ;   A8142_15405 choline ABC transporter permease ANU31474.1
+> CP015911 ;   A8142_17645 holin ANU31896.1
+> CP016590 ;   BCM43_01980 antiholin LrgB ANV69308.1
+> CP016590 ;   BCM43_03510 holin-like protein ANV69599.1
+> CP016590 ;   BCM43_10120 holin ANV70842.1
+> CP016590 ;   BCM43_10375 holin ANV70888.1
+> CP016590 ;   BCM43_10795 holin ANV70970.1
+> CP016590 ;   BCM43_16015 holin ANV71922.1
+> CP016590 ;   BCM43_27745 holin ANV74254.1
+> CP015375 ;   AS891_03525 holin ANX06297.1
+> CP015375 ;   AS891_05855 choline ABC transporter permease ANX06743.1
+> CP015375 ;   AS891_05905 choline ABC transporter permease ANX06753.1
+> CP015375 ;   AS891_08530 antiholin LrgA ANX07226.1
+> CP015375 ;   AS891_08535 antiholin LrgB ANX09871.1
+> CP015375 ;   AS891_10120 holin ANX07529.1
+> CP015375 ;   AS891_12470 holin ANX07979.1
+> CP015375 ;   AS891_17095 holin ANX08868.1
+> CP012330 ;   AKO66_01750 holin ANY98749.1
+> CP012330 ;   AKO66_03755 holin ANY95870.1
+> CP012330 ;   AKO66_03845 holin ANY95887.1
+> CP012330 ;   AKO66_04060 choline ABC transporter permease ANY95925.1
+> CP012330 ;   AKO66_09635 holin ANY96966.1
+> CP016852 ;   BFI33_14105 holin AOA11926.1
+> CP016852 ;   BFI33_15685 antiholin LrgB AOA13539.1
+> CP016852 ;   BFI33_15690 antiholin LrgA AOA12228.1
+> CP016852 ;   BFI33_18315 choline ABC transporter permease AOA12700.1
+> CP016852 ;   BFI33_18365 choline ABC transporter permease AOA12710.1
+> CP016852 ;   BFI33_20690 holin AOA13154.1
+> CP016894 ;   BSHJ0_03080 Antiholin-like protein LrgB AOA55649.1
+> CP016894 ;   BSHJ0_03081 Antiholin-like protein LrgA AOA55650.1
+> CP016894 ;   BSHJ0_03595 Choline transport system permease protein OpuBD AOA56139.1
+> CP016894 ;   BSHJ0_03596 Choline-binding protein AOA56140.1
+> CP016894 ;   BSHJ0_03597 Choline transport system permease protein OpuBB AOA56141.1
+> CP016785 ;   BEN31_00340 holin AOC55344.1
+> CP016785 ;   BEN31_00655 choline ABC transporter permease AOC55393.1
+> CP016785 ;   BEN31_00940 holin AOC55446.1
+> CP016785 ;   BEN31_03355 antiholin LrgA AOC55870.1
+> CP016785 ;   BEN31_03360 antiholin LrgB AOC58739.1
+> CP016785 ;   BEN31_07205 choline esterase AOC56593.1
+> CP016785 ;   BEN31_16965 holin AOC58865.1
+> CP016913 ;   BARD7_02557 Antiholin-like protein LrgB AOC92022.1
+> CP016913 ;   BARD7_02558 Antiholin-like protein LrgA AOC92023.1
+> CP016913 ;   BARD7_03040 Choline transport system permease protein OpuBD AOC92480.1
+> CP016913 ;   BARD7_03042 Choline transport system permease protein OpuBB AOC92482.1
+> CP017070 ;   BGM20_06780 holin AOL30349.1
+> CP017070 ;   BGM20_08390 antiholin LrgB AOL32997.1
+> CP017070 ;   BGM20_08395 antiholin LrgA AOL30651.1
+> CP017070 ;   BGM20_11000 choline ABC transporter permease AOL31116.1
+> CP017070 ;   BGM20_11025 choline ABC transporter permease AOL31121.1
+> CP017070 ;   BGM20_13415 holin AOL31567.1
+> CP017072 ;   BGM23_02435 holin AOL25484.1
+> CP017072 ;   BGM23_04825 choline ABC transporter permease AOL25938.1
+> CP017072 ;   BGM23_04850 choline ABC transporter permease AOL25942.1
+> CP017072 ;   BGM23_07455 antiholin LrgA AOL26413.1
+> CP017072 ;   BGM23_07460 antiholin LrgB AOL28997.1
+> CP017072 ;   BGM23_09070 holin AOL26717.1
+> CP017112 ;   BS16045_03024 Antiholin-like protein LrgB AOL98739.1
+> CP017112 ;   BS16045_03025 Antiholin-like protein LrgA AOL98740.1
+> CP017112 ;   BS16045_03543 Choline transport system permease protein OpuBD AOL99233.1
+> CP017112 ;   BS16045_03544 Choline-binding protein AOL99234.1
+> CP017112 ;   BS16045_03545 Choline transport system permease protein OpuBB AOL99235.1
+> CP012691 ;   FORC24_5192 Antiholin-like protein LrgA AOM08482.1
+> CP012691 ;   FORC24_5196 High-affinity choline uptake protein BetT AOM08486.1
+> CP015254 ;   opuBA BTI247_25110 choline transport ATP-binding protein OpuBA AOM10900.1
+> CP015254 ;   cidA1 BTI247_39330 holin-like protein CidA AOM12315.1
+> CP015254 ;   cidA2 BTI247_40140 holin-like protein CidA 2 AOM12396.1
+> CP015254 ;   cidA3 BTI247_54290 holin-like protein CidA 2 AOM13766.1
+> CP015254 ;   lrgB BTI247_57940 antiholin-like protein LrgB AOM14130.1
+> CP015254 ;   lrgA BTI247_57950 antiholin-like protein LrgA AOM14131.1
+> CP012502 ;   betA BBEV_3205 Choline dehydrogenase AOM84520.1
+> CP016395 ;   BBJ33_06275 holin AOO61141.1
+> CP016395 ;   BBJ33_13610 antiholin LrgB AOO62533.1
+> CP016395 ;   BBJ33_13615 antiholin LrgA AOO62534.1
+> CP016395 ;   BBJ33_16125 choline ABC transporter permease AOO62983.1
+> CP016395 ;   BBJ33_16150 choline ABC transporter permease AOO62988.1
+> CP016395 ;   BBJ33_18380 holin AOO63415.1
+> CP017247 ;   BL1202_02296 1-alkyl-2-acetylglycerophosphocholine esterase AOP15244.1
+> CP017247 ;   BL1202_03317 Antiholin-like protein LrgB AOP16262.1
+> CP017247 ;   BL1202_03318 Antiholin-like protein LrgA AOP16263.1
+> CP017247 ;   BL1202_03554 High-affinity choline transporter AOP16476.1
+> CP017247 ;   BL1202_03956 Choline transport system permease protein OpuBD AOP16877.1
+> CP017314 ;   BSBS38_02906 Antiholin-like protein LrgB AOR99183.1
+> CP017314 ;   BSBS38_02907 Antiholin-like protein LrgA AOR99184.1
+> CP017314 ;   BSBS38_03488 Choline transport system permease protein OpuBD AOR99740.1
+> CP017314 ;   BSBS38_03489 Choline-binding protein AOR99741.1
+> CP017314 ;   BSBS38_03490 Choline transport system permease protein OpuBB AOR99742.1
+> CP015223 ;   A4A60_01340 holin AOS66404.1
+> CP015223 ;   A4A60_03600 holin AOS66804.1
+> CP015223 ;   A4A60_07490 holin AOS67506.1
+> CP015223 ;   A4A60_15155 antiholin LrgB AOS70273.1
+> CP015223 ;   A4A60_15160 antiholin LrgA AOS68919.1
+> CP015223 ;   A4A60_17215 holin AOS69277.1
+> CP015223 ;   A4A60_18030 holin AOS69428.1
+> CP015223 ;   A4A60_18330 choline ABC transporter permease AOS69481.1
+> CP015223 ;   A4A60_18355 choline ABC transporter permease AOS69486.1
+> CP015223 ;   A4A60_20680 holin AOS69913.1
+> CP014990 ;   A2I97_06125 holin AOU00662.1
+> CP014990 ;   A2I97_08775 choline esterase AOU01159.1
+> CP014990 ;   A2I97_09010 holin AOU01202.1
+> CP014990 ;   A2I97_12935 antiholin LrgB AOU01920.1
+> CP014990 ;   A2I97_12940 antiholin LrgA AOU01921.1
+> CP014990 ;   A2I97_15455 choline ABC transporter permease AOU02358.1
+> CP014990 ;   A2I97_15480 choline ABC transporter permease AOU02363.1
+> CP014990 ;   A2I97_17685 holin AOU02774.1
+> CP017676 ;   BKN48_03695 antiholin LrgB AOY07596.1
+> CP017676 ;   BKN48_03700 antiholin LrgA AOY04489.1
+> CP017676 ;   BKN48_06255 choline ABC transporter permease AOY04944.1
+> CP017676 ;   BKN48_06280 choline ABC transporter permease AOY04949.1
+> CP017676 ;   BKN48_08590 holin AOY05391.1
+> CP017017 ;   BGI23_17530 holin AOY16970.1
+> CP017017 ;   BGI23_17945 holin AOY17050.1
+> CP017017 ;   BGI23_24850 holin-like protein AOY18390.1
+> CP017017 ;   BGI23_26505 antiholin LrgB AOY18717.1
+> CP017786 ;   BK049_09510 holin AOZ90650.1
+> CP017786 ;   BK049_11540 choline ABC transporter permease AOZ89260.1
+> CP017786 ;   BK049_11815 holin AOZ89313.1
+> CP017776 ;   BK055_05020 holin APA01926.1
+> CP017776 ;   BK055_10265 choline esterase APA02898.1
+> CP017776 ;   BK055_13960 holin APA03582.1
+> CP017776 ;   BK055_14630 antiholin LrgB APA03706.1
+> CP017776 ;   BK055_14635 antiholin LrgA APA03707.1
+> CP017776 ;   BK055_16580 holin APA04046.1
+> CP017776 ;   BK055_17425 choline ABC transporter permease APA04201.1
+> CP017776 ;   BK055_17450 choline ABC transporter permease APA04206.1
+> CP017776 ;   BK055_19635 holin APA04618.1
+> CP017776 ;   BK055_20980 holin APA05047.1
+> CP017888 ;   BIZ35_13470 holin APB37696.1
+> CP017888 ;   BIZ35_17000 choline ABC transporter permease APB38294.1
+> CP017953 ;   BAMY_09535 holin APB82380.1
+> CP017953 ;   BAMY_10355 holin APB82537.1
+> CP017953 ;   BAMY_13450 antiholin LrgB APB83149.1
+> CP017953 ;   BAMY_13455 antiholin LrgA APB83150.1
+> CP017953 ;   BAMY_15950 choline ABC transporter permease APB83620.1
+> CP017953 ;   BAMY_15975 choline ABC transporter permease APB83625.1
+> CP017953 ;   BAMY_18135 holin APB84048.1
+> CP016021 Bacillus weihaiensis;   A9C19_14565 holin APH05859.1
+> CP018152 ;   BSF20_08115 holin APH48351.1
+> CP018152 ;   BSF20_10280 choline ABC transporter permease APH48766.1
+> CP018152 ;   BSF20_10305 choline ABC transporter permease APH48771.1
+> CP018152 ;   BSF20_12805 antiholin LrgA APH49215.1
+> CP018152 ;   BSF20_12810 antiholin LrgB APH49216.1
+> CP018152 ;   BSF20_19010 holin APH50389.1
+> CP018152 ;   BSF20_19480 holin APH50473.1
+> CP018295 ;   BHE96_09495 choline esterase APH35803.1
+> CP018295 ;   BHE96_14420 antiholin LrgB APH36708.1
+> CP018295 ;   BHE96_14425 antiholin LrgA APH36709.1
+> CP018295 ;   BHE96_17045 choline ABC transporter permease APH37171.1
+> CP018295 ;   BHE96_17070 choline ABC transporter permease APH37176.1
+> CP018295 ;   BHE96_19360 holin APH37605.1
+> CP018173 ;   BAX60_01595 choline ABC transporter permease APH66203.1
+> CP018173 ;   BAX60_01630 choline ABC transporter permease APH66210.1
+> CP018173 ;   BAX60_04150 holin APH66682.1
+> CP018173 ;   BAX60_19970 antiholin LrgB APH69543.1
+> CP018173 ;   BAX60_19975 antiholin LrgA APH69544.1
+> CP018185 ;   BSR08_11095 antiholin LrgB API43016.1
+> CP018185 ;   BSR08_11100 antiholin LrgA API43017.1
+> CP018185 ;   BSR08_13795 holin API43496.1
+> CP018185 ;   BSR08_14105 choline ABC transporter permease API43551.1
+> CP018185 ;   BSR08_14130 choline ABC transporter permease API43556.1
+> CP018185 ;   BSR08_14530 holin API43631.1
+> CP018185 ;   BSR08_16820 holin API44048.1
+> CP018198 ;   BSL056_13935 holin APJ11996.1
+> CP018198 ;   BSL056_14375 antiholin LrgB APJ13284.1
+> CP018198 ;   BSL056_14380 antiholin LrgA APJ12077.1
+> CP018198 ;   BSL056_16985 choline ABC transporter permease APJ12544.1
+> CP018198 ;   BSL056_19025 holin APJ13334.1
+> CP018249 ;   BSZ43_15040 antiholin LrgB APJ28009.1
+> CP018249 ;   BSZ43_15045 antiholin LrgA APJ28010.1
+> CP018249 ;   BSZ43_18000 choline ABC transporter permease APJ28519.1
+> CP018249 ;   BSZ43_19985 holin APJ28887.1
+> CP018249 ;   BSZ43_21280 holin APJ29125.1
+> CP017765 ;   BKP58_13910 holin API96851.1
+> CP017765 ;   BKP58_16155 holin API97259.1
+> CP017765 ;   BKP58_16545 choline ABC transporter permease API97333.1
+> CP017765 ;   BKP58_16570 choline ABC transporter permease API97338.1
+> CP017765 ;   BKP58_16870 holin API97391.1
+> CP017765 ;   BKP58_19550 antiholin LrgA API97863.1
+> CP017765 ;   BKP58_19555 antiholin LrgB API98463.1
+> CP018575 ;   BS467_05695 holin APP17852.1
+> CP018575 ;   BS467_08220 choline ABC transporter permease APP15712.1
+> CP018200 ;   BSO20_02705 choline esterase APQ49019.1
+> CP018200 ;   BSO20_13230 holin APQ50893.1
+> CP018200 ;   BSO20_15500 choline ABC transporter permease APQ51317.1
+> CP018200 ;   BSO20_15525 choline ABC transporter permease APQ51322.1
+> CP018200 ;   BSO20_18135 antiholin LrgA APQ51772.1
+> CP018200 ;   BSO20_18140 antiholin LrgB APQ51773.1
+> CP018905 ;   BVB96_19090 holin APT27099.1
+> CP018905 ;   BVB96_20615 holin APT27390.1
+> CP018905 ;   BVB96_27060 holin-like protein APT28573.1
+> CP018905 ;   BVB96_28770 antiholin-like protein LrgB APT28892.1
+> CP018905 ;   BVB96_28775 antiholin-like protein LrgA APT28893.1
+> CP015609 ;   BSA145_02265 holin APT48111.1
+> CP015609 ;   BSA145_04560 choline ABC transporter permease APT45259.1
+> CP015609 ;   BSA145_07425 antiholin LrgB APT48172.1
+> CP015609 ;   BSA145_17185 choline esterase APT47443.1
+> CP015610 ;   BSA41_07330 choline esterase APT49759.1
+> CP015610 ;   BSA41_11270 antiholin LrgB APT51993.1
+> CP015610 ;   BSA41_11275 antiholin LrgA APT50491.1
+> CP015610 ;   BSA41_13770 choline ABC transporter permease APT50940.1
+> CP015610 ;   BSA41_15930 holin APT52048.1
+> CP015611 ;   BSA171_01780 holin APT55543.1
+> CP015611 ;   BSA171_03940 choline ABC transporter permease APT52784.1
+> CP015611 ;   BSA171_06435 antiholin LrgA APT53232.1
+> CP015611 ;   BSA171_06440 antiholin LrgB APT55602.1
+> CP015611 ;   BSA171_10390 choline esterase APT53965.1
+> CP019589 ;   BZG08_19280 holin AQM47565.1
+> CP019589 ;   BZG08_20815 holin AQM47859.1
+> CP019589 ;   BZG08_27305 holin-like protein AQM49056.1
+> CP019589 ;   BZG08_29030 antiholin-like protein LrgB AQM49385.1
+> CP019589 ;   BZG08_29035 antiholin-like protein LrgA AQM49386.1
+> CP019627 ;   BZ167_00185 choline esterase AQP94521.1
+> CP019627 ;   BZ167_11055 holin-like protein CidA AQP96481.1
+> CP019627 ;   BZ167_13325 choline ABC transporter permease AQP96912.1
+> CP019627 ;   BZ167_13350 choline ABC transporter permease AQP96917.1
+> CP019627 ;   BZ167_16010 antiholin LrgA AQP97380.1
+> CP019627 ;   BZ167_16015 antiholin LrgB AQP97381.1
+> CP019627 ;   BZ167_20030 holin AQP98138.1
+> CP014487 ;   FORC21_1881 Choline binding protein A AQQ62676.1
+> CP014487 ;   FORC21_2154 choline transport system permease protein OpuBB AQQ62949.1
+> CP014487 ;   FORC21_2645 Choline binding protein A AQQ63440.1
+> CP014487 ;   FORC21_3511 holin-like protein CidA 1 AQQ64306.1
+> CP014487 ;   FORC21_3616 holin-like protein CidA 2 AQQ64411.1
+> CP014487 ;   FORC21_4985 holin-like protein CidA 1 AQQ65780.1
+> CP014487 ;   FORC21_5303 antiholin-like protein LrgB AQQ66098.1
+> CP014487 ;   FORC21_5304 antiholin-like protein LrgA AQQ66099.1
+> CP019039 ;   BVH55_10455 choline esterase AQS44310.1
+> CP019039 ;   BVH55_14450 antiholin LrgB AQS45049.1
+> CP019039 ;   BVH55_14455 antiholin LrgA AQS45050.1
+> CP019039 ;   BVH55_17050 choline ABC transporter permease AQS45501.1
+> CP019039 ;   BVH55_17075 choline ABC transporter permease AQS45506.1
+> CP019039 ;   BVH55_19375 holin-like protein CidA AQS45937.1
+> CP018875 ;   BUW91_03910 antiholin LrgB AQU72515.1
+> CP018875 ;   BUW91_11035 holin AQU73803.1
+> CP018875 ;   BUW91_24010 holin AQU76172.1
+> CP016792 ;   BC359_03390 holin AQX53423.1
+> CP016792 ;   BC359_18470 choline transporter AQX56076.1
+> CP020005 ;   B4918_07790 holin AQY37915.1
+> CP020005 ;   B4918_16130 holin AQY39386.1
+> CP020005 ;   B4918_20400 holin AQY40154.1
+> CP020005 ;   B4918_20825 holin AQY40232.1
+> CP020005 ;   B4918_27585 holin AQY41476.1
+> CP020005 ;   B4918_28565 holin-like protein AQY41656.1
+> CP020005 ;   B4918_28635 holin AQY41670.1
+> CP020005 ;   B4918_30455 antiholin-like protein LrgB AQY42007.1
+> CP020005 ;   B4918_30460 antiholin-like protein LrgA AQY42008.1
+> CP020005 ;   B4918_30930 holin AQY42321.1
+> CP020005 ;   B4918_31240 holin AQY42379.1
+> CP020005 ;   B4918_33080 holin AQY42689.1
+> CP020103 ;   B4U62_07095 holin AQZ90176.1
+> CP020103 ;   B4U62_13980 holin AQZ91480.1
+> CP020103 ;   B4U62_15575 antiholin-like protein LrgB AQZ91781.1
+> CP020103 ;   B4U62_15580 antiholin-like protein LrgA AQZ91782.1
+> CP020103 ;   B4U62_18200 choline ABC transporter permease AQZ92252.1
+> CP020103 ;   B4U62_18205 choline-binding protein AQZ92253.1
+> CP020103 ;   B4U62_18210 choline ABC transporter permease AQZ92254.1
+> CP020103 ;   B4U62_18215 choline transport ATP-binding protein OpuBA AQZ92255.1
+> CP020103 ;   B4U62_20620 holin-like protein CidA AQZ92708.1
+> CP018007 ;   BLL65_00910 holin AQZ71612.1
+> CP018007 ;   BLL65_03155 choline ABC transporter permease AQZ72035.1
+> CP018007 ;   BLL65_03180 choline ABC transporter permease AQZ72040.1
+> CP018007 ;   BLL65_05725 antiholin LrgA AQZ72486.1
+> CP018007 ;   BLL65_05730 antiholin LrgB AQZ72487.1
+> CP018007 ;   BLL65_09630 choline esterase AQZ73218.1
+> CP020352 ;   BLMD_10515 choline esterase ARA85865.1
+> CP020352 ;   BLMD_15490 antiholin LrgB ARA86773.1
+> CP020352 ;   BLMD_15495 antiholin LrgA ARA86774.1
+> CP020352 ;   BLMD_18250 choline ABC transporter permease ARA87262.1
+> CP020352 ;   BLMD_20325 holin ARA87648.1
+> CP020352 ;   BLMD_21630 holin ARA87887.1
+> CP020375 ;   BAJT_09235 choline esterase ARB33456.1
+> CP020375 ;   BAJT_13255 antiholin LrgB ARB34213.1
+> CP020375 ;   BAJT_13260 antiholin LrgA ARB34214.1
+> CP020375 ;   BAJT_15875 choline ABC transporter permease ARB34670.1
+> CP020375 ;   BAJT_15900 choline ABC transporter permease ARB34675.1
+> CP020375 ;   BAJT_18170 holin-like protein CidA ARB35100.1
+> CP020367 ;   BSK2_14460 antiholin-like protein LrgB ARB38075.1
+> CP020367 ;   BSK2_14465 antiholin LrgA ARB38076.1
+> CP020367 ;   BSK2_17095 choline ABC transporter permease ARB38549.1
+> CP020367 ;   BSK2_17100 choline transport ATP-binding protein OpuBA ARB38550.1
+> CP020367 ;   BSK2_19570 holin-like protein CidA ARB39001.1
+> CP020435 ;   A6J74_03635 holin ARC28103.1
+> CP020435 ;   A6J74_17315 antiholin-like protein LrgB ARC30469.1
+> CP020435 ;   A6J74_18255 LPS biosynthesis choline kinase ARC30649.1
+> CP020435 ;   A6J74_18265 CTP--phosphocholine cytidylyltransferase ARC30651.1
+> CP020435 ;   A6J74_18905 holin-like protein ARC30766.1
+> CP020435 ;   A6J74_25885 holin ARC32048.1
+> CP020435 ;   A6J74_26765 holin ARC32210.1
+> CP014795 ;   BaDB11_00014 bacteriophage holin ARC58684.1
+> CP014795 ;   lrgB BaDB11_01238 antiholin-like protein LrgB ARC59904.1
+> CP014795 ;   lrgA BaDB11_01239 antiholin-like protein LrgA ARC59905.1
+> CP014795 ;   BaDB11_01402 holin family protein ARC60068.1
+> CP014795 ;   cidA BaDB11_02241 holin-like protein CidA ARC60881.1
+> CP014843 ;   cidA B14_00416 holin-like protein CidA ARC63443.1
+> CP014843 ;   B14_01259 holin protein ARC64260.1
+> CP014843 ;   lrgA B14_01426 antiholin-like protein LrgA ARC64427.1
+> CP014843 ;   lrgB B14_01427 antiholin-like protein LrgB ARC64428.1
+> CP014843 ;   B14_200171 bacteriophage holin ARC67382.1
+> CP014793 ;   B34_00348 bacteriophage holin ARC67791.1
+> CP014793 ;   lrgB B34_01671 antiholin-like protein LrgB ARC69111.1
+> CP014793 ;   lrgA B34_01672 antiholin-like protein LrgA ARC69112.1
+> CP014793 ;   B34_01842 holin family protein ARC69282.1
+> CP014793 ;   cidA B34_02697 holin-like protein CidA ARC70111.1
+> CP014794 ;   B37_00534 bacteriophage holin ARC72587.1
+> CP014794 ;   lrgB B37_02641 antiholin-like protein LrgB ARC74690.1
+> CP014794 ;   lrgA B37_02642 antiholin-like protein LrgA ARC74691.1
+> CP014794 ;   B37_02809 holin family protein ARC74858.1
+> CP014794 ;   cidA B37_03654 holin-like protein CidA ARC75677.1
+> CP018100 ;   BRL64_13120 antiholin LrgB ARD58310.1
+> CP018100 ;   BRL64_13125 antiholin LrgA ARD57072.1
+> CP018100 ;   BRL64_14920 holin ARD57389.1
+> CP018100 ;   BRL64_15850 choline ABC transporter permease ARD57564.1
+> CP018100 ;   BRL64_17870 holin ARD58359.1
+> CP020722 ;   B7470_04380 antiholin-like protein LrgB ARI85434.1
+> CP020722 ;   B7470_04385 antiholin LrgA ARI85435.1
+> CP020722 ;   B7470_07070 holin ARI85909.1
+> CP020722 ;   B7470_07380 choline ABC transporter permease ARI85966.1
+> CP020722 ;   B7470_07800 holin ARI86042.1
+> CP020722 ;   B7470_10055 holin-like protein CidA ARI86455.1
+> CP020722 ;   B7470_18815 holin ARI87948.1
+> CP020751 ;   B7492_04475 holin ARJ20529.1
+> CP020751 ;   B7492_07910 holin ARJ21170.1
+> CP020751 ;   B7492_13605 holin ARJ22197.1
+> CP020751 ;   B7492_18050 holin ARJ22963.1
+> CP020751 ;   B7492_19425 holin ARJ23219.1
+> CP020751 ;   B7492_19965 holin ARJ23322.1
+> CP020751 ;   B7492_25650 holin ARJ24383.1
+> CP020751 ;   B7492_27535 holin-like protein ARJ24699.1
+> CP020751 ;   B7492_29110 antiholin LrgB ARJ24997.1
+> CP020751 ;   B7492_33615 holin ARJ25975.1
+> CP020751 ;   B7492_34035 holin ARJ26054.1
+> CP020805 ;   B7941_01375 holin-like protein CidA ARJ73253.1
+> CP020805 ;   B7941_11795 choline esterase ARJ75166.1
+> CP020805 ;   B7941_16040 antiholin LrgB ARJ75969.1
+> CP020805 ;   B7941_16045 antiholin LrgA ARJ75970.1
+> CP020805 ;   B7941_18830 choline ABC transporter permease ARJ76463.1
+> CP020805 ;   B7941_18855 choline ABC transporter permease ARJ76468.1
+> CP020814 ;   betC BkAM31D_01720 Choline-sulfatase ARK28670.1
+> CP020814 ;   opuBA BkAM31D_06770 Choline transport ATP-binding protein OpuBA ARK29587.1
+> CP020814 ;   pcs BkAM31D_13005 Phosphatidylcholine synthase ARK30675.1
+> CP020893 ;   B9C48_09235 choline esterase ARM27999.1
+> CP020893 ;   B9C48_13260 antiholin LrgB ARM28758.1
+> CP020893 ;   B9C48_13265 antiholin LrgA ARM28759.1
+> CP020893 ;   B9C48_15880 choline ABC transporter permease ARM29218.1
+> CP020893 ;   B9C48_15905 choline ABC transporter permease ARM29223.1
+> CP020893 ;   B9C48_18180 holin-like protein CidA ARM29649.1
+> CP011937 Bacillus velezensis;   AAV34_01275 holin ARN85681.1
+> CP011937 Bacillus velezensis;   AAV34_03510 choline ABC transporter permease ARN86100.1
+> CP011937 Bacillus velezensis;   AAV34_03535 choline ABC transporter permease ARN86105.1
+> CP011937 Bacillus velezensis;   AAV34_06080 antiholin LrgA ARN86549.1
+> CP011937 Bacillus velezensis;   AAV34_06085 antiholin LrgB ARN86550.1
+> CP011937 Bacillus velezensis;   AAV34_09995 choline esterase ARN87290.1
+> CP011937 Bacillus velezensis;   AAV34_12670 holin ARN87803.1
+> CP021066 ;   CAB88_09335 holin ARP57279.1
+> CP021066 ;   CAB88_11890 holin ARP57740.1
+> CP021066 ;   CAB88_13240 holin ARP57972.1
+> CP021066 ;   CAB88_18495 holin ARP58937.1
+> CP021066 ;   CAB88_18920 holin ARP59016.1
+> CP021066 ;   CAB88_25535 holin ARP60241.1
+> CP021066 ;   CAB88_26625 holin-like protein ARP60442.1
+> CP021066 ;   CAB88_28295 antiholin LrgB ARP60754.1
+> CP021066 ;   CAB88_28300 antiholin-like protein LrgA ARP60755.1
+> CP021066 ;   CAB88_31360 holin ARP61493.1
+> CP021066 ;   CAB88_32475 holin ARP61722.1
+> CP020881 ;   B4U37_17450 holin ART77727.1
+> CP016767 ;   BCV50_00420 holin ARV43550.1
+> CP016767 ;   BCV50_00430 holin ARV43552.1
+> CP016767 ;   BCV50_14355 holin ARV46086.1
+> CP016767 ;   BCV50_16770 choline ABC transporter permease ARV46539.1
+> CP016767 ;   BCV50_16795 choline ABC transporter permease ARV46544.1
+> CP016767 ;   BCV50_19420 antiholin LrgA ARV47009.1
+> CP016767 ;   BCV50_19425 antiholin LrgB ARV47010.1
+> CP016767 ;   BCV50_20685 holin ARV47244.1
+> CP021500 ;   S101359_00604 Choline transport system permease protein OpuBB ARW05639.1
+> CP021500 ;   S101359_01965 1-alkyl-2-acetylglycerophosphocholine esterase ARW06972.1
+> CP021500 ;   S101359_02820 Antiholin-like protein LrgB ARW07824.1
+> CP021500 ;   S101359_02821 Antiholin-like protein LrgA ARW07825.1
+> CP021500 ;   S101359_03351 Choline transport system permease protein OpuBD ARW08330.1
+> CP021508 ;   S101441_03053 Antiholin-like protein LrgB ARW32598.1
+> CP021508 ;   S101441_03054 Antiholin-like protein LrgA ARW32599.1
+> CP021508 ;   S101441_03704 Choline transport system permease protein OpuBD ARW33224.1
+> CP021508 ;   S101441_03705 Choline-binding protein ARW33225.1
+> CP021508 ;   S101441_03706 Choline transport system permease protein OpuBB ARW33226.1
+> CP021506 ;   S101267_01024 putative holin ARW38114.1
+> CP021506 ;   S101267_01976 putative holin ARW39064.1
+> CP021506 ;   S101267_02728 putative holin ARW39814.1
+> CP021506 ;   S101267_02932 Antiholin-like protein LrgB ARW40016.1
+> CP021506 ;   S101267_02933 Antiholin-like protein LrgA ARW40017.1
+> CP021506 ;   S101267_03521 Choline transport system permease protein OpuBD ARW40580.1
+> CP021506 ;   S101267_03523 Choline transport system permease protein OpuBB ARW40582.1
+> CP021670 ;   S100141_01479 1-alkyl-2-acetylglycerophosphocholine esterase ARW42801.1
+> CP021670 ;   S100141_02515 Antiholin-like protein LrgB ARW43834.1
+> CP021670 ;   S100141_02516 Antiholin-like protein LrgA ARW43835.1
+> CP021670 ;   S100141_02756 High-affinity choline transporter ARW44052.1
+> CP021670 ;   S100141_03131 Choline transport system permease protein OpuBD ARW44426.1
+> CP021498 ;   S101444_02915 Antiholin-like protein LrgB ARV99760.1
+> CP021498 ;   S101444_02916 Antiholin-like protein LrgA ARV99761.1
+> CP021498 ;   S101444_03431 Choline transport system permease protein OpuBD ARW00252.1
+> CP021498 ;   S101444_03432 Choline-binding protein ARW00253.1
+> CP021498 ;   S101444_03433 Choline transport system permease protein OpuBB ARW00254.1
+> CP021499 ;   S100757_02904 Antiholin-like protein LrgB ARW03832.1
+> CP021499 ;   S100757_02905 Antiholin-like protein LrgA ARW03833.1
+> CP021499 ;   S100757_03419 Choline transport system permease protein OpuBD ARW04322.1
+> CP021499 ;   S100757_03420 Choline-binding protein ARW04323.1
+> CP021499 ;   S100757_03421 Choline transport system permease protein OpuBB ARW04324.1
+> CP017573 ;   BJG91_08950 holin ARV92736.1
+> CP017573 ;   BJG91_14315 holin ARV93739.1
+> CP017573 ;   BJG91_14445 holin ARV93763.1
+> CP017573 ;   BJG91_14765 holin ARV93824.1
+> CP017573 ;   BJG91_21740 holin-like protein ARV95135.1
+> CP017573 ;   BJG91_23330 antiholin LrgB ARV95438.1
+> CP021679 ;   S100027_02171 1-alkyl-2-acetylglycerophosphocholine esterase ARW54167.1
+> CP021679 ;   S100027_03206 Antiholin-like protein LrgB ARW55199.1
+> CP021679 ;   S100027_03207 Antiholin-like protein LrgA ARW55200.1
+> CP021679 ;   S100027_03442 High-affinity choline transporter ARW55412.1
+> CP021679 ;   S100027_03813 Choline transport system permease protein OpuBD ARW55782.1
+> CP019235 ;   BVH75_08530 holin ARX66086.1
+> CP019235 ;   BVH75_16095 holin ARX67461.1
+> CP019235 ;   BVH75_16545 holin ARX67546.1
+> CP019235 ;   BVH75_19295 holin ARX68074.1
+> CP019235 ;   BVH75_22930 holin ARX68745.1
+> CP019235 ;   BVH75_24055 holin-like protein ARX68951.1
+> CP019235 ;   BVH75_25750 antiholin-like protein LrgB ARX69269.1
+> CP019235 ;   BVH75_25755 antiholin-like protein LrgA ARX69270.1
+> CP021495 ;   BAGQ_1384 holin ARZ57618.1
+> CP021495 ;   BAGQ_1972 choline esterase hypothetical protein ARZ58206.1
+> CP021495 ;   lrgB BAGQ_2833 antiholin antiholin-like protein LrgB ARZ59063.1
+> CP021495 ;   opuBD BAGQ_3385 choline ABC transporter permease ARZ59590.1
+> CP021495 ;   cidA BAGQ_3882 holin ARZ60086.1
+> CP020723 ;   B7P25_18090 holin ARZ63599.1
+> CP020723 ;   B7P25_18800 holin ARZ63735.1
+> CP020723 ;   B7P25_19330 holin ARZ63834.1
+> CP020723 ;   B7P25_19615 holin ARZ63885.1
+> CP020723 ;   B7P25_26500 holin-like protein ARZ65149.1
+> CP020723 ;   B7P25_28140 antiholin-like protein LrgB ARZ65467.1
+> CP020723 ;   B7P25_28145 antiholin-like protein LrgA ARZ65468.1
+> CP021911 ;   CDO84_06000 holin ASB60558.1
+> CP021911 ;   CDO84_12065 holin ASB61680.1
+> CP021911 ;   CDO84_13690 antiholin-like protein LrgB ASB61980.1
+> CP021911 ;   CDO84_13695 antiholin LrgA ASB61981.1
+> CP021911 ;   CDO84_16370 choline ABC transporter permease ASB62464.1
+> CP021911 ;   CDO84_18740 holin-like protein CidA ASB62900.1
+> CP021888 ;   S100072_01276 putative holin ASB52612.1
+> CP021888 ;   S100072_01972 1-alkyl-2-acetylglycerophosphocholine esterase ASB53308.1
+> CP021888 ;   S100072_02801 Antiholin-like protein LrgB ASB54132.1
+> CP021888 ;   S100072_02802 Antiholin-like protein LrgA ASB54133.1
+> CP021888 ;   S100072_03379 Choline transport system permease protein OpuBD ASB54685.1
+> CP021888 ;   S100072_03381 Choline transport system permease protein OpuBB ASB54687.1
+> CP021889 ;   S100761_02914 Antiholin-like protein LrgB ASB58240.1
+> CP021889 ;   S100761_02915 Antiholin-like protein LrgA ASB58241.1
+> CP021889 ;   S100761_03430 Choline transport system permease protein OpuBD ASB58731.1
+> CP021889 ;   S100761_03431 Choline-binding protein ASB58732.1
+> CP021889 ;   S100761_03432 Choline transport system permease protein OpuBB ASB58733.1
+> CP021891 ;   S101413_01384 putative holin ASB64831.1
+> CP021891 ;   S101413_02133 1-alkyl-2-acetylglycerophosphocholine esterase ASB65580.1
+> CP021891 ;   S101413_02913 putative holin ASB66358.1
+> CP021891 ;   S101413_03068 Antiholin-like protein LrgB ASB66510.1
+> CP021891 ;   S101413_03069 Antiholin-like protein LrgA ASB66511.1
+> CP021891 ;   S101413_03697 putative holin ASB67114.1
+> CP021891 ;   S101413_03769 Choline transport system permease protein OpuBD ASB67186.1
+> CP021891 ;   S101413_03771 Choline transport system permease protein OpuBB ASB67188.1
+> CP021891 ;   S101413_03777 Choline transport ATP-binding protein OpuBA ASB67194.1
+> CP021893 ;   S100333_03046 Antiholin-like protein LrgB ASB70935.1
+> CP021893 ;   S100333_03047 Antiholin-like protein LrgA ASB70936.1
+> CP021893 ;   S100333_03646 Choline transport system permease protein OpuBD ASB71510.1
+> CP021893 ;   S100333_03647 Choline-binding protein ASB71511.1
+> CP021893 ;   S100333_03648 Choline transport system permease protein OpuBB ASB71512.1
+> CP021920 ;   S101395_00752 Choline transport system permease protein OpuBD ASB87306.1
+> CP021920 ;   S101395_01460 Antiholin-like protein LrgA ASB87970.1
+> CP021920 ;   S101395_01461 Antiholin-like protein LrgB ASB87971.1
+> CP021920 ;   S101395_02544 Choline transport system permease protein OpuBB ASB89051.1
+> CP021920 ;   S101395_03856 Choline transport system permease protein OpuBB ASB90362.1
+> CP021903 ;   CD007_06860 holin ASB99069.1
+> CP021903 ;   CD007_12785 holin ASC00169.1
+> CP021903 ;   CD007_14420 antiholin-like protein LrgB ASC00478.1
+> CP021903 ;   CD007_14425 antiholin LrgA ASC00479.1
+> CP021903 ;   CD007_17095 choline ABC transporter permease ASC00955.1
+> CP021903 ;   CD007_17100 choline transport ATP-binding protein OpuBA ASC00956.1
+> CP021903 ;   CD007_19505 holin-like protein CidA ASC01399.1
+> CP021977 ;   CEG11_03440 holin ASF54207.1
+> CP021977 ;   CEG11_13435 antiholin LrgB ASF56052.1
+> CP021977 ;   CEG11_13440 antiholin LrgA ASF56053.1
+> CP021977 ;   CEG11_15955 choline ABC transporter permease ASF56501.1
+> CP021977 ;   CEG11_15980 choline ABC transporter permease ASF56505.1
+> CP021977 ;   CEG11_18250 holin ASF56930.1
+> CP022045 ;   CEQ19_05765 holin ASE28564.1
+> CP022045 ;   CEQ19_07300 holin ASE28847.1
+> CP022045 ;   CEQ19_13770 holin-like protein ASE30012.1
+> CP022045 ;   CEQ19_15515 antiholin-like protein LrgB ASE30332.1
+> CP022045 ;   CEQ19_15520 antiholin-like protein LrgA ASE30333.1
+> CP011252 ;   WV34_06915 holin ASF28502.1
+> CP011252 ;   WV34_13290 antiholin LrgB ASF29697.1
+> CP011252 ;   WV34_13295 antiholin LrgA ASF29698.1
+> CP011252 ;   WV34_15150 holin ASF30014.1
+> CP011252 ;   WV34_15955 choline ABC transporter permease ASF30164.1
+> CP011252 ;   WV34_15980 choline ABC transporter permease ASF30169.1
+> CP011252 ;   WV34_18135 holin ASF30571.1
+> CP016315 ;   BA203_17625 holin ASI73929.1
+> CP016315 ;   BA203_18065 holin ASI74013.1
+> CP016315 ;   BA203_24845 holin-like protein ASI75297.1
+> CP016315 ;   BA203_26410 antiholin LrgB ASI75597.1
+> CP016317 ;   BA202_17735 holin ASI78995.1
+> CP016317 ;   BA202_25080 holin-like protein ASI80371.1
+> CP016317 ;   BA202_26680 antiholin LrgB ASI80676.1
+> CP017234 ;   FORC48_5448 Antiholin-like protein LrgA ASI86522.1
+> CP017234 ;   FORC48_5452 High-affinity choline uptake protein BetT ASI86526.1
+> CP016596 ;   BA204_12420 holin ASJ48825.1
+> CP016596 ;   BA204_17065 holin ASJ49685.1
+> CP016596 ;   BA204_17865 holin ASJ49841.1
+> CP016596 ;   BA204_18250 holin ASJ49916.1
+> CP016596 ;   BA204_24830 holin-like protein ASJ51156.1
+> CP016596 ;   BA204_26395 antiholin LrgB ASJ51454.1
+> CP016596 ;   BA204_27935 holin ASJ51885.1
+> LT603683 ;   BGLY_1059 holin SCA84882.1
+> LT603683 ;   xhlB BGLY_1352 holin SCA85175.1
+> LT603683 ;   bhlA BGLY_1560 holin SCA85383.1
+> LT603683 ;   BGLY_1562 bacteriophage PBSX holin SCA85385.1
+> LT603683 ;   BGLY_1905 holin SCA85728.1
+> LT603683 ;   lrgB BGLY_3424 Antiholin-like protein LrgB SCA87247.1
+
+
+-------------------------------------CAN KEEP--------------------------------------------------------------------------
+> AE017195 ;   BCE_0174 Tn7-like transposition protein A AAS39110.1
+> AE017195 ;   BCE_0175 Tn7-like transposition protein B AAS39111.1
+> AE017195 ;   BCE_0176 Tn7-like transposition protein C AAS39112.1
+> AE017195 ;   BCE_0177 Tn7-like transposition protein D AAS39113.1
+> AE017195 ;   BCE_0178 Tn7-like transposition protein D AAS39114.1
+> AE017195 ;   BCE_0182 Tn7-like transposition protein A AAS39118.1
+> AE017195 ;   BCE_0183 Tn7-like transposition protein B AAS39119.1
+> CP002394 ;   Bcell_0220 Tn7-like transposition protein D ADU28508.1
+> CP002394 ;   Bcell_3080 Tn7-like transposition protein D ADU31324.1
+> AE017195 ;   BCE_0184 Tn7-like transposition protein C AAS39120.1
+> AE017195 ;   BCE_0185 Tn7-like transposition protein D AAS39121.1
+> CP001880 ;   tnpA BpOF4_20049 transposition regulatory protein TnpA ADC52009.1
+> CP001880 ;   tnpB BpOF4_20054 transposition regulatory protein TnpB ADC52010.1
+> CP001880 ;   tnpC BpOF4_20059 transposition regulatory protein TnpC ADC52011.1
+> CP008712 ;   BcrFT9_00179 Tn7-like transposition protein A AIE77796.1
+> CP008712 ;   BcrFT9_00180 Tn7-like transposition protein B AIE77797.1
+> CP008712 ;   BcrFT9_00181 Tn7-like transposition protein C AIE77798.1
+> CP008712 ;   BcrFT9_00182 Tn7-like transposition protein D AIE77799.1
+> CP008712 ;   BcrFT9_00183 Tn7-like transposition protein D AIE77800.1
+> CP008712 ;   BcrFT9_00184 Tn7-like transposition protein A AIE77801.1
+> CP008712 ;   BcrFT9_00185 Tn7-like transposition protein B AIE77802.1
+> CP003898 ;   tnpC BTB_78p00710 transposition regulatory protein TnpC AFV22143.1
+> CP003838 ;   B938_16315 transposition regulatory protein TnpC AFZ92267.1
+> CP008712 ;   BcrFT9_00186 Tn7-like transposition protein C AIE77803.1
+> CP008712 ;   BcrFT9_00187 Tn7-like transposition protein D AIE77804.1
+> CP007625 ;   DJ92_434 putative transposition regulatory protein TnpC AIK36431.1
+> CP007625 ;   DJ92_4747 putative tn7-like transposition protein D AIK40196.1
+> CP007625 ;   DJ92_5506 putative transposition regulatory protein TnpC AIK35395.1
+> CP007614 ;   DF16_pBMB293orf00300 transposition regulatory protein TnpC AIM34824.1
+> CP007614 ;   DF16_pBMB69orf00063 putative transposition helper protein AIM34412.1
+> CP009689 ;   BG05_2655 putative transposition regulatory protein TnpC AJH22359.1
+> CP009689 ;   BG05_4593 putative transposition regulatory protein TnpC AJH17622.1
+> CP009599 ;   BF32_3285 putative tn7-like transposition protein A AJH69417.1
+> CP009634 ;   AK40_286 putative transposition regulatory protein TnpC AJI10493.1
+> CP009634 ;   AK40_1855 putative transposition regulatory protein TnpC AJI10145.1
+> CP009634 ;   AK40_2207 putative transposition regulatory protein TnpC AJI13719.1
+> CP009634 ;   AK40_4328 putative tn7-like transposition protein A AJI12247.1
+> CP009634 ;   AK40_5071 putative transposition regulatory protein TnpC AJI09719.1
+> CP017247 ;   BL1202_00220 Transposon Tn7 transposition protein TnsA AOP13203.1
+> CP017247 ;   BL1202_00221 Transposon Tn7 transposition protein TnsB AOP13204.1
+> CP017247 ;   BL1202_00222 Transposon Tn7 transposition protein TnsC AOP13205.1
+> CP009634 ;   AK40_5666 putative transposition regulatory protein TnpC AJI08932.1
+> CP009634 ;   AK40_5689 putative transposition regulatory protein TnpC AJI08780.1
+> CP009634 ;   AK40_5709 putative transposition regulatory protein TnpC AJI08838.1
+> CP009634 ;   AK40_6218 putative transposition regulatory protein TnpC AJI08612.1
+> CP009646 Bacillus thuringiensis str. Al Hakam;   BG07_199 putative tn7-like transposition protein D AJI15592.1
+> CP009646 Bacillus thuringiensis str. Al Hakam;   BG07_4500 putative transposition regulatory protein TnpC AJI15052.1
+> CP009646 Bacillus thuringiensis str. Al Hakam;   BG07_5465 putative transposition regulatory protein TnpC AJI14689.1
+> CP009917 ;   BG04_4124 putative transposition regulatory protein TnpC AJI23293.1
+> CP009917 ;   BG04_5760 putative transposition regulatory protein TnpC AJI25642.1
+> CP009917 ;   BG04_5825 putative transposition regulatory protein TnpC AJI25611.1
+> AE017335 ;   GBAA_pXO1_0155 transposon resolvase AAT28896.2
+> CP001176 ;   BCB4264_A0727 transposon, resolvase ACK59717.1
+> CP001180 ;   BCAH187_C0149 transposon resolvase ACJ82860.1
+> CP001180 ;   BCAH187_C0204 transposon resolvase ACJ82812.1
+> CP001180 ;   BCAH187_C0206 transposon resolvase ACJ82762.1
+> AP014872 ;   KNN_05414 transposon resolvase BAR86234.1
+> CP001214 ;   BAMEG_A0151 transposon resolvase ACP17853.1
+> CP001284 ;   BCAH820_B0119 transposon resolvase ACK92834.1
+> CP001284 ;   BCAH820_B0216 transposon resolvase ACK92694.1
+> CP001284 ;   BCAH820_B0222 transposon resolvase ACK92877.1
+> CP001406 ;   BCA_2749 transposon resolvase ACO26341.1
+> CP001406 ;   BCA_3428 transposon, resolvase ACO30867.1
+> CP008698 ;   BSUB_10003 transposon Tn917 resolvase AIC42604.1
+> CP001597 ;   BAA_A0158 transposon resolvase ACQ51058.1
+> CP002207 ;   BATR1942_07520 transposon resolvase ADP32443.1
+> CP002906 Bacillus subtilis subsp. subtilis str. RO-NN-1;   I33_1999 transposon resolvase AEP90958.1
+> CP003751 ;   BCK_21535 transposon resolvase AFQ12191.1
+> CP003751 ;   BCK_26343 transposon resolvase AFQ13080.1
+> CP004119 ;   KSO_010520 transposon resolvase AGF27595.1
+> CP003690 ;   MC28_D169 transposon Tn552 DNA-invertase bin3 AFU17218.1
+> CP003690 ;   MC28_G261 conjugative transposon membrane protein AFU17994.1
+> CP003690 ;   MC28_G264 conjugative transposon membrane protein AFU17997.1
+> CP003690 ;   MC28_C036 conjugative transposon membrane protein AFU16984.1
+> CP000765 Bacillus cytotoxicus NVH 391-98;   Bcer98_0419 putative conjugative transposon protein ABS20774.1
+> CP001880 ;   BpOF4_06430 putative conjugative transposon recombinase ADC49346.1
+> CP005940 ;   YBT1518_33047 conjugative transposon membrane protein AHA75633.1
+> CP005940 ;   YBT1518_33072 conjugative transposon protein AHA75638.1
+> CP005940 ;   YBT1518_31835 conjugative transposon protein AHA75836.1
+> CP005940 ;   YBT1518_31860 conjugative transposon membrane protein AHA75841.1
+> CP009940 ;   NT98_5688 conjugative transposon TcpC family protein AIY72870.1
+> CP009333 ;   BF38_5409 conjugative transposon TcpC family protein AJG79668.1
+> CP009368 ;   BG03_5442 conjugative transposon TcpC family protein AJG91350.1
+> CP009595 ;   BG11_5709 conjugative transposon TcpC family protein AJH60313.1
+> CP009589 ;   AQ16_5479 conjugative transposon TcpC family protein AJI08074.1
+> CP009344 ;   AS86_6774 conjugative transposon TcpC family protein AJH03468.1
+> LN680001 ;   BS34A_19340 Conjugative transposon protein TcpC CEJ77355.1
+> LN680001 ;   BS34A_19340 Conjugative transposon protein TcpC CEJ77355.1
+> LN649259 ;   BS49_05670 Conjugative transposon protein TcpC CEI55620.1
+> CP015361 ;   BT246_68350 conjugative transposon protein TcpC ANS52126.1
+> CP012108 ;   AC241_31190 conjugative transposon membrane protein AKR13128.1
+> CP014843 ;   B14_04126 conjugative transposon protein TcpC ARC67089.1
+> CP014793 ;   B34_03602 conjugative transposon protein TcpC ARC70967.1
+> CP011686 Bacillus velezensis;   ABH13_0489 conjugative transposon protein AKL75097.1
+> LN649259 ;   BS49_15710 Conjugative transposon protein TcpC CEI56575.1
+> LN649259 ;   BS49_05670 Conjugative transposon protein TcpC CEI55620.1
+> CP015361 ;   BT246_68350 conjugative transposon protein TcpC ANS52126.1
+> CP012108 ;   AC241_31190 conjugative transposon membrane protein AKR13128.1
+> CP014843 ;   B14_04126 conjugative transposon protein TcpC ARC67089.1
+> CP010587 Bacillus megaterium Q3;   bin3 AS52_05437 Putative transposon Tn552 DNA-invertase bin3 AKP80335.1
+> CP012108 ;   AC241_30990 transposon DNA-invertase AKR13090.1
+> CP009680 ;   bin3 NG74_02672 Putative transposon Tn552 DNA-invertase bin3 AIU82726.1
+> CP012108 ;   AC241_31870 transposon DNA-invertase AKR13251.1
+> CP011146 ;   FORC13_p235 Putative transposon Tn552 DNA-invertase bin3 ALZ64720.1
+> CP015361 ;   bin3_6 BT246_70810 putative transposon Tn552 DNA-invertase bin3 ANS52371.1
+> CP015361 ;   bin3_4 BT246_68160 putative transposon Tn552 DNA-invertase bin3 ANS52107.1
+> CP015361 ;   bin3_5 BT246_68890 putative transposon Tn552 DNA-invertase bin3 ANS52180.1
+> CP015361 ;   bin3_2 BT246_67030 putative transposon Tn552 DNA-invertase bin3 ANS51995.1
+> CP015361 ;   bin3_3 BT246_67200 putative transposon Tn552 DNA-invertase bin3 ANS52012.1
+> CP015361 ;   bin3_1 BT246_66290 putative transposon Tn552 DNA-invertase bin3 ANS51921.1
+> CP015361 ;   bin3_7 BT246_71250 putative transposon Tn552 DNA-invertase bin3 ANS52415.1
+> CP020814 ;   bin3 BkAM31D_07410 Putative transposon Tn552 DNA-invertase bin3 ARK29703.1
+> LN680001 ;   BS34A_28760 YqaJ-like viral recombinase domain protein CEJ78276.1
+> LN649259 ;   BS49_28760 YqaJ-like viral recombinase domain protein CEI57854.1
+> CP014795 ;   BaDB11_03991 yqaJ-like viral recombinase domain protein ARC62554.1
+> CP014793 ;   B34_01274 yqaJ-like viral recombinase domain protein ARC68716.1
+> LN680001 ;   BS34A_28760 YqaJ-like viral recombinase domain protein CEJ78276.1
+> LN649259 ;   BS49_28760 YqaJ-like viral recombinase domain protein CEI57854.1
+> LN680001 ;   BS34A_28760 YqaJ-like viral recombinase domain protein CEJ78276.1
+> LN649259 ;   BS49_28760 YqaJ-like viral recombinase domain protein CEI57854.1
+> CP014795 ;   BaDB11_03991 yqaJ-like viral recombinase domain protein ARC62554.1
+> CP014793 ;   B34_01274 yqaJ-like viral recombinase domain protein ARC68716.1
+> CP014795 ;   BaDB11_03991 yqaJ-like viral recombinase domain protein ARC62554.1
+> CP014793 ;   B34_01274 yqaJ-like viral recombinase domain protein ARC68716.1
+> CP014793 ;   B34_03602 conjugative transposon protein TcpC ARC70967.1
+> CP011686 Bacillus velezensis;   ABH13_0489 conjugative transposon protein AKL75097.1
+> CP000560 ;   RBAM_036580 transposases lmo0828-like protein ABS75987.1
+> CP002207 ;   BATR1942_19730 transposases lmo0828-like protein ADP34861.1
+> CP000560 ;   RBAM_036580 transposases lmo0828-like protein ABS75987.1
+> CP002207 ;   BATR1942_19730 transposases lmo0828-like protein ADP34861.1
+> LN649259 ;   BS49_15710 Conjugative transposon protein TcpC CEI56575.1
+> AL009126 ;   yocA BSU19130 putative transposon-related lytic enzyme CAB13805.1
+> CP003329 ;   yocA BSU6051_19130 putative transposon-like lytic enzyme YocA AGG61297.1
+> CP004405 ;   I653_09895 putative transposon-related lytic enzyme AGI29228.1
+> CP005965 ;   yocA BaLi_c22820 putative transposon-like lytic enzyme YocA AGN36632.1
+> CP002207 ;   BATR1942_08235 putative transposon-related lytic enzyme ADP32582.1
+> CP002183 ;   yocA BSUW23_10245 putative transposon-related lytic enzyme ADM38089.1
+> CP002468 ;   BSn5_00895 putative transposon-related lytic enzyme ADV92813.1
+> FN597644 Bacillus amyloliquefaciens DSM 7;   yocA BAMF_1984 putative transposon-related lytic enzyme CBI43110.1
+> CP002927 ;   yocA BAXH7_01547 putative transposon-related lytic enzyme AEK88685.1
+> CP003492 ;   MY9_2093 transposon-related lytic enzyme AFI28627.1
+> AP012496 ;   yocA BEST7003_1950 transposon-related lytic enzyme BAM58151.1
+> CP007165 ;   AW02_019730 transposon-like lytic enzyme AKD30123.1
+> CP007173 ;   AW03_019430 transposon-like lytic enzyme AKD35322.1
+> LN999830 Bacillus velezensis;   yocA BAMMD1_1831 putative transposon-related lytic enzyme CUX93735.1
+> AP014928 ;   yocA BTUAT1_18550 transposon-related lytic enzyme BAT48989.1
+> CP011101 ;   BsLM_2031 transposon-related lytic enzyme AKE23829.1
+> CP007800 ;   yocA BSUA_02059 transposon-related lytic enzyme AIC40342.1
+> CP008698 ;   yocA BSUB_02059 transposon-related lytic enzyme AIC44574.1
+> CP004019 ;   yocA C663_1963 putative transposon-related lytic enzyme AGE63743.1
+> HF563562 Bacillus velezensis UCMB5036;   yocA BAM5036_1820 putative transposon-related lytic enzyme CCP21859.1
+> HG328253 Bacillus velezensis UCMB5033;   yocA RBAU_1857 putative transposon-related lytic enzyme CDG29825.1
+> HG328254 Bacillus velezensis UCMB5113;   yocA BASU_1838 putative transposon-related lytic enzyme CDG26131.1
+> CP003783 ;   yocA B657_19130 Putative transposon-related lytic enzyme AFQ57852.1
+> CP009603 ;   BF33_5578 conjugative transposon TcpC family protein AJK37509.1
+> LN680001 ;   BS34A_05670 Conjugative transposon protein TcpC CEJ76045.1
+> CP009689 ;   BG05_5714 conjugative transposon TcpC family protein AJH16837.1
+> CP003690 ;   MC28_C039 conjugative transposon protein AFU16987.1
+
+
+
+-------------------------------------UNSURE----------------------------------------------------------------------------

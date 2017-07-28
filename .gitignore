@@ -4,7 +4,11 @@
 *.fasta
 *.gbff
 *.prots
-
+*.gz
+*.nex
+*.nxs
+#exclude swp files
+*.swp
 #exclude blast dbs
 *.pin
 *.phr
@@ -20,5 +24,11 @@
 *.nsi
 #exclude blast results
 *.blast
-
-
+md5checksums.txt
+*allvsall*
+#exclude unusedcrep
+unusedCrap/*
+*ind_*
+*/familygeneextration/*
+1stattempeDIDNOTWORK/**/README.txt
+finishedsteps/1stattempeDIDNOTWORK/
