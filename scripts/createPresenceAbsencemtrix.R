@@ -19,7 +19,7 @@ path=toString(args[1]) #path to dir that contians list of files, each name is an
 
 file.names <- dir(path, pattern='.prots') #gets all file names (which are accession #s ) in path
 orgenes <- data.frame() 
-for (i in 1;length(file.names)){
+for (i in 1:length(file.names)){
     name <-toString(gsub(".prots$","",file.names[i])) #strips the .prots from the filename
     orgenes <- c(orgenes,assign(name,read.table(paste(path,toString(file.names[i]), sep=''), header=FALSE))) #creates a variable whose name is the acc# and which contains a list of all the protIDs for that acc#
 }  
@@ -33,7 +33,7 @@ load(args[2])
 
 #-------------------------Building Presence/Absence Matrix------------------
 
-presenceAbsence <- matrix(2,nrow=length(orgenes), ncol=length(gnamfam)
+presenceAbsnce <- matrix(2,nrow=length(orgenes), ncol=length(gnamfam))
 
 colnames(presenceAbsence) <- colnames(presenceAbsence, do.NULL=FALSE, prefix="genefam")
 
