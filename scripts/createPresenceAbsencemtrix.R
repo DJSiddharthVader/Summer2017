@@ -48,11 +48,11 @@ for (fam in 1:length(gnamfam)){
         for (gene in 1:length(orgenes[[org]])){
             i <- 0
             if (orgenes[[org]][gene] %in% gnamfam[[fam]]){
-                presenceAbsence[org][fam] <- 1
+                presenceAbsence[org,fam] <- 1
                 i <- i+1 
             }
             if (i == 0){
-                presenceAbsence[org][fam] <- 0
+                presenceAbsence[org,fam] <- 0
             }
         }
     }
