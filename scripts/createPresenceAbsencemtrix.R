@@ -45,15 +45,16 @@ rownames(presenceAbsence) <- rnams
 
 for (fam in 1:length(gnamfam)){
     for (org in 1:length(orgenes)){
+        i <- 0
         for (gene in 1:length(orgenes[[org]])){
-            i <- 0
-            if (orgenes[[org]][gene] %in% gnamfam[[fam]]){
-                presenceAbsence[org,fam] <- 1
+            if (as.character(orgenes[[org]][gene]) %in% gnamfam[[fam]]){
                 i <- i+1 
             }
-            if (i == 0){
-                presenceAbsence[org,fam] <- 0
-            }
+        }
+        if (i == 0) {
+            presenceAbsence[org,fam] <- 0   
+        } else {
+            presenceAbsence[org,fam] <- 1
         }
     }
 }
