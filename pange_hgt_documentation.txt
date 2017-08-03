@@ -167,10 +167,10 @@ Afterwards, the blast database can be made using:
                 -use_sw_tback
                  & (this is to make it run in the background)
 
-	Note: The num_threads argument was purposely left out due to segmentation faults and
- abrupt abortions on info113, info114 and info115. As a result, this was omitted entirely. 
+Note: The num_threads argument was purposely left out due to segmentation faults and
+abrupt abortions on info113, info114 and info115. As a result, this was omitted entirely. 
 Alternative methods could be attempting to use a lesser number of cores or splitting up the
- large .faa file and manually running them in parallel.
+large *.faa file and manually running them in parallel.
 
 5) Weeding Out blastp results - extract85.R
 
