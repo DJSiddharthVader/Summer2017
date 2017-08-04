@@ -1,18 +1,25 @@
-#reads in a .Rdata file containing a list of genefamiles
-#load('~/summer2017/gfcode.Rdata')
-
+# This code takes in a space delimited txt file of all thee genefamilies for a set of orgnaisms
+# and files with an accession number as the name and the contetns being all the protein IDs for that
+# organism. It then creates a presence absence matrix for each organim and genefamily
 #needs a list of each organism and all genes belonging to that organism
+#This can be made with getTaxaNamesandGenes.bash
 
-# command I used to format filtere blast table in vim was 
-#        /||[A-Za-z0-9\._\/=\-\,():\[\]+]\+|\(|[A-Za-z0-9\.]\+\t\)
-#        :%s//\t\1/g
+## command I used to format filtere blast table in vim was 
+##        /||[A-Za-z0-9\._\/=\-\,():\[\]+]\+|\(|[A-Za-z0-9\.]\+\t\)
+##        :%s//\t\1/g
 
 rm(list=ls()) #removes all objects in current R environment
 
 args=commandArgs(trailingOnly=TRUE)
-# args = [path to protein list, path to genefamilies.Rdata]
+# args = [path to dir with of protein list files, path to genefamilies.txt]
 # args[1] = '~/summer2017/bacillusProteinList'
-# args[2] = '~/summer2017/bacillusgfcode.Rdata'
+# args[2] = '~/summer2017/bacillusGeneFamilies.txt'
+
+
+
+
+
+
 
 #--------------------------Setting Up Col values (organisms)----------------
 path=toString(args[1]) #path to dir that contians list of files, each name is an accession # and thefile contains all the protein IDs associated with the organism
@@ -25,15 +32,33 @@ for (i in 1:length(file.names)){
 }  
 #---------------------------------------------------------------------------
 
+
+
+
+
 #--------------------------Setting Up Row Values (genefams)-----------------
-#all the hard work was done in the famcreator.R code, which create the genefamilies and is loaded into the session
-load(args[2])
+##all the hard work was done in the famcreator.R code, which create the gene families and is loaded into the session
+#load(args[2])
+
+famstxt <- read.table(args[2], header=FALSE, sep=' ', fill=TRUE) #read in gene families from txt file
+charfams <- sapply(famstxt[,3:ncol(famstxt)], as.character) #converts factors to strings
+listcharfam <- split(charfams, seq(nrow(charfams))) # converts dataframe to list of lists
+genefamilies<- vector("list", length(listcharfam)) # initializes empty list of lists
+for (gf in 1:length(listcharfam)){ 
+    tmp <- listcharfam[[gf]]
+    genefamilies[[gf]] <- tmp[tmp != ""] # filters out empty string from each family
+}
 
 #---------------------------------------------------------------------------
 
+
+
+
+
+
 #-------------------------Building Presence/Absence Matrix------------------
 
-presenceAbsnce <- matrix(2,nrow=length(orgenes), ncol=length(gnamfam)) #initializes a matrix full of 2's, if there is an error, will show up as 2, not 1 or 0 in final matrix
+presenceAbsnce <- matrix(2,nrow=length(orgenes), ncol=length(genefamilies)) #initializes a matrix full of 2's, if there is an error, will show up as 2, not 1 or 0 in final matrix
 
 colnames(presenceAbsence) <- colnames(presenceAbsence, do.NULL=FALSE, prefix="genefam") #set colum names too be genefam1, genefam2 etc. for readability
 
@@ -44,15 +69,15 @@ for (i in 1:length(file.names)){
 
 rownames(presenceAbsence) <- rnams # set the row names of the matrix to be the accession numbers of the orgnisms
 
-for (fam in 1:length(gnamfam)){ # for each gene family
+for (fam in 1:length(genefamilies)){ # for each gene family
     for (org in 1:length(orgenes)){ # for each organism
         numberOfMatches<- 0 # number of genes in organism that are also in gene family
         for (gene in 1:length(orgenes[[org]])){ # for each gene (protein ID) in the organism
-            if (as.character(orgenes[[org]][gene]) %in% gnamfam[[fam]]){ # if the gene is in the current family
+            if (as.character(orgenes[[org]][gene]) %in% genefamilies[[fam]]){ # if the gene is in the current family
                 numberOfMatches<- i+1 # increment
             }
         }
-        if (numberOfMatches== 0) { # if no genes are found in the current family
+        if (numberOfMatches == 0) { # if no genes are found in the current family
             presenceAbsence[org,fam] <- 0   
         } else { # if >1 genes are founf in the current family
             presenceAbsence[org,fam] <- 1
