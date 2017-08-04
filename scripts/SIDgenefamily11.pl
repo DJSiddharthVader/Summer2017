@@ -13,8 +13,7 @@ open(FILE,"<$ARGV[1]");
 while(<FILE>) {
     # File format from blastp is 
     #    0     1     2     3    4      5      6     7      8      9      10
-    # qseqid qlen qstart qend length sseqid slen qcovhsp score bitscore evalue 
-    #                        alignment
+    # qseqid qlen qstart qend length sseqid  slen  qcovs score bitscore evalue
     @read = split(/\t+/,$_);
     if(not exists($genefamily{$read[0]})) { 
         $newNumber = &getNewNumber;
