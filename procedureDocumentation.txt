@@ -51,33 +51,15 @@ large *.faa file and manually running them in parallel.
 
 5) Run Dr Golding's genefamily11.pl code.
     
-    genefamily11.pl {organism}allvsall_womobileelements_sfotmask_ws
+    genefamily11.pl {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt
 
 This will filter the results of the blast file for all queries >85% match, all
 queries/subjects that have a size ratio >0.85 and all reciprocoal hits. Then
-the gene families are created and spit to a space delimited txt file
+the gene families are created and spit to a space delimited txt file ({organism}GeneFamilies.txt).
 
-NOTE: Your patterns may vary, so make sure to check and verify.
 
-7) Forming Gene Families - genefamily11.R
-	
-	R --vanilla <genefamily11.R> genefamily11.out 	
-
-This step also requires the file called "listofallgenes.txt", which is a file consisting of
- accession number and their associated protein IDs in two separate columns. This file can be 
-obtained by running "ascension_protid.py" on the original gbff files, which uses regex to extract 
-the relavant information into the desired format.
-
-	for x in *.gbff; do ascension_protid.py $x; done >> listofallgenes.txt 
-
-This is where the gene families are finally formed and generated. The code runs and determines
-gene family by identifying genes which have reciprocal blast hits on each other. Note that
-if gene A hits gene B, and gene B hits gene C, then A, B and C are a family.
-
-Genes which have no hits are printed into genesforNR.txt and the image containing the lists 
-of lists of genes (i.e. the gene families) are saved into the session image "gfcode1.Rdata"
-
-8) Verifying Singleton Genes
+6) Verifying Singleton Genes
+    I) To extract 
 In order to verify that the single genes (i.e. gene families of one) are actually significant 
 and a "valid" gene, the list of proteins from  geneforNR.txt are rerun through blastp against
 the NR database.
@@ -99,5 +81,17 @@ the nr databases:
 	blastp -db /1/scratch/blastdb/nr -query proteinseqlist.txt -out [OUTPUT NAME] -evalue
 	0.05 -parse_deflines -outfmt '7 seqid qlen qstart qend length sseqid slen qcovs score
 	bitscore evalue stitle sallseqid salltitles' -soft_masking true -use_sw_tback &
+
+
+7) Run the createPresenceAbsencemtrix.R code using the genefamily.pl and
+getTaxaNames outputs, This will give the finished presence absence matrix.
+
+
+---------------------------Creating the Tree------------------------------------------------
+
+
+
+
+
 
 
