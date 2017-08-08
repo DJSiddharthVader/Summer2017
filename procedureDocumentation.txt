@@ -20,8 +20,9 @@ each sequence ters (only accnum:protID), see the file for more documentation.
 
 3) Make a blast database
 First, concatenate all the .faas into one file.
-	
-	cat *.faa > {# of files}{bacteria_name}.faa
+        
+        wc -l *.faa #give the # of total lines
+	cat *.faa > {# of total lines}{bacteria_name}.faa
 
 Using vim, remove all spaces and commas from the sequence IDs so that BLAST will be able to 
 recognize the format. NOTE: you might want to keep the original file with the spaces in it, 
@@ -36,7 +37,7 @@ Afterwards, the blast database can be made using:
 
 	blastp  -db {bacteria_name}DB 
                 -query {#}{bacteria_name}.faa 
-                -out {organism}allvsall_womobileelements_sfotmask_ws
+                -out {organism}allvsall_womobileelements_softmask_ws
                 -evalue 5e-2 
                 -outfmt '7 qseqid qlen qstart qend length sseqid slen qcovs score bitscore evalue' 
                 -soft_masking true 
@@ -50,13 +51,17 @@ large *.faa file and manually running them in parallel.
 
 
 5) Run Dr Golding's genefamily11.pl code.
-    
-    genefamily11.pl {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt
+
+############################################################################################
+BE VERY CAREFUL WHEN RUNNIG THIS CODE, MAKE A COPY OF THE BLAST FILE FIRST
+AND RUN THIS CODE ON THAT COPY, IF YOU PUT THE ARGUMENTS IN THE WRONG ORDER
+IT WILL DELETE THE CONTENTS OF YOU BLAST FILE.
+############################################################################################
+     sidwrapGeneFamily.bash {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt
 
 This will filter the results of the blast file for all queries >85% match, all
 queries/subjects that have a size ratio >0.85 and all reciprocoal hits. Then
 the gene families are created and spit to a space delimited txt file ({organism}GeneFamilies.txt).
-
 
 6) Verifying Singleton Genes
     I) To extract 
@@ -71,8 +76,7 @@ the NR database.
 	concatenated file generated from modified_get_features.pl (spaces shouldn't matter
 	but personally I did mine without spaces), and the second argument is the text file
 	that was just generated
-
-	matchingprotid.py seeks to pull out sequence ONLY if it contains the relevant protein
+	-matchingprotid.py seeks to pull out sequence ONLY if it contains the relevant protein
 	ID
 
 Transfer the new list of sequences to the scratch disk and run a blastp on it against 
