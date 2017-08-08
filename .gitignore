@@ -24,6 +24,7 @@
 *.nsi
 #exclude blast results
 *.blast
+*.test
 md5checksums.txt
 *allvsall*
 #exclude unusedcrep
