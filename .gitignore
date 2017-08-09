@@ -24,10 +24,18 @@
 *.nsi
 #exclude blast results
 *.blast
+*softmask*
 *.test
-md5checksums.txt
 *allvsall*
-#exclude unusedcrep
+#exclude stuff no longer needed, stuff that can be recreated 
+*CRISPR*.txt
+*md5checksums.txt
+README.txt
+*hashes.txt
+*report.txt
+*local*
+*.err
+index.html
 unusedCrap/*
 *ind_*
 */familygeneextration/*
