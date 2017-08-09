@@ -24,11 +24,6 @@ First, concatenate all the .faas into one file.
         wc -l *.faa #give the # of total lines
 	cat *.faa > {# of total lines}{bacteria_name}.faa
 
-Using vim, remove all spaces and commas from the sequence IDs so that BLAST will be able to 
-recognize the format. NOTE: you might want to keep the original file with the spaces in it, 
-as it may help with some regex in the latter parts, though I have written mine without the 
-need for it.
-Afterwards, the blast database can be made using:
 
 	makeblastdb -in {#}{bacteria_name}.faa -out {bacteria_name}DB -dbtype 
 	prot -parse_seqids 
@@ -50,42 +45,30 @@ Alternative methods could be attempting to use a lesser number of cores or split
 large *.faa file and manually running them in parallel.
 
 
-5) Run Dr Golding's genefamily11.pl code.
+5) Run Dr Golding's genefamily11.pl code, with the arguments as follows,
+blastfile, outputfile name, concatenated .faa file
 
 ############################################################################################
 BE VERY CAREFUL WHEN RUNNIG THIS CODE, MAKE A COPY OF THE BLAST FILE FIRST
 AND RUN THIS CODE ON THAT COPY, IF YOU PUT THE ARGUMENTS IN THE WRONG ORDER
 IT WILL DELETE THE CONTENTS OF YOU BLAST FILE.
 ############################################################################################
-     sidwrapGeneFamily.bash {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt
+    cp {organism}allvsall_womobileelements_sfotmask_ws cp{organism}allvsall_womobileelements_sfotmask_ws
+     sidwrapGeneFamily.bash {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt {# of total lines}{bacteria_name}.faa
 
 This will filter the results of the blast file for all queries >85% match, all
 queries/subjects that have a size ratio >0.85 and all reciprocoal hits. Then
-the gene families are created and spit to a space delimited txt file ({organism}GeneFamilies.txt).
+the gene families are created and spit to a space delimited txt file
+({organism}GeneFamilies.txt) as well as create a sepreate NRgenes file with
+all of the singleton families and their sequences (NRgenes.faa).
 
 6) Verifying Singleton Genes
-    I) To extract 
-In order to verify that the single genes (i.e. gene families of one) are actually significant 
-and a "valid" gene, the list of proteins from  geneforNR.txt are rerun through blastp against
-the NR database.
 
-	-Using vim, yank solely the protein IDs out from the generated list (this should be
-	 easily done using CTRL+V, or regex if you are comfortable with that). Write that to
-	 separate text file.
-	-Run matchingprotid.py. This function receives two arguments: the first being the 
-	concatenated file generated from modified_get_features.pl (spaces shouldn't matter
-	but personally I did mine without spaces), and the second argument is the text file
-	that was just generated
-	-matchingprotid.py seeks to pull out sequence ONLY if it contains the relevant protein
-	ID
-
-Transfer the new list of sequences to the scratch disk and run a blastp on it against 
-the nr databases:
+Copy the NRgenes.faa file to the scratch disk and run a blastp on it against the nr databases:
 
 	blastp -db /1/scratch/blastdb/nr -query proteinseqlist.txt -out [OUTPUT NAME] -evalue
-	0.05 -parse_deflines -outfmt '7 seqid qlen qstart qend length sseqid slen qcovs score
+	0.05 -parse_deflines -outfmt '7 qseqid qlen qstart qend length sseqid slen qcovs score
 	bitscore evalue stitle sallseqid salltitles' -soft_masking true -use_sw_tback &
-
 
 7) Run the createPresenceAbsencemtrix.R code using the genefamily.pl and
 getTaxaNames outputs, This will give the finished presence absence matrix.
