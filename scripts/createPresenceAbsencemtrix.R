@@ -11,7 +11,7 @@
 rm(list=ls()) #removes all objects in current R environment
 
 args=commandArgs(trailingOnly=TRUE)
-# args = [path to dir with of protein list files, path to genefamilies.txt]
+# args = [path to dir with of protein list files, path to genefamilies.txt, name of output R data file]
 # args[1] = '~/summer2017/bacillusProteinList'
 # args[2] = '~/summer2017/bacillusGeneFamilies.txt'
 
@@ -85,7 +85,7 @@ for (fam in 1:length(genefamilies)){ # for each gene family
     }
 }
 
-
+save.image(str(args[3]))
 
 
 
