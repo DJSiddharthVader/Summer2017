@@ -11,9 +11,10 @@
 rm(list=ls()) #removes all objects in current R environment
 
 args=commandArgs(trailingOnly=TRUE)
-# args = [path to dir with of protein list files, path to genefamilies.txt, name of output R data file]
+# args = [path to dir with of protein list files, path to genefamilies.txt, name of family of organisms being fed in]
 # args[1] = '~/summer2017/bacillusProteinList'
 # args[2] = '~/summer2017/bacillusGeneFamilies.txt'
+# args[2] = 'bacillus'
 
 
 
@@ -58,7 +59,7 @@ for (gf in 1:length(listcharfam)){
 
 #-------------------------Building Presence/Absence Matrix------------------
 
-presenceAbsnce <- matrix(2,nrow=length(orgenes), ncol=length(genefamilies)) #initializes a matrix full of 2's, if there is an error, will show up as 2, not 1 or 0 in final matrix
+presenceAbsence <- matrix(2,nrow=length(orgenes), ncol=length(genefamilies)) #initializes a matrix full of 2's, if there is an error, will show up as 2, not 1 or 0 in final matrix
 
 colnames(presenceAbsence) <- colnames(presenceAbsence, do.NULL=FALSE, prefix="genefam") #set colum names too be genefam1, genefam2 etc. for readability
 
@@ -85,7 +86,8 @@ for (fam in 1:length(genefamilies)){ # for each gene family
     }
 }
 
-save.image(str(args[3]))
+save.image(c(str(args[3]),"PAmatrix.RData"))
+write.table(presenceAbsence, file=c(str(args[3]),"PAmatrix.txt"), row.names=TRUE col.names=TRUE)
 
 
 
