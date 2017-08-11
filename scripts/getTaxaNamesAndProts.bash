@@ -18,7 +18,8 @@ do
         do
             if [ "$(echo $line | grep '^>')" != "" ]
             then
-                echo $line | rev | cut -d' ' -f1 | rev >> $acc'.prots'
+                outt="$acc:$(echo $line | rev | cut -d' ' -f1 | rev)"
+                echo $outt >> $acc'.prots'
             fi
         done <$file
     else
@@ -27,7 +28,8 @@ do
         do
             if [ "$(echo $line | grep '^>')" != "" ]
             then
-                echo $line | cut -d':' -f2 >> $acc'.prots'
+                outt="$acc:$(echo $line | cut -d':' -f2)"
+                echo $outt >> $acc'.prots' 
             fi
         done <$file
     fi
