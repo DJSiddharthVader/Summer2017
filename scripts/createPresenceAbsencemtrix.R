@@ -16,7 +16,9 @@ args=commandArgs(trailingOnly=TRUE)
 # args[2] = '~/summer2017/bacillusGeneFamilies.txt'
 # args[2] = 'bacillus'
 
-
+# *just in case, vim command to convert non terse protein name to terse form is 
+# %s/\(\s[A-Z0-9]{8}\)\@<=.\+\{-1,}\([A-Z0-9\.]\{10}\s\)\@=/:/g
+# %s/\(\s[A-Z0-9]{8}\)\@<=[^ ]\+\{-1,}\([A-Z0-9\.]\{10}$\)\@=/:/g
 
 
 
