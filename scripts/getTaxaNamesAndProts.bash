@@ -9,35 +9,49 @@
 #$1 is the directory which contains the fasta files you want to work on
 
 
-for file in $1/*.faa;
-do
-    if [ "$(head -1 $file | cut -d' ' -f1)" != "$(head -1 $file)" ]
-    then
-        acc=$(head -1 "$file" | cut -d' ' -f2)
-        while read line
-        do
-            if [ "$(echo $line | grep '^>')" != "" ]
-            then
-                outt="$acc:$(echo $line | rev | cut -d' ' -f1 | rev)"
-                echo $outt >> $acc'.prots'
-            fi
-        done <$file
-    else
-        acc=$(head -1 "$file" | cut -d':' -f1 | tr -d '>')
-        while read line
-        do
-            if [ "$(echo $line | grep '^>')" != "" ]
-            then
-                outt="$acc:$(echo $line | cut -d':' -f2)"
-                echo $outt >> $acc'.prots' 
-            fi
-        done <$file
-    fi
-done
+if [ "$(echo $1 | grep 'faa')" != "" ]
+then 
+    echo condition passes
+    while read line
+    do
+        if [ "$(echo $line | grep '^>')" != "" ]
+        then
+            acc=$(echo $line | cut -d':' -f1 | tr -d '>')
+            outt="$acc:$(echo $line | cut -d':' -f2)"
+            echo $outt >> $acc'.prots' 
+        fi
+    done <$1
+else
+    for file in $1/*.faa;
+    do
+        if [ "$(head -1 $file | cut -d' ' -f1)" != "$(head -1 $file)" ]
+        then
+            acc=$(head -1 "$file" | cut -d' ' -f2)
+            while read line
+            do
+                if [ "$(echo $line | grep '^>')" != "" ]
+                then
+                    outt="$acc:$(echo $line | rev | cut -d' ' -f1 | rev)"
+                    echo $outt >> $acc'.prots'
+                fi
+            done <$file
+        else
+            acc=$(head -1 "$file" | cut -d':' -f1 | tr -d '>')
+            while read line
+            do
+                if [ "$(echo $line | grep '^>')" != "" ]
+                then
+                    outt="$acc:$(echo $line | cut -d':' -f2)"
+                    echo $outt >> $acc'.prots' 
+                fi
+            done <$file
+        fi
+    done
+fi
 
-#    greped=$(grep '^>' $file)
-#    while read line
-#    do
-#        echo $line | rev | cut -d' ' -f1 | rev >> $acc'.prots'
-#    done <"$greped"
-#done
+
+
+
+
+
+
