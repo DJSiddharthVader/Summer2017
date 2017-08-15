@@ -92,4 +92,23 @@ save.image(c(str(args[3]),"PAmatrix.RData"))
 write.table(presenceAbsence, file=c(str(args[3]),"PAmatrix.txt"), row.names=TRUE col.names=TRUE)
 
 
+#----------------------------------------Extracting Families to Create Tree-----------------------------------------
 
+eqs <- function(x,y) if (x==y) x else FALSE #function for checking if two elemnts are equal
+cols <- list() #initializes empty list
+for (cl in 1:ncol(presenceAbsence)){ #for each family in the PA matrix (families are colums)
+    if (presenceAbsence[1,cl]==1){ # if the value of the matrix for the first row in that colum is 1
+        cols <- c(cols,ifelse(Reduce(eqs,presenceAbsence[,cl]),cl,FALSE)) # check if every other row is 1, if so append the colum number to cols
+    } else { # otherwise append FALSE
+        cols <- c(cols,FALSE)
+    }
+}
+
+treefamilies <- genefamilies[unlist(cols)] # gets all the families present in every organism
+treeMembers <- data.frame() # initalize empty df for the single members in the tree
+
+for (fam in 1:length(treefamilies)){ # for every family in treefamilies
+    treeMembers[fam,1] <- treefamilies[[fam]][1] # get the first protein in that family, put it in tree members
+}
+
+write.table(treefamilies, file=c(str(args[3]), "TreeMembers.txt"), row.names=FALSE, col.names=FALSE, quote=FALSE) #write all the treeMembers as a txt file
