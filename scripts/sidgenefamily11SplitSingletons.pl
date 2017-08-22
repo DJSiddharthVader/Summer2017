@@ -53,6 +53,7 @@ open(FILE3,">genesForNR.txt");
 foreach $value (sort {$a <=> $b} keys %revGenefamily) { # keys are now actually values
     if ($numberInFamily[$value] == 1) {
         print FILE3 "@{$revGenefamily{$value}}\n"; 
+        print FILE2 "$value $numberInFamily[$value] @{$revGenefamily{$value}}\n";
     } else {
         print FILE2 "$value $numberInFamily[$value] @{$revGenefamily{$value}}\n";
     }
