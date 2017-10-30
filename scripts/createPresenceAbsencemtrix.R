@@ -7,7 +7,7 @@
 ## command I used to format filtere blast table in vim was 
 ##        /||[A-Za-z0-9\._\/=\-\,():\[\]+]\+|\(|[A-Za-z0-9\.]\+\t\)
 ##        :%s//\t\1/g
-
+start <- Sys.time() #want to time how long it takes
 rm(list=ls()) #removes all objects in current R environment
 
 args=commandArgs(trailingOnly=TRUE)
@@ -22,43 +22,42 @@ args=commandArgs(trailingOnly=TRUE)
 
 
 
-
-
+colstart <- Sys.time()
 #--------------------------Setting Up Col values (organisms)----------------
 path=toString(args[1]) #path to dir that contians list of files, each name is an accession # and thefile contains all the protein IDs associated with the organism
 
 file.names <- dir(path, pattern='.prots') #gets all file names (which are accession #s ) in path
 orgenes <- data.frame() 
 for (i in 1:length(file.names)){
-    name <-toString(gsub(".prots$","",file.names[i])) #strips the .prots from the filename
+    name <-toString(gsub(".prots$","",file.names[i])) #as.characterips the .prots from the filename
     orgenes <- c(orgenes,assign(name,read.table(paste(path,toString(file.names[i]), sep=''), header=FALSE))) #creates a variable whose name is the acc# and which contains a list of all the protIDs for that acc#
 }  
 #---------------------------------------------------------------------------
+colend<- Sys.time()
 
 
 
-
-
+rowstart <- Sys.time()
 #--------------------------Setting Up Row Values (genefams)-----------------
 ##all the hard work was done in the famcreator.R code, which create the gene families and is loaded into the session
 #load(args[2])
 
 famstxt <- read.table(args[2], header=FALSE, sep=' ', fill=TRUE) #read in gene families from txt file
-charfams <- sapply(famstxt[,3:ncol(famstxt)], as.character) #converts factors to strings
+charfams <- sapply(famstxt[,3:ncol(famstxt)], as.character) #converts factors to as.characterings
 listcharfam <- split(charfams, seq(nrow(charfams))) # converts dataframe to list of lists
 genefamilies<- vector("list", length(listcharfam)) # initializes empty list of lists
 for (gf in 1:length(listcharfam)){ 
     tmp <- listcharfam[[gf]]
-    genefamilies[[gf]] <- tmp[tmp != ""] # filters out empty string from each family
+    genefamilies[[gf]] <- tmp[tmp != ""] # filters out empty as.character string from each family
 }
-
 #---------------------------------------------------------------------------
+rowend<- Sys.time()
 
 
 
 
 
-
+buildMstart <- Sys.time()
 #-------------------------Building Presence/Absence Matrix------------------
 
 presenceAbsence <- matrix(2,nrow=length(orgenes), ncol=length(genefamilies)) #initializes a matrix full of 2's, if there is an error, will show up as 2, not 1 or 0 in final matrix
@@ -88,11 +87,13 @@ for (fam in 1:length(genefamilies)){ # for each gene family
     }
 }
 
-save.image(c(str(args[3]),"PAmatrix.RData"))
-write.table(presenceAbsence, file=c(str(args[3]),"PAmatrix.txt"), row.names=TRUE col.names=TRUE)
+save.image(c(toString(args[3])),"PAmatrix.RData")
+write.table(presenceAbsence, file=c(as.character(args[3]),"PAmatrix.txt"), row.names=TRUE col.names=TRUE)
+#----------------------------------------------------------------------------------------
+buildMend <- Sys.time()
 
-
-#----------------------------------------Extracting Families to Create Tree-----------------------------------------
+treestart <- Sys.time()
+#------------Extracting Families to Create Tree-----------------------------------------
 
 eqs <- function(x,y) if (x==y) x else FALSE #function for checking if two elemnts are equal
 cols <- list() #initializes empty list
@@ -111,4 +112,18 @@ for (fam in 1:length(treefamilies)){ # for every family in treefamilies
     treeMembers[fam,1] <- treefamilies[[fam]][1] # get the first protein in that family, put it in tree members
 }
 
-write.table(treefamilies, file=c(str(args[3]), "TreeMembers.txt"), row.names=FALSE, col.names=FALSE, quote=FALSE) #write all the treeMembers as a txt file
+write.table(treefamilies, file=c(as.character(args[3]), "TreeMembers.txt"), row.names=FALSE, col.names=FALSE, quote=FALSE) #write all the treeMembers as a txt file
+#----------------------------------------------------------------------------------------
+treeend <- Sys.time()
+print("# of rows:")
+print
+print("time to set up cols:")
+print(colend-colstart)
+print("time to set up row:")
+print(rowend-rowstart)
+print("time to build matrix:")
+print(buildMend-buildMend)
+print("time to get tree families:")
+print(treeend-treestart)
+print("total run time:")
+print(Sys.time()-start)
