@@ -34,6 +34,8 @@ for (i in 1:length(file.names)){
 }  
 #---------------------------------------------------------------------------
 colend<- Sys.time()
+print("time to set up cols:")
+print(colend-colstart)
 
 
 
@@ -52,6 +54,8 @@ for (gf in 1:length(listcharfam)){
 }
 #---------------------------------------------------------------------------
 rowend<- Sys.time()
+print("time to set up row:")
+print(rowend-rowstart)
 
 
 
@@ -87,10 +91,18 @@ for (fam in 1:length(genefamilies)){ # for each gene family
     }
 }
 
-save.image(c(toString(args[3])),"PAmatrix.RData")
-write.table(presenceAbsence, file=c(as.character(args[3]),"PAmatrix.txt"), row.names=TRUE col.names=TRUE)
+save.image(file=paste0(as.character(args[3]),"PAmatrix.RData"))
+write.table(presenceAbsence, file=paste0(as.character(args[3]),"PAmatrix.txt"), row.names=TRUE, col.names=TRUE)
 #----------------------------------------------------------------------------------------
 buildMend <- Sys.time()
+print("time to build matrix:")
+print(buildMend-buildMstart)
+
+
+
+
+
+
 
 treestart <- Sys.time()
 #------------Extracting Families to Create Tree-----------------------------------------
@@ -112,18 +124,15 @@ for (fam in 1:length(treefamilies)){ # for every family in treefamilies
     treeMembers[fam,1] <- treefamilies[[fam]][1] # get the first protein in that family, put it in tree members
 }
 
-write.table(treefamilies, file=c(as.character(args[3]), "TreeMembers.txt"), row.names=FALSE, col.names=FALSE, quote=FALSE) #write all the treeMembers as a txt file
+write.table(treeMembers, file=paste0(as.character(args[3]), "TreeMembers.txt"), row.names=FALSE, col.names=FALSE, quote=FALSE) #write all the treeMembers as a txt file
 #----------------------------------------------------------------------------------------
 treeend <- Sys.time()
-print("# of rows:")
-print
-print("time to set up cols:")
-print(colend-colstart)
-print("time to set up row:")
-print(rowend-rowstart)
-print("time to build matrix:")
-print(buildMend-buildMend)
+print("# of families:")
+print(length(genefamilies))
+print("# of organisms")
+print(length(orgenes))
 print("time to get tree families:")
 print(treeend-treestart)
 print("total run time:")
-print(Sys.time()-start)
+end <- Sys.time()
+print(end-start)
