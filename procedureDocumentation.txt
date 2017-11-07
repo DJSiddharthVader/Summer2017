@@ -24,7 +24,6 @@ First, concatenate all the .faas into one file.
         wc -l *.faa #give the # of total lines
 	cat *.faa > {# of total lines}{bacteria_name}.faa
 
-
 	makeblastdb -in {#}{bacteria_name}.faa -out {bacteria_name}DB -dbtype 
 	prot -parse_seqids 
 
@@ -53,8 +52,9 @@ BE VERY CAREFUL WHEN RUNNIG THIS CODE, MAKE A COPY OF THE BLAST FILE FIRST
 AND RUN THIS CODE ON THAT COPY, IF YOU PUT THE ARGUMENTS IN THE WRONG ORDER
 IT WILL DELETE THE CONTENTS OF YOU BLAST FILE.
 ############################################################################################
-    cp {organism}allvsall_womobileelements_sfotmask_ws cp{organism}allvsall_womobileelements_sfotmask_ws
-     sidwrapGeneFamily.bash {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt {# of total lines}{bacteria_name}.faa
+    cp {organism}allvsall_womobileelements_sfotmask_ws cp{organism}.blast
+
+    sidwrapGeneFamily.bash {organism}allvsall_womobileelements_sfotmask_ws {organism}GeneFamilies.txt {# of total lines}{bacteria_name}.faa
 
 This will filter the results of the blast file for all queries >85% match, all
 queries/subjects that have a size ratio >0.85 and all reciprocoal hits. Then
@@ -71,7 +71,8 @@ Copy the NRgenes.faa file to the scratch disk and run a blastp on it against the
 	bitscore evalue stitle sallseqid salltitles' -soft_masking true -use_sw_tback &
 
 7) Run the createPresenceAbsencemtrix.R code using the genefamily.pl and
-getTaxaNames outputs, This will give the finished presence absence matrix.
+getTaxaNames outputs, This will give the finished presence absence matrix. as
+well as a list of proteinID to be used to create a Tree
 
 
 ---------------------------Creating the Tree------------------------------------------------
