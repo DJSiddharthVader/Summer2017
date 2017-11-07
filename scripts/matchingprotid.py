@@ -21,7 +21,7 @@ for i in range(len(seq)-2):
     if any(pid in seq[i] for pid in protids):
         for j in range(i,len(seq)-2):
             if re.match(compil_match, seq[j+1]) == None:
-                print(seq[j], end="") # all lines in the sequence except for last one
+                print(seq[j], end = "") # all lines in the sequence except for last one
             else:
                 print(seq[j], end="") # last line of sequence
                 break
