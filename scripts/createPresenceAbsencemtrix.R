@@ -22,7 +22,7 @@ args=commandArgs(trailingOnly=TRUE)
 
 
 
-colstart <- Sys.time()
+#colstart <- Sys.time()
 #--------------------------Setting Up Col values (organisms)----------------
 path=toString(args[1]) #path to dir that contians list of files, each name is an accession # and thefile contains all the protein IDs associated with the organism
 
@@ -33,13 +33,13 @@ for (i in 1:length(file.names)){
     orgenes <- c(orgenes,assign(name,read.table(paste(path,toString(file.names[i]), sep=''), header=FALSE))) #creates a variable whose name is the acc# and which contains a list of all the protIDs for that acc#
 }  
 #---------------------------------------------------------------------------
-colend<- Sys.time()
-print("time to set up cols:")
-print(colend-colstart)
+#colend<- Sys.time()
+#print("time to set up cols:")
+#print(colend-colstart)
 
 
 
-rowstart <- Sys.time()
+#rowstart <- Sys.time()
 #--------------------------Setting Up Row Values (genefams)-----------------
 ##all the hard work was done in the famcreator.R code, which create the gene families and is loaded into the session
 #load(args[2])
@@ -53,15 +53,15 @@ for (gf in 1:length(listcharfam)){
     genefamilies[[gf]] <- tmp[tmp != ""] # filters out empty as.character string from each family
 }
 #---------------------------------------------------------------------------
-rowend<- Sys.time()
-print("time to set up row:")
-print(rowend-rowstart)
+#rowend<- Sys.time()
+#print("time to set up row:")
+#print(rowend-rowstart)
 
 
 
 
 
-buildMstart <- Sys.time()
+#buildMstart <- Sys.time()
 #-------------------------Building Presence/Absence Matrix------------------
 
 presenceAbsence <- matrix(2,nrow=length(orgenes), ncol=length(genefamilies)) #initializes a matrix full of 2's, if there is an error, will show up as 2, not 1 or 0 in final matrix
@@ -94,9 +94,9 @@ for (fam in 1:length(genefamilies)){ # for each gene family
 save.image(file=paste0(as.character(args[3]),"PAmatrix.RData"))
 write.table(presenceAbsence, file=paste0(as.character(args[3]),"PAmatrix.txt"), row.names=TRUE, col.names=TRUE)
 #----------------------------------------------------------------------------------------
-buildMend <- Sys.time()
-print("time to build matrix:")
-print(buildMend-buildMstart)
+#buildMend <- Sys.time()
+#print("time to build matrix:")
+#print(buildMend-buildMstart)
 
 
 
@@ -127,12 +127,12 @@ print(buildMend-buildMstart)
 #write.table(treeMembers, file=paste0(as.character(args[3]), "TreeMembers.txt"), row.names=FALSE, col.names=FALSE, quote=FALSE) #write all the treeMembers as a txt file
 ##----------------------------------------------------------------------------------------
 #treeend <- Sys.time()
-print("# of families:")
-print(length(genefamilies))
-print("# of organisms")
-print(length(orgenes))
+#print("# of families:")
+#print(length(genefamilies))
+#print("# of organisms")
+#print(length(orgenes))
 #print("time to get tree families:")
-#print(treeend-treestart)
-print("total run time:")
-end <- Sys.time()
-print(end-start)
+##print(treeend-treestart)
+#print("total run time:")
+#end <- Sys.time()
+#print(end-start)
